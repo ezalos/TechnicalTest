@@ -1,10 +1,8 @@
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
 
 class Attributs:
 	def __init__(self):
 		self.mydict={}
-	def add_elem(self, key, value)
+	def add_elem(self, key, value):
 		self.mydict[key] = value
 
 class Possessions:

@@ -1,17 +1,16 @@
+#Imposed structure
 class Attributs:
 	def __init__(self):
 		self.mydict={}
-	def add_elem(self, key, value, type_value):
-		self.mydict[key] = [value, type_value]
+	def add_elem(self, key, value, datatype):
+		self.mydict[key] = [value, datatype]
 
 class Possessions:
 	def __init__(self):
-		self.mydict={}
 		pass
 
 class Evenements:
 	def __init__(self):
-		self.mydict={}
 		pass
 
 class Ville:

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "16.21",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "74281",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Thonon-les-Bains.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.thononlesbains.com/",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Thonon-les-Bains  en idioma franc\u00e9s, Tonon en francoprovenzal, es una comuna y poblaci\u00f3n de Francia, en la regi\u00f3n de R\u00f3dano-Alpes, departamento de Alta Saboya. Es la subprefectura del distrito de su nombre. Es cabecera de los cantones de Thonon-les-Bains Este y Thonon-les-Bains Oeste. Su poblaci\u00f3n municipal en 2007 era de 31 562 habitantes (12 364 en Thonon-les-Bains Este y 19 198 en Thonon-les-Bains Oeste). La aglomeraci\u00f3n urbana \u2013que incluye un total de 12 comunas: Thonon-les-Bains, \u00c9vian-les-Bains, Publier, Sciez, Allinges, Neuvecelle, Lugrin, Anthy-sur-L\u00e9man, Margencel, Marin, Maxilly-sur-L\u00e9man y Excenevex- ten\u00eda una poblaci\u00f3n de 66 252 habitantes. No est\u00e1 integrada en ninguna Communaut\u00e9 de communes u organismo similar.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/200505-Thonon_Hotel_de_Ville.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        724356807,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1046591,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "34661",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "74200",
+        null
+    ],
+    "latitude": [
+        46.3627,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.475,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        16210000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Haute-Savoie",
+        null
+    ],
+    "maximumElevation": [
+        569,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        371,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Thonon-les-Bains",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Thonon Est and Thonon Ouest",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        425,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "5.43",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94022",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Choisy-le-Roi 94.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://maps.google.fr/maps?f=q&hl=fr&q=choisy+le+roi&ie=UTF8&t=k&om=0&z=15&ll=48.766778,2.414412&spn=0.019122,0.053558",
+        null
+    ],
+    "caption": [
+        "The town hall of Choisy-le-Roi",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Choisy-le-Roi \u00e8 un comune francese di 39.743 abitanti situato nel dipartimento della Valle della Marna nella regione dell'\u00cele-de-France.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_Choisy-le-Roi.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744823958,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        472370,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "37486",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94600",
+        null
+    ],
+    "latitude": [
+        48.763,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.409,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        5430000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Val-de-Marne",
+        null
+    ],
+    "maximumElevation": [
+        49,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        31,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Daniel Davisse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        40,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

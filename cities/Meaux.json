@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "14.95",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "77284",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Meaux .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://uk2.multimap.com/map/browse.cgi?lat=53.8446&lon=-0.3296&scale=25000&icon=x&title=Meaux+Abbey",
+        null
+    ],
+    "caption": [
+        "Fa\u00e7ade of the Meaux city hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Meaux [mo] (lateinisch seit der Sp\u00e4tantike Meldis, klassisch-lateinisch Iantinum) ist eine franz\u00f6sische Gemeinde mit 53.766 Einwohnern (Stand 1. Januar 2013) im D\u00e9partement Seine-et-Marne in der Region \u00cele-de-France. Sie ist der Hauptort des gleichnamigen Arrondissement und Hauptort der beiden Kantone Meaux-Nord und Meaux-Sud. Ihre Einwohner werden Meldois genannt.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Meaux_(Seine-et-Marne).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737897399,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        921911,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "51398",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "77284",
+        null
+    ],
+    "latitude": [
+        48.9603,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.8883,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        14950000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Seine-et-Marne",
+        null
+    ],
+    "maximumElevation": [
+        107,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        39,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Meaux",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

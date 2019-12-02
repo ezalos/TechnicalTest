@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "17.33",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "58194",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason comte fr Nevers.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Bourgogne-Franche-Comt\u00e9",
+        null
+    ],
+    "term": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-nevers.fr/",
+        null
+    ],
+    "caption": [
+        "Place de la R\u00e9publique in Nevers",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Nevers \u00e9 uma comuna francesa na regi\u00e3o administrativa da Borgonha, no departamento Ni\u00e8vre. Nevers fica a 260 km ao sul-sudeste de Paris.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Place_de_la_repulique_nevers.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745110272,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        266483,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "35327",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "58000",
+        null
+    ],
+    "latitude": [
+        46.9933,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.1572,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        17330000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Ni\u00e8vre",
+        null
+    ],
+    "maximumElevation": [
+        238,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        167,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Nevers",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Nevers",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Florent Sainte-Fare-Garnot",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        180,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

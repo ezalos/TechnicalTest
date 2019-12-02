@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "23.16",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "30007",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Ales .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Languedoc-Roussillon",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.regordane.info",
+        null
+    ],
+    "caption": [
+        "http://dbpedia.org/resource/Al\u00e8s_Cathedral",
+        null
+    ],
+    "abstract": [
+        "Al\u00e8s \u00e8 un comune francese di 42.852 abitanti situato nel dipartimento del Gard nella regione della Linguadoca-Rossiglione-Midi-Pirenei, sede di sottoprefettura.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Cath\u00e9drale_d'al\u00e8s.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        740406522,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        521553,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "41031",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "30100",
+        null
+    ],
+    "latitude": [
+        44.1281,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.0817,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        23160000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Gard",
+        null
+    ],
+    "maximumElevation": [
+        356,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        116,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Al\u00e8s",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        3,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        "Grand Al\u00e8s en C\u00e9vennes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Max Roustan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        150,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

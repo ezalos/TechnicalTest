@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "20.83",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "31149",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Colomiers .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Colomiers is a commune in the Haute-Garonne department in southwestern France. It is the largest suburb of the city of Toulouse, and is adjacent to it on the west side. It is a member of the Urban community of Greater Toulouse.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_Colomiers.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742264378,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5146081,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "33200",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "31770",
+        null
+    ],
+    "latitude": [
+        43.6139,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.3367,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        20830000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Haute-Garonne",
+        null
+    ],
+    "maximumElevation": [
+        191,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        145,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Toulouse-13",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Greater Toulouse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Bernard Sicard",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        160,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

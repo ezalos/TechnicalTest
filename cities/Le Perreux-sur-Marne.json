@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "3.96",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94058",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Le Perreux-sur-Marne .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.leperreux94.fr/",
+        null
+    ],
+    "caption": [
+        "The railway bridge in Nogent-sur-Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Le Perreux-sur-Marne ist eine franz\u00f6sische Gemeinde mit 33.480 Einwohnern (Stand 1. Januar 2013) im D\u00e9partement Val-de-Marne in der Region \u00cele-de-France; sie geh\u00f6rt zum Arrondissement Nogent-sur-Marne und ist Verwaltungssitz des Kantons Le Perreux-sur-Marne. Le Perreux-sur-Marne liegt im Pariser Becken zwischen Fontenay-sous-Bois im Nordwesten, Neuilly-sur-Marne im Nordosten, Bry-sur-Marne im Osten und Champigny-sur-Marne im S\u00fcden, am Ufer der Marne. Bis zum Ende des 19. Jahrhunderts geh\u00f6rte Le Perreux noch zur Stadt Nogent-sur-Marne, die an der westlichen Gemeindegrenze liegt.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Viaduc_ferroviaire_de_Nogent-sur-Marne_03.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737468218,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3596117,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "32389",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94170",
+        null
+    ],
+    "latitude": [
+        48.8422,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.5036,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        3960000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Gilles Carrez",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        33,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

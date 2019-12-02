@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "46.81",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "26198",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Mont\u00e9limar .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.montelimar.fr/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "\u041c\u043e\u043d\u0442\u0435\u043b\u0438\u043c\u0430\u0301\u0440 (\u0444\u0440. Mont\u00e9limar, \u043e\u043a\u0441. Montelaimar) \u2014 \u0433\u043e\u0440\u043e\u0434 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mont\u00e9limar_vue_sud-ouest.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737375120,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1013648,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "35704",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "26200",
+        null
+    ],
+    "latitude": [
+        44.5581,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.7508,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        46810000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Dr\u00f4me",
+        null
+    ],
+    "maximumElevation": [
+        213,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        56,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Nyons",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "and Mont\u00e9limar-2",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Mont\u00e9limar-S\u00e9same",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Franck Reynier",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        81,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

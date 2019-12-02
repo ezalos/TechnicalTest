@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "137.19",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "97307",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "A view of the port of Larivot in Matoury",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Matoury \u00e9 uma comuna francesa do departamento de ultramar da Guiana Francesa. Sua popula\u00e7\u00e3o em 2007 era de 1 958 habitantes. Com R\u00e9mire-Montjoly, esta cidade \u00e9 o sub\u00farbio e uma \u00e1rea residencial de atividade de Caiena. \u00c9 no territ\u00f3rio deste concelho que se localiza o Aeroporto Internacional de Rochambeau e Porto do Larivot.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Larivot.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737910772,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        6423792,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "29712",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97351",
+        null
+    ],
+    "latitude": [
+        4.8472,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -52.3311,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        137190000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        234,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Centre Littoral",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

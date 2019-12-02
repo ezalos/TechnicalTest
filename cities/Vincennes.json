@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "1.91",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94080",
+        null
+    ],
+    "imageCoatOfArms": [
+        "COA fr Vincennes.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The city hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Vincennes (French pronunciation: \u200b[v\u025b\u0303s\u025bn]) is a commune in the Val-de-Marne department in the eastern suburbs of Paris, France. It is located 6.7 km (4.2 mi) from the centre of Paris. It is one of the most densely populated municipalities in Europe.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel_de_ville_daumesnil.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737467107,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        427199,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "49695",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94300",
+        null
+    ],
+    "latitude": [
+        48.8478,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4392,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        1910000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Nogent-sur-Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

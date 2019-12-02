@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "8.56",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "91027",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Athis-Mons .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2005,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos91027.html",
+        null
+    ],
+    "caption": [
+        "An aerial view of Athis-Mons",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Athis-Mons \u00e8 un comune francese di 31.098 abitanti situato nel dipartimento dell'Essonne nella regione dell'\u00cele-de-France. \u00c8 il comune risultante dalla fusione di due comuni, Athis-sur-Orge e Mons-sur-Orge, avvenuta nel 1817. Ad Athis-sur-Orge fu firmata nel 1305 la pace tra francesi e fiamminghi, che pose fine alla guerra di Fiandra.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Athis-Mons_-_Vue_aerienne_01.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737696126,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        450607,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "30858",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "91200",
+        null
+    ],
+    "latitude": [
+        48.7074,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3889,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        8560000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        92,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        32,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Palaiseau",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Portes de l'Essonne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Christine Rodier",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        81,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

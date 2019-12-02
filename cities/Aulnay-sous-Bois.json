@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "16.2",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93005",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason_Aulnay-sous-Bois_93.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u5967\u5948\u53e2\u6797\uff08Aulnay-sous-Bois \uff0c\u6cd5\u8bed\u53d1\u97f3\uff1a[\u0254ln\u025bsubwa])\uff09\u662f\u4f4d\u65bc\u6cd5\u570b\u5df4\u9ece\u6771\u5317\u90e8\u90ca\u5340\u7684\u4e00\u5ea7\u57ce\u5e02\u3002\u8ddd\u96e2\u5df4\u9ece\u5e02\u4e2d\u5fc3\u670913.9\u516c\u91cc\u3002\u57282005\u5e7410\u6708\u548c11\u6708\u7684\u6cd5\u570b\u9a37\u4e82\u671f\u9593\uff0c\u9019\u5ea7\u57ce\u5e02\u662f\u9a37\u4e82\u56b4\u91cd\u5730\u5340\u4e4b\u4e00\uff0c\u5f15\u8d77\u4e86\u570b\u969b\u793e\u6703\u7684\u95dc\u6ce8\u3002\u8a72\u5e02\u6709\u76f4\u901a\u5f80\u5df4\u9ece\u7684\u9435\u8def\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_Aulnay-sous-Bois.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738228072,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        473662,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "82634",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93600",
+        null
+    ],
+    "latitude": [
+        48.9386,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4906,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        16200000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Seine-Saint-Denis",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Le Raincy",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Aulnay-sous-Bois",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Paris Terres d'Envol",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Bruno Beschizza",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        32,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

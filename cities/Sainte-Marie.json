@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        null,
+        null
+    ],
+    "inseeCode": [
+        null,
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        null,
+        null
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        null,
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "\u30b5\u30f3\u30c8\uff1d\u30de\u30ea\u30fc\uff08Sainte-Marie\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u8a9e\u3067\u306e\u8056\u6bcd\u30de\u30ea\u30a2\u306e\u547c\u79f0\u3002\u5730\u540d\u3084\u6559\u4f1a\u540d\u306b\u591a\u304f\u898b\u3089\u308c\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        null,
+        null
+    ],
+    "wikiPageRevisionID": [
+        709669317,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        998994,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        null,
+        null
+    ],
+    "populationTotal": [
+        null,
+        null
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        null,
+        null
+    ],
+    "longitude": [
+        null,
+        null
+    ],
+    "area": [
+        null,
+        null
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "26.05",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "51108",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Chalons-en-Champagne.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        1999,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Champagne-Ardenne",
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.cnac.fr",
+        null
+    ],
+    "caption": [
+        "City Hall of Ch\u00e2lons-en-Champagne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u0428\u0430\u043b\u043e\u043d-\u0430\u043d-\u0428\u0430\u043c\u043f\u0430\u043d\u044c (\u0444\u0440. Ch\u00e2lons-en-Champagne, \u0431\u044b\u0432\u0448. \u0428\u0430\u043b\u043e\u043d-\u043d\u0430-\u041c\u0430\u0440\u043d\u0435 \u0444\u0440. Ch\u00e2lons-sur-Marne; \u043b\u0430\u0442. Durocatalaunum) \u2014 \u0433\u043e\u0440\u043e\u0434 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u043d\u0430 \u0441\u0435\u0432\u0435\u0440\u043e-\u0432\u043e\u0441\u0442\u043e\u043a\u0435 \u0424\u0440\u0430\u043d\u0446\u0438\u0438, \u043d\u0430 \u0440\u0435\u043a\u0435 \u041c\u0430\u0440\u043d\u0430, \u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 (\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440) \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u041c\u0430\u0440\u043d\u0430. \u041d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u2014 47 339 \u0447\u0435\u043b\u043e\u0432\u0435\u043a (1999). \u041f\u043e\u0441\u043b\u0435 \u0412\u0435\u043b\u0438\u043a\u043e\u0439 \u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u0439 \u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u0438 \u0433\u043e\u0440\u043e\u0434 \u0431\u044b\u043b \u043f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d \u0432 \u0428\u0430\u043b\u043e\u043d-\u043d\u0430-\u041c\u0430\u0440\u043d\u0435, \u043d\u043e \u0432 1998 \u0433. \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0432\u0435\u0440\u043d\u0443\u043b \u0441\u0432\u043e\u0451 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435. \u0428\u0430\u043b\u043e\u043d \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u0442\u043e\u043b\u0438\u0446\u0435\u0439 \u0440\u0435\u0433\u0438\u043e\u043d\u0430 \u0428\u0430\u043c\u043f\u0430\u043d\u044c \u2014 \u0410\u0440\u0434\u0435\u043d\u043d\u044b, \u0445\u043e\u0442\u044f \u043e\u043d \u0432 \u0447\u0435\u0442\u044b\u0440\u0435 \u0440\u0430\u0437\u0430 \u043c\u0435\u043d\u044c\u0448\u0435 \u0420\u0435\u0439\u043c\u0441\u0430 \u0438 \u0443\u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u043f\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044e \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u0442\u043e\u043b\u0438\u0446\u0435 \u0428\u0430\u043c\u043f\u0430\u043d\u0438, \u0433\u043e\u0440\u043e\u0434\u0443 \u0422\u0440\u0443\u0430.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/H\u00f4tel_de_ville_de_Ch\u00e2lons-en-Champagne_(Marne).JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739032498,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        99185,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "47339",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "51000",
+        null
+    ],
+    "latitude": [
+        48.9575,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.365,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        26050000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Marne",
+        null
+    ],
+    "maximumElevation": [
+        84,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        82,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Ch\u00e2lons-en-Champagne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Ch\u00e2lons-en-Champagne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Bruno Bourg-Broc",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        83,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

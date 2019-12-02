@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "53.1",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "60159",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.lesnotesbleues.fr/",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Compi\u00e8gne is een stad in Frankrijk, gelegen op 80 kilometer ten noordoosten van Parijs, op het punt waar de rivieren de Aisne en de Oise bij elkaar komen. Compi\u00e8gne ligt in het departement Oise en is daarvan een onderprefectuur. Het is bekend door een kasteel, en door het uitgestrekte bos \u201cFor\u00eat de Compi\u00e8gne\u201d. In de gemeente ligt spoorwegstation Compi\u00e8gne.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/H\u00f4tel_de_ville_de_Compi\u00e8gne.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738502178,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        293967,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "40028",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "60200",
+        null
+    ],
+    "latitude": [
+        49.4149,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.8231,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        53100000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Oise",
+        null
+    ],
+    "maximumElevation": [
+        134,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        31,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Compi\u00e8gne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "R\u00e9gion de Compi\u00e8gne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        41,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

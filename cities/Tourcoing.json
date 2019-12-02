@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "15.19",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "59599",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Tourcoing .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Nord-Pas_de_Calais",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/fr/methodes/nomenclatures/cog/fichecommunale.asp?codedep=59&codecom=599",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Tourcoing \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie Nord-Pas-de-Calais-Pikardia, w departamencie Nord. Wed\u0142ug danych na rok 1990 gmin\u0119 zamieszkiwa\u0142o 93 765 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 6173 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1549 gmin regionu Nord-Pas-de-Calais Tourcoing plasuje si\u0119 na 3. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 126.).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Tourcoing_hotel_ville_3-4.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739744581,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        291682,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "92707",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "59200",
+        null
+    ],
+    "latitude": [
+        50.7323,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.104,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        15190000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Nord_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Gerald Darmanin",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        67,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

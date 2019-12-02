@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "4.17",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92026",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Courbevoie 92.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Courbevoie \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie \u00cele-de-France, w departamencie Hauts-de-Seine. Przez miejscowo\u015b\u0107 przep\u0142ywa Sekwana. Wed\u0142ug danych na rok 2012 gmin\u0119 zamieszkiwa\u0142o 86 854 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 20 828 os\u00f3b/km\u00b2. W\u015br\u00f3d 1287 gmin regionu \u00cele-de-France Courbevoie plasuje si\u0119 na 741. miejscu pod wzgl\u0119dem powierzchni. W Courbevoie urodzi\u0142 si\u0119 w 1914 roku Louis de Fun\u00e8s.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Courbevoie_map.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743148943,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1130364,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "87469",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92400",
+        null
+    ],
+    "latitude": [
+        48.8978,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2531,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        4170000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        56,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        25,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

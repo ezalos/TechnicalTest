@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "13.64",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "77373",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Pontault-Combault .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mairie-pontault-clt.fr",
+        null
+    ],
+    "caption": [
+        "The town hall of Pontault-Combault",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Pontault-Combault est une commune fran\u00e7aise situ\u00e9e dans le d\u00e9partement de Seine-et-Marne en r\u00e9gion \u00cele-de-France, \u00e0 23 km \u00e0 l'est de Paris. Pontault-Combault est la quatri\u00e8me ville la plus peupl\u00e9e du d\u00e9partement apr\u00e8s Chelles, Meaux et Melun.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel_de_ville_de_Pontault-Combault.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741023274,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3581914,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "37847",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "77340",
+        null
+    ],
+    "latitude": [
+        48.80136,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.60752,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        13640000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        113,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        87,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Torcy",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Pontault-Combault",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Paris - Vall\u00e9e de la Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Monique Delessard",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

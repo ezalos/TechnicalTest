@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        null,
+        null
+    ],
+    "inseeCode": [
+        null,
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        null,
+        null
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        null,
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "\u30ca\u30f3\u30b7\u30fc(\u82f1\u8a9e: Nancy)\u306f\u82f1\u8a9e\u570f\u306e\u5973\u6027\u540d\u3002\u30a2\u30f3\uff08Ann\uff09, \u30a2\u30f3\u30ca\uff08Anna\uff09, \u30a2\u30f3\u30cc\uff08Anne\uff09\u306e\u611b\u79f0\u3068\u3057\u3066\u7528\u3044\u3089\u308c\u308b\u3002\u4ed6\u306b\u3001\u30d5\u30e9\u30f3\u30b9\u306e\u5730\u540d\u306b\u3082\u3042\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        null,
+        null
+    ],
+    "wikiPageRevisionID": [
+        743599004,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2701883,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        null,
+        null
+    ],
+    "populationTotal": [
+        null,
+        null
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        null,
+        null
+    ],
+    "longitude": [
+        null,
+        null
+    ],
+    "area": [
+        null,
+        null
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

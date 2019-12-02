@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "3.19",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92062",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Puteaux .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2004,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mairie-puteaux.fr/",
+        null
+    ],
+    "caption": [
+        "The town hall  built by Jean Niermans",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30d4\u30e5\u30c8\u30fc(Puteaux)\u306f\u30d5\u30e9\u30f3\u30b9\u4e2d\u592e\u90e8\u3001\u30a4\u30eb\u30fb\u30c9\u30fb\u30d5\u30e9\u30f3\u30b9\u5730\u57df\u570f\u30aa\u30fc\uff1d\u30c9\uff1d\u30bb\u30fc\u30cc\u770c\u306e\u90fd\u5e02\u3067\u3042\u308b\u3002\u90fd\u5e02\u518d\u958b\u767a\u5730\u533a\u306e\u30e9\u30fb\u30c7\u30d5\u30a1\u30f3\u30b9\u304c\u3042\u308b\u3002 1961\u5e74\u306e\u30ab\u30f3\u30cc\u56fd\u969b\u6620\u753b\u796d\u3067\u30d1\u30eb\u30e0\u30fb\u30c9\u30fc\u30eb\u3092\u53d7\u8cde\u3057\u305f\u30a2\u30f3\u30ea\u30fb\u30b3\u30eb\u30d4(Henri Colpi)\u76e3\u7763\u306e\u300c\u304b\u304f\u3082\u9577\u304d\u4e0d\u5728\u300d(Une aussi longue absence)\u306e\u821e\u53f0\u3068\u306a\u3063\u305f\u3002\u307e\u305f\u300120\u4e16\u7d00\u524d\u534a\u306b\u30ad\u30e5\u30d3\u30b9\u30e0\u3092\u5fd7\u5411\u3057\u305f\u82b8\u8853\u5bb6\u306e\u30b0\u30eb\u30fc\u30d7\u3001\u30d4\u30e5\u30c8\u30fc\u30fb\u30b0\u30eb\u30fc\u30d7\uff08\u30d4\u30e5\u30c8\u30fc\u6d3e\u3001Puteaux Group\uff09\u304c\u96c6\u3046\u5834\u6240\u3067\u3082\u3042\u3063\u305f\u3002 \u30b0\u30e9\u30f3\u30c0\u30eb\u30b7\u30e5\u306a\u3069\u3001\u30e9\u30fb\u30c7\u30d5\u30a1\u30f3\u30b9\u5730\u533a\u306e\u4e2d\u5fc3\u90e8\u3092\u542b\u3080\u3002\u3000",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Puteaux_map.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737655471,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1130386,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "44753",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92800",
+        null
+    ],
+    "latitude": [
+        48.885,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2389,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        3190000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        78,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        29,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Courbevoie-2",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

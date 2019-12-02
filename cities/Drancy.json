@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "7.76",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93029",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason_Drancy_93.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.drancy.net/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Drancy is een gemeente in het Franse departement Seine-Saint-Denis (regio \u00cele-de-France) en telt 64500 inwoners (2004). De oppervlakte bedraagt 7,76 km\u00b2, de bevolkingsdichtheid is 8023 inwoners per km\u00b2. De inwoners zijn Dranc\u00e9ens. De naam Drancy komt van het middeleeuws Latijn Derenciacum, voordien Terentiacum of \"huis van Terentius\", een Gallo-Romeins landbezitter. Tijdens de Tweede Wereldoorlog was in Drancy een concentratie- en doorgangskamp gevestigd. Vanuit kamp Drancy werden circa 65.000 Joden gedeporteerd.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Drancy_multiview_2.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737927367,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        504296,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "68241",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93700",
+        null
+    ],
+    "latitude": [
+        48.93,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.45,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        7760000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Seine-Saint-Denis",
+        null
+    ],
+    "maximumElevation": [
+        54,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        39,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Bobigny",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Paris Terres d'Envol",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

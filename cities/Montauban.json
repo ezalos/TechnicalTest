@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "135.17",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "82121",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Montauban .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Montauban in mid-August 2013",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Montauban (Occitaans: Montalban; Nederlands, verouderd: Montelbaan) is een stad en een gemeente in het Franse departement Tarn-et-Garonne (regio Midi-Pyr\u00e9n\u00e9es) en telt 56.536 inwoners (2011). De plaats maakt deel uit van het arrondissement Montauban.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Montauban_-_le_Pont_Vieux.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738383387,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        20541,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "57921",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "82000",
+        null
+    ],
+    "latitude": [
+        44.0181,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.3558,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        135170000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        207,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        72,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Pays de Montauban et des Trois Rivi\u00e8res",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        87,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

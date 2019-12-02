@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "118.35",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "97408",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville DomFr La Possession .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/R\u00e9union",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://clg-texeiradamotta.ac-reunion.fr/",
+        null
+    ],
+    "caption": [
+        "An aerial view over La Possession and Le Port",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "La Possession \u00e8 un comune francese di 30.594 abitanti situato nel dipartimento d'oltre mare di R\u00e9union.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Reunion-LaPossession-LePort.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        714660558,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5367878,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "30911",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97419",
+        null
+    ],
+    "latitude": [
+        -20.9264,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        55.3358,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        118350000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/R\u00e9union",
+        null
+    ],
+    "maximumElevation": [
+        2940,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "La Possession",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Territoire de la C\u00f4te Ouest",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        17,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

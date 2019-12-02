@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        null,
+        null
+    ],
+    "inseeCode": [
+        null,
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        null,
+        null
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        null,
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "\u30ec\u30f3\u30ba \n* \u30ec\u30f3\u30ba (lens) - \u5149\u3092\u5c48\u6298\u3055\u305b\u3066\u767a\u6563\u307e\u305f\u306f\u96c6\u675f\u3055\u305b\u308b\u305f\u3081\u306e\u5149\u5b66\u7d20\u5b50\u3002 \n* LENS - 2004\u5e74\u306b\u516c\u6f14\u3055\u308c\u305f\u6f14\u5287\u4f5c\u54c1\u3002 __DISAMBIG__",
+        null
+    ],
+    "thumbnail": [
+        null,
+        null
+    ],
+    "wikiPageRevisionID": [
+        745108732,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        23772190,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        null,
+        null
+    ],
+    "populationTotal": [
+        null,
+        null
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        null,
+        null
+    ],
+    "longitude": [
+        null,
+        null
+    ],
+    "area": [
+        null,
+        null
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

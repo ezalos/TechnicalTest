@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "13.28",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "78498",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Poissy01.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-poissy.fr/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "\u041f\u0443\u0430\u0441\u0441\u0438 (\u0444\u0440. Poissy) \u2014 \u0433\u043e\u0440\u043e\u0434 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u043c \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0435 \u0418\u0432\u0435\u043b\u0438\u043d, \u043e\u043a\u0440\u0443\u0433 \u0421\u0435\u043d-\u0416\u0435\u0440\u043c\u0435\u043d-\u0430\u043d-\u041b\u0435, \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u043a\u0430\u043d\u0442\u043e\u043d\u043e\u0432 \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0438 \u042e\u0436\u043d\u044b\u0439 \u041f\u0443\u0430\u0441\u0441\u0438.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_Poissy01.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744236908,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        605099,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "36230",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "78300",
+        null
+    ],
+    "latitude": [
+        48.9294,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.0456,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        13280000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Yvelines",
+        null
+    ],
+    "maximumElevation": [
+        171,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        17,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Saint-Germain-en-Laye",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Poissy-Nord & Poissy-Sud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Karl Olive",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        27,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

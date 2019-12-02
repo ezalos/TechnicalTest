@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "54.9",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "13005",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de la ville d'Aubagne .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&typgeo=COM&codgeo=13005",
+        null
+    ],
+    "caption": [
+        "Aubagne city centre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u6b27\u5df4\u6d85\uff08\u6cd5\u8bed\uff1aAubagne\uff09\u662f\u6cd5\u56fd\u666e\u7f57\u65fa\u65af-\u963f\u5c14\u5351\u65af-\u84dd\u8272\u6d77\u5cb8\u5927\u533a\u7f57\u8bb7\u6cb3\u53e3\u7701\u7684\u4e00\u4e2a\u5c0f\u9547\uff0c\u8ddd\u79bb\u5927\u533a\u9996\u5e9c\u9a6c\u8d5b\u7ea617\u516c\u91cc\uff0c\u4eba\u53e342,900\uff082005\u5e74\uff09\u3002 \u6b27\u5df4\u6d85\u662f\u6cd5\u56fd\u5916\u7c4d\u519b\u56e2\u7684\u603b\u90e8\u6240\u5728\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Aubagne_city_center.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        730854613,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        691696,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "46423",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "13400",
+        null
+    ],
+    "latitude": [
+        43.2908,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.5708,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        54900000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        701,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        74,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Aubagne-Est and Aubagne-Ouest",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Pays d'Aubagne et de l'Etoile",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "G\u00e9rard Gazay",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        101,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

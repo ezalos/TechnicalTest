@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "13.47",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "78621",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Trappes .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://wayback.archive.org/*/http:/www.trappes-en-yvelines.com/",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Trappes - miejscowo\u015b\u0107 i gmina we Francji, w regionie \u00cele-de-France, w departamencie Yvelines. Wed\u0142ug danych na rok 1990 gmin\u0119 zamieszkiwa\u0142o 30 878 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 2292 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1287 gmin regionu \u00cele-de-France Trappes plasuje si\u0119 na 75. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 215.). W Trappes urodzi\u0142 si\u0119 aktor Omar Sy.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Trappes_Mairie.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737499132,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3116098,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "29817",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "78190",
+        null
+    ],
+    "latitude": [
+        48.7775,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.0025,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        13470000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Yvelines",
+        null
+    ],
+    "maximumElevation": [
+        174,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        143,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Versailles",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Guy Malandain",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

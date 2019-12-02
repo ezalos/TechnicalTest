@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "40.41",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "21231",
+        null
+    ],
+    "imageCoatOfArms": [
+        "blason ville fr Dijon .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2015,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://openlibrary.org/books/OL24872324M/Northern_France",
+        null
+    ],
+    "caption": [
+        "Top: Dijon City Hall, Bottom: Saint Benigne Cathedral, Statue of Jean-Philippe Rameau, Statue of Francois Rude, Saint Michel Church",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Dijon (prononcer [di.\u0292\u0254\u0303]) est une commune fran\u00e7aise situ\u00e9e entre le bassin parisien et le bassin rhodanien, \u00e0 310 kilom\u00e8tres au sud-est de Paris et 190 kilom\u00e8tres au nord de Lyon. C'est la pr\u00e9fecture du d\u00e9partement de la C\u00f4te-d'Or et le chef-lieu de la r\u00e9gion Bourgogne-Franche-Comt\u00e9. Elle est \u00e9galement l'ancienne capitale des ducs de Bourgogne. Ses habitants sont appel\u00e9s les Dijonnais. Dijon est actuellement la commune la plus peupl\u00e9e du d\u00e9partement de la C\u00f4te-d'Or et de la Bourgogne-Franche-Comt\u00e9. En 2012, la population de Dijon intra-muros est de 152 071 habitants. La ville est, en 2012, la 17e commune la plus peupl\u00e9e de France. La communaut\u00e9 d'agglom\u00e9ration dijonnaise, fond\u00e9e en 2000 et nomm\u00e9e le \u00ab Grand Dijon \u00bb, compte 245 697 habitants en 2011. L'unit\u00e9 urbaine de Dijon, compte 239 955 habitants en 2013 et l'aire urbaine dijonnaise, 25e de France entre Metz et Valenciennes, comptait quant \u00e0 elle 375 841 habitants en 2011. Capitale du duch\u00e9 de Bourgogne aux XIVe et XVe si\u00e8cles, ville aux cent clochers sous l'Ancien R\u00e9gime, h\u00e9riti\u00e8re d'un riche patrimoine historique et architectural, Dijon est une cit\u00e9 touristique dont l'attrait est renforc\u00e9 par la r\u00e9putation gastronomique de la r\u00e9gion. C'est aussi une ville verte au secteur tertiaire important, capitale de r\u00e9gion dans les domaines scolaire, universitaire, judiciaire, hospitalier et administratif, qui assurent une tradition intellectuelle. Dijon est \u00e9galement un centre \u00e9conomique r\u00e9gional au tissu diversifi\u00e9 mais plut\u00f4t en crise avec un p\u00f4le agro-alimentaire traditionnel (moutarde de Dijon, cr\u00e8me de cassis de Dijon et kir, pain d'\u00e9pices, chocolat Lanvin\u2026) et un secteur pharmaceutique r\u00e9put\u00e9. Ville de congr\u00e8s, la capitale de la Bourgogne est situ\u00e9e sur l'axe Paris-Lyon-M\u00e9diterran\u00e9e et sur la ligne ferroviaire \u00e0 grande vitesse Rhin-Rh\u00f4ne. Elle est d'ailleurs, en termes d\u00e9mographiques, le principal p\u00f4le fran\u00e7ais de la M\u00e9tropole Rhin-Rh\u00f4ne qui s'\u00e9tend de B\u00e2le au Creusot. Le centre historique de la ville est la seconde composante des climats du vignoble de Bourgogne, inscrits depuis le 4 juillet 2015 au patrimoine mondial de l'UNESCO.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Dijon_-_montage.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        740077808,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        99187,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "152071",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "21000",
+        null
+    ],
+    "latitude": [
+        47.2906,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.0428,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        40410000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/C\u00f4te-d'Or",
+        null
+    ],
+    "maximumElevation": [
+        410,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        220,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Dijon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Dijon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        245,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

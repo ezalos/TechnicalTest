@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.3",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94017",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Champigny-sur-Marne 94.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://dbrb.free.fr",
+        null
+    ],
+    "caption": [
+        "City hall, Champigny-sur-Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u0428\u0430\u043c\u043f\u0438\u043d\u044c\u0438-\u0441\u044e\u0440-\u041c\u0430\u0440\u043d (\u0444\u0440. Champigny-sur-Marne) \u2014 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438, \u044e\u0433\u043e-\u0432\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043f\u0440\u0438\u0433\u043e\u0440\u043e\u0434 \u041f\u0430\u0440\u0438\u0436\u0430.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/H\u00f4tel_de_ville_de_Champigny.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738227604,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        536812,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "75556",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94500",
+        null
+    ],
+    "latitude": [
+        48.8172,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.5156,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11300000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Nogent-sur-Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Dominique Adenot",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "42.67",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "63113",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr ClermontFerrand .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://archive.joan-of-arc.org/joanofarc_letter_Nov_7_1429.html",
+        null
+    ],
+    "caption": [
+        "The Cath\u00e9drale Notre-Dame-de-l'Assomption of Clermont, The tramway Translohr; The Statue of Vercing\u00e9torix",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Clermont-Ferrand (Occitaans: Clarmont-Ferrand, Clarmont, Clarmont d'Auv\u00e8rnhe of Clarmont d'Auv\u00e8rnha) is de hoofdstad van de voormalige Franse regio Auvergne en de belangrijkste stad in en tevens hoofdplaats van het departement Puy-de-D\u00f4me. Het inwonertal bedraagt 141.569 (2012) . Er zijn zo\u2019n 31.000 studenten. De beroepsbevolking bevindt zich voornamelijk in de financi\u00eble en administratieve sector en de logistiek. Clermont-Ferrand is de oorspronkelijke vestigingsplaats van Michelin, waar zo\u2019n 14.000 mensen emplooi vinden. De kathedraal van Clermont-Ferrand en veel huizen in het oude centrum hebben een zwarte kleur, omdat ze zijn gebouwd van lavastenen.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_ClermontFerrand_(PuyDome).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744603306,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        83240,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "141569",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "63000-63100",
+        null
+    ],
+    "latitude": [
+        45.7831,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.0824,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        42670000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        602,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        321,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Clermont-Ferrand",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        358,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

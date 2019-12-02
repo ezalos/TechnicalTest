@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "240.62",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "13055",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Armoiries de Marseille.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        "Jan. 2012",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Provence-Alpes-C\u00f4te_d'Azur",
+        null
+    ],
+    "term": [
+        "since 1995",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.marseille.fr/sitevdm/jsp/site/Portal.jsp?page_id=687",
+        null
+    ],
+    "caption": [
+        "Clockwise from top: Notre-Dame de la Garde \u2022 Old Port \u2022 La Joliette with CMA CGM Tower \u2022 Calanque of Sugiton",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Marsylia (fr. Marseille, w\u0142. Marsiglia, prow. Marselha lub Marsiho) \u2013 miasto w po\u0142udniowej Francji, nad Morzem \u015ar\u00f3dziemnym, drugie co do wielko\u015bci w kraju i trzeci zesp\u00f3\u0142 miejski. Po\u0142o\u017cona jest w regionie Prowansja-Alpy-Lazurowe Wybrze\u017ce, w departamencie Delta Rodanu, kt\u00f3rego jest stolic\u0105. Za\u0142o\u017cona przez Grek\u00f3w z Fokai ok. roku 600 p.n.e. jako \u039c\u03b1\u03c3\u03c3\u03b1\u03bb\u03af\u03b1 (Massalia). W Marsylii dzia\u0142a polski konsulat honorowy.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/MarseillePaysage.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744979014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        40888948,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "852516",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "13001-13016",
+        null
+    ],
+    "latitude": [
+        43.2964,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.37,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        240620000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Bouches-du-Rh\u00f4ne",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

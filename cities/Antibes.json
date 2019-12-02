@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "26.48",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "06004",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Armoirie ville fr Antibes.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "October 2006 view of Antibes by the Mediterranean",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30a2\u30f3\u30c6\u30a3\u30fc\u30d6\uff08\u4ecf\u8a9e\uff1aAntibes,\u53e4\u4ee3\u30ae\u30ea\u30b7\u30a2\u8a9e\uff1aAntipolis\uff09\u306f\u30d5\u30e9\u30f3\u30b9\u5357\u90e8\u30a2\u30eb\u30d7\uff1d\u30de\u30ea\u30c6\u30a3\u30fc\u30e0\u770c\u306b\u3042\u308b\u30b3\u30df\u30e5\u30fc\u30f3\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Antibesbordmer.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744779297,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        230124,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "75568",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "06600",
+        null
+    ],
+    "latitude": [
+        43.5808,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        7.1239,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        26480000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        163,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jean Leonetti",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        9,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

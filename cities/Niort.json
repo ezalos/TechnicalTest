@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "68.2",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "79191",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Niort .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://foirexpo.vivre-a-niort.com",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Niort (pronounced: [nj\u0254\u0281]; Latin: Novioritum) is a commune in the Deux-S\u00e8vres department in western France. The population of Niort is 60,486 and more than 137,000 people live in the urban area. Near Niort at Maisonnay there is one of the tallest radio masts in France (height: 330 metres).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Niort_(Deux-S\u00e8vres).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743362755,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        528230,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "60486",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "79000",
+        null
+    ],
+    "latitude": [
+        46.3258,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -0.4606,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        68200000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Deux-S\u00e8vres",
+        null
+    ],
+    "maximumElevation": [
+        77,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Niort",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Chi",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Niort",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "J\u00e9r\u00f4me Baloge",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        28,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "81.25",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "97101",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Guadeloupe",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "https://web.archive.org/web/20071124142010/http:/www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The Main Square in Les Abymes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Les Abymes - miasto na wschodzie Gwadelupy (departamencie zamorskim Francji); w zespole miejskim Pointe-\u00e0-Pitre; 62 tys. mieszka\u0144c\u00f3w (2006). Najwi\u0119ksze miasto kraju. O\u015brodek handlowy (trzcina cukrowa; przemys\u0142 cukrowniczy. Miejsce narodzin francuskiej sprinterki Christine Arron.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Place_principale_aux_Abymes.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        740610492,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5360632,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "58644",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97139 and 97142",
+        null
+    ],
+    "latitude": [
+        16.27,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -61.52,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        81250000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Guadeloupe",
+        null
+    ],
+    "maximumElevation": [
+        120,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Les Abymes 1 through 5",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Cap Excellence",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "\u00c9ric Jalton",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "8.83",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "85194",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Les Sables-d'Olonne .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2004,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.lessables.eu/",
+        null
+    ],
+    "caption": [
+        "Les Sables-d'Olonne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Les Sables-d'Olonne \u2014 miasto i gmina we Francji, w regionie Kraj Loary, departamencie Wandea, okr\u0119gu Les Sables-d'Olonne oraz kantonie Les Sables-d'Olonne. Miejscowo\u015b\u0107 turystyczna i wypoczynkowa, po\u0142o\u017cona bezpo\u015brednio nad Oceanem Atlantyckim, g\u0142\u00f3wne centrum tzw. \u015awietlistego Wybrze\u017ca (C\u00f4te de Lumi\u00e8re). Wa\u017cny port morski (oceaniczny) oraz jachtowy, znacz\u0105cy o\u015brodek rybo\u0142\u00f3wstwa (port rybacki). Start i meta regat dooko\u0142a Ziemi bez zawijania do portu Vend\u00e9e Globe (w Port Olona). Od 1 stycznia 1994 wraz z Olonne-sur-Mer i Ch\u00e2teau-d'Olonne tworzy Zwi\u0105zek Gmin Olo\u0144skich (Communaut\u00e9 de communes des Olonnes \u2013 CCO). Z uwagi na fakt, \u017ce te trzy miejscowo\u015bci bezpo\u015brednio ze sob\u0105 granicz\u0105, CCO stanowi swoiste tr\u00f3jmiasto o \u0142\u0105cznej powierzchni 85,66 km\u00b2, zamieszkane w 2013 przez 42 145 os\u00f3b.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Les_Sables-d'Olonne_(Vend\u00e9e).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        730713009,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1123907,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "16105",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "85100",
+        null
+    ],
+    "latitude": [
+        46.4972,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -1.7833,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        8830000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Vend\u00e9e",
+        null
+    ],
+    "maximumElevation": [
+        26,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Les Sables-d'Olonne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Les Sables-d'Olonne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Olonnes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Louis Gu\u00e9don",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "22.66",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "59009",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Villeneuve-d'Ascq .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Nord-Pas-de-Calais",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/fr/methodes/nomenclatures/cog/fichecommunale.asp?codedep=59&codecom=009",
+        null
+    ],
+    "caption": [
+        "http://dbpedia.org/resource/Ch\u00e2teau_de_Flers",
+        null
+    ],
+    "abstract": [
+        "Villeneuve-d'Ascq is een gemeente in Noord-Frankrijk, in het Noorderdepartement in de regio Nord-Pas-de-Calais-Picardie. De stad behoort tot de voorstedenring van Rijsel, ligt nabij de grens met Belgi\u00eb, en ca. 200 km noordelijk van Parijs. Villeneuve-d'Ascq is een zogenaamde ville nouvelle en telt ongeveer 65.000 inwoners. Als onderdeel van de agglomeratie van Rijsel, is de gemeente lid van de Europese metropool van Rijsel met ruim 1 miljoen inwoners. De gemeente is in 1970 ontstaan door de samenvoeging van de gemeenten Ascq (Nederlands: Ast), Annappes en Flers (Nederlands: Laar) en maakt deel uit van het kanton Villeneuve-d'Ascq. Villeneuve-d'Ascq is verbonden met Rijsel door lijn 1 van de metro van Rijsel. Een aantal campussen van de Universiteit van Rijsel (campussen: Rijsel I en III) zijn gevestigd in Villeneuve-d'Ascq, evenals een aantal wetenschappelijke onderzoeksinstituten. Op 1 april 1944 werden, na een mislukte sabotageactie door het Franse verzet, 86 burgers van Ascq door de Duitse bezetters opgepakt en gefusilleerd.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Jielbeaumadier_chateau_flers_neige_vda_20101221_1.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739744601,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        539619,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "63572",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "59491, 59493, 59650",
+        null
+    ],
+    "latitude": [
+        50.6233,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.145,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        22660000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Nord_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        46,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        19,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Lille M\u00e9tropole",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

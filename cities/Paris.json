@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "105.4",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "75056",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Insigne Lutetiae.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        "January 2013",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.paris.fr/portail/english/Portal.lut?page_id=8118",
+        null
+    ],
+    "caption": [
+        "Clockwise from top: skyline of Paris on the River Seine with the Eiffel Tower, Notre Dame de Paris, Pyramid of the Louvre, and the Arc de Triomphe",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Parigi (AFI: [pa\u02c8ri\u02a4i]; in francese Paris, pronuncia /pa\u02c8\u0281i/; con riferimento alla citt\u00e0 antica Lutezia, in francese Lut\u00e8ce /ly\u02c8t\u025bs/, dal latino Lutetia Parisiorum) \u00e8 la capitale e la citt\u00e0 pi\u00f9 popolata della Francia, capoluogo della regione dell'\u00cele-de-France e l'unico comune a essere nello stesso tempo dipartimento, secondo la riforma del 1977 e i dettami della legge PML, che espansero i vecchi confini comunali. Con una popolazione di 2 229 621 abitanti \u00e8, dopo Londra, Berlino, Madrid e Roma, il quinto comune pi\u00f9 popoloso dell'Unione europea e, in considerazione della superficie comunale, possiede una delle pi\u00f9 alte densit\u00e0 abitative del mondo. Tuttavia, l'estensione urbana della capitale francese \u00e8 ben pi\u00f9 ampia del suo territorio comunale: la sua area metropolitana, detta anche \"Grande Parigi\" (in francese Grand Paris), conta infatti una popolazione di circa 12 milioni di persone ed \u00e8 la seconda dell'Unione europea dopo Londra. Dal 1\u00ba gennaio 2016 \u00e8 nata la M\u00e9tropole du Grand Paris, un'intercomunalit\u00e0 a fiscalit\u00e0 propria che raggruppa la citt\u00e0 di Parigi con 131 comuni confinanti. La superficie della nuova Metropoli si estende per 814 km\u00b2 e la popolazione \u00e8 di circa 7 milioni di persone. Con oltre 28 milioni di turisti l'anno, Parigi \u00e8 la citt\u00e0 pi\u00f9 visitata al mondo, e secondo la rivista The Economist (2010), anche la pi\u00f9 cara. Ereditando la storia di un impero coloniale estesosi su cinque continenti, Parigi \u00e8 considerata come il centro del mondo francofono e ha mantenuto una posizione internazionale di grande rilievo, sia come influente metropoli mondiale, sia come centro culturale, politico ed economico di indiscusso prestigio. Ospita, tra gli altri, il quartier generale dell'OECD e dell'UNESCO. Secondo stime effettuate dalla CNN, nel 2009 Parigi era sede di 27 delle aziende \"Fortune global 500\" (seconda citt\u00e0 al mondo) davanti Pechino, New York e Londra. La presenza in citt\u00e0 di una delle pi\u00f9 importanti borse internazionali e le sue numerose attivit\u00e0 affaristiche, politiche e turistiche, fanno di Parigi uno dei principali \"hub\" del mondo. La citt\u00e0 si trova su un'ansa della Senna, posizione molto favorevole poich\u00e9 fondamentale snodo di trasporti e traffici del continente europeo. In effetti, la posizione di Parigi al centro dei principali itinerari commerciali terrestri e fluviali le permise di diventare una delle citt\u00e0 pi\u00f9 influenti della Francia a partire dal X secolo, con la costruzione dei palazzi reali, di ricche abbazie e della celebre cattedrale di Notre-Dame. Lungo tutto il corso della propria storia, Parigi ha saputo influenzare in modo determinante la politica, la cultura, lo stile di vita e l'economia dell'intero mondo occidentale. Nel XIII secolo diede grande impulso alla rinascita delle arti e del sapere grazie alla presenza della prestigiosa Universit\u00e0 della Sorbona nel Quartiere latino; nel XIV secolo divenne una delle pi\u00f9 importanti citt\u00e0 del mondo cristiano. Nell'Et\u00e0 moderna la sua influenza continu\u00f2 a crescere in tutti i sensi: nella seconda met\u00e0 del XVII secolo fu la capitale della pi\u00f9 grande potenza militare del continente, nel Settecento divenne il cenacolo europeo della cultura e dei \"lumi\", per poi avviarsi nell'Ottocento a divenire la citt\u00e0 dell'arte, dei piaceri e del divertimento. Scrigno contenente numerosi monumenti dall'incalcolabile valore storico e artistico, Parigi rappresenta il simbolo stesso della cultura francese e del suo prestigio nel mondo. I turisti spesso le attribuiscono il qualificativo di \"pi\u00f9 romantica citt\u00e0 del globo\", titolo derivato dal periodo del Secondo Impero durante il quale Parigi fu profondamente trasformata dal barone Haussmann, guidato dall'imperatore Napoleone III che voleva fare della capitale francese la pi\u00f9 bella citt\u00e0 d'Europa. Quella di Parigi fu infatti una delle pi\u00f9 grandi e pi\u00f9 criticate (visto lo sventramento del cuore storico della citt\u00e0) rivoluzioni urbanistiche nella storia dell'umanit\u00e0.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Paris.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744874666,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        22989,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "2229621",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "75001-75020, 75116",
+        null
+    ],
+    "latitude": [
+        48.8567,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3508,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        105400000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

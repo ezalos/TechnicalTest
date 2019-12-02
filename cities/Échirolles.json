@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "8.0",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "38151",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Echirolles.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/fr/bases-de-donnees/esl/comparateur.asp?codgeo=com-38151",
+        null
+    ],
+    "caption": [
+        "\u00c9chirolles town hall with Eug\u00e8ne Delacroix's Liberty Leading the People reproduced on its fa\u00e7ade",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u00c9chirolles est une commune fran\u00e7aise situ\u00e9e dans le d\u00e9partement de l'Is\u00e8re, en r\u00e9gion Auvergne-Rh\u00f4ne-Alpes. Elle compte 35 995 habitants au 1er janvier 2011, se positionnant avec Saint-Martin-d'H\u00e8res comme l'une des deux principales villes de la banlieue de Grenoble. C'est une ville \u00e0 fort caract\u00e8re urbain, dont un centre n'a \u00e9t\u00e9 d\u00e9velopp\u00e9 que vers la fin du XXe si\u00e8cle. Ses habitants sont appel\u00e9s les \u00c9chirollois.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel_ville_echirolles_2007.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        704374379,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3115950,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "35995",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "38130",
+        null
+    ],
+    "latitude": [
+        45.1436,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.7183,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        8000000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        395,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        217,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "\u00c9chirolles-Est, \u00c9chirolles-Ouest",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Grenoble Alpes M\u00e9tropole",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Renzo Sulli",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        237,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

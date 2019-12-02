@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "3.79",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92073",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Suresnes .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ukasiaonline.com/profiles/noor-inayat-khan-the-princess-who-became-a-spy",
+        null
+    ],
+    "caption": [
+        "The Seine River with the skyscrapers of La D\u00e9fense in the background.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u6558\u96f7\u8a25\uff08Suresnes\uff09\u662f\u4f4d\u65bc\u6cd5\u570b\u5df4\u9ece\u897f\u90ca\u7684\u57ce\u5e02\uff0c\u8ddd\u96e2\u5df4\u9ece\u5e02\u4e2d\u5fc3\u67099.3 km\uff085.8 mi\uff09\u3002\u6558\u96f7\u8a25\u4f4d\u65bc\u585e\u7d0d\u6cb3\u5de6\u5cb8\u3002\u5728\u9019\u88e1\u53ef\u4ee5\u770b\u5230\u57c3\u83f2\u723e\u9435\u5854\u548c\u5df4\u9ece\u7684\u7f8e\u9e97\u666f\u8272\u3002\u897f\u73ed\u7259\u5de5\u4eba\u793e\u6703\u9ee8\u66fe\u5728\u9019\u88e1\u8209\u884c\u904e\u5927\u6703\u3002\u6cd5\u862d\u897f\u5cf6\u5340\u57df\u9435\u8def\u7b49\u9435\u8def\u7dda\u8def\u4e5f\u9014\u5f91\u6558\u96f7\u8a25\u3002\u62c9\u5fb7\u82b3\u65af\u6709\u958b\u5f80\u6558\u96f7\u8a25\u7684\u5217\u8eca\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Pont_Suresnes_Defense.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737814320,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1838996,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "45039",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92150",
+        null
+    ],
+    "latitude": [
+        48.87,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.22,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        3790000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        162,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        26,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Nanterre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Suresnes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Christian Dupuy",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        36,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

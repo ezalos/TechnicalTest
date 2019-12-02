@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "41.94",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "98511",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        "August 2012 census",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://villedemamoudzou.fr/",
+        null
+    ],
+    "caption": [
+        "View of the port of Mamoudzou",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Mamoudzou es la capital del departamento de ultramar franc\u00e9s de Mayotte en el oc\u00e9ano \u00cdndico. Mamoudzou es el municipio m\u00e1s poblado de Mayotte.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mamoudzou_(10029936275).jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        732949495,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2418420,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "57281",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97600",
+        null
+    ],
+    "latitude": [
+        -12.7806,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        45.2278,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        41940000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        572,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

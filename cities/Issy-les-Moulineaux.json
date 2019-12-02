@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "4.25",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92040",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Issy-les-Moulineaux .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The Rue Rouget de Lisle in the Val de Seine business district",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Issy-les-Moulineaux ist eine franz\u00f6sische Stadt mit 65.662 Einwohnern (Stand 1. Januar 2013) s\u00fcdwestlich von Paris. Sie ist 6,6 km vom Pariser Stadtzentrum entfernt und liegt im D\u00e9partement Hauts-de-Seine innerhalb der Region \u00cele-de-France. Sie ist eine der am dichtesten besiedelten Gemeinden in Europa. Die Einwohner werden Iss\u00e9ens genannt. Issy-les-Moulineaux wandelte sich von einer industriellen Vergangenheit zu einem zentralen Dienstleistungsstandort (Val de Seine), der sich auf Medien und Telekommunikation spezialisiert hat. Trotz der stark anwachsenden Bev\u00f6lkerung gibt es hier immer noch mehr Arbeitspl\u00e4tze als Einwohner.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Val_de_Seine.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741076427,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1228438,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "66166",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92130",
+        null
+    ],
+    "latitude": [
+        48.8239,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.27,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        4250000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        96,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        28,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Issy-les-Moulineaux",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

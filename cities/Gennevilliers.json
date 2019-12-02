@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.64",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92036",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Gennevilliers .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2009,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-gennevilliers.fr/",
+        null
+    ],
+    "caption": [
+        "An aerial view of the Port of Genvilliers",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Gennevilliers \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie \u00cele-de-France, w departamencie Hauts-de-Seine. Przez miejscowo\u015b\u0107 przep\u0142ywa Sekwana. Wed\u0142ug danych na rok 2012 gmin\u0119 zamieszkiwa\u0142o 42 919 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 3 687 os\u00f3b/km\u00b2. W\u015br\u00f3d 1287 gmin regionu \u00cele-de-France Gennevilliers plasuje si\u0119 na 295. miejscu pod wzgl\u0119dem powierzchni. W mie\u015bcie znajduje si\u0119 stacja kolejowa Gare de Gennevilliers.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Port_de_Gennevilliers.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738086897,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        638253,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "41689",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92230",
+        null
+    ],
+    "latitude": [
+        48.9333,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11640000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        33,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        21,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Nanterre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Chef-lieu of 2 cantons",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jacques Bourgoin",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

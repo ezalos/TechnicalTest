@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "46.0",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "97103",
+        null
+    ],
+    "imageCoatOfArms": [
+        "CoA fr Baie-Mahault.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Guadeloupe",
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.weatherbase.com/weather",
+        null
+    ],
+    "caption": [
+        "The town hall of Baie-Mahault",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Baie-Mahault - miasto i gmina na Gwadelupie (departamencie zamorskim Francji); 30 201 mieszka\u0144c\u00f3w (2011). Drugie co do wielko\u015bci miasto kraju.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_Baie-Mahault.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737123511,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        353664,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "30548",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97122",
+        null
+    ],
+    "latitude": [
+        16.27,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -61.58,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        46000000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Guadeloupe",
+        null
+    ],
+    "maximumElevation": [
+        112,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Basse-Terre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Baie-Mahault",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Ary Chalus",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

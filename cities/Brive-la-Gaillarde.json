@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "48.59",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "19031",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Brive-la-Gaillarde .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://museelabenche.brive.fr/",
+        null
+    ],
+    "caption": [
+        "Visitor centre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Brive-la-Gaillarde (Briva auf Okzitanisch) ist eine Stadt und Gemeinde mit 46.794 Einwohnern (Stand 1. Januar 2013) im S\u00fcdwesten Frankreichs in der Region Nouvelle-Aquitaine. Sie ist Sitz einer Unterpr\u00e4fektur des D\u00e9partements Corr\u00e8ze. Bis 1919 hie\u00df die Stadt nur Brive, umgangssprachlich wird sie nach wie vor so genannt. Der Zusatz \u201ela Gaillarde\u201c (dt. etwa: die Kr\u00e4ftige) ist auf die Stadtbefestigung zur\u00fcckzuf\u00fchren, die \u00fcber die Jahrhunderte hinweg allen Belagerungen standhielt. Die Einwohner nennen sich Brivistes.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Brive-la-Gaillarde,_France_Visitor's_Center.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        730824653,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1149275,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "49675",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "19100",
+        null
+    ],
+    "latitude": [
+        45.1583,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.5321,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        48590000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Corr\u00e8ze",
+        null
+    ],
+    "maximumElevation": [
+        315,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        102,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Brive-la-Gaillarde",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Brive",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Philippe Nauche",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        142,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "161.85",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "30189",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr N\u00eemes .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.nimes-romaine.com/en/nimes/33-/",
+        null
+    ],
+    "caption": [
+        "central N\u00eemes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "N\u00eemes \u00e8 un comune francese di 143.917 abitanti capoluogo del dipartimento del Gard nella regione dell'Occitania. Il centro abitato ha origini preromane ma assunse caratteristiche urbane in et\u00e0 romana, divenendo una delle pi\u00f9 importanti e fiorenti citt\u00e0 delle Gallie. La presenza di prestigiosi monumenti romani come l'Anfiteatro, la Maison Carr\u00e9e, la Tour Magne, la Porta d'Arles, i resti del Tempio di Diana, e, nelle sue vicinanze, di una delle pi\u00f9 straordinarie opere di ingegneria dell'antichit\u00e0 romana, il Ponte del Gard, hanno valso alla citt\u00e0 l'appellativo di Roma francese. Oltre che per il cospicuo patrimonio architettonico e monumentale, N\u00eemes \u00e8 anche conosciuta per l'importanza dei suoi musei, per la vivace vita culturale e sociale e per il fascino che gli deriva da una doppia eredit\u00e0 regionale, di Provenza e della Linguadoca, che tanta parte ha avuto nella sua storia. La citt\u00e0 si \u00e8 cos\u00ec da tempo convertita in un centro turistico di fama internazionale che ogni anno richiama un consistente flusso di visitatori da ogni parte del mondo.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/N\u00eemes,_Centre_ville.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741292490,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        102720,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "146709",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "30000 and 30900",
+        null
+    ],
+    "latitude": [
+        43.838,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.361,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        161850000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        215,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        21,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "N\u00eemes M\u00e9tropole",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        39,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

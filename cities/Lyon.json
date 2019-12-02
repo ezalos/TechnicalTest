@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "47.87",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "69123",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Lyon.png",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        "Jan. 2013",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Auvergne-Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://whc.unesco.org/en/list/872",
+        null
+    ],
+    "caption": [
+        "Centre: Parc de la T\u00eate d'Or, Confluence district and old city.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Lione (in francese Lyon, /lj\u0254\u0303/, in arpitano Liyon) \u00e8 una citt\u00e0 della Francia centrale-orientale, capoluogo della metropoli di Lione e della regione Alvernia-Rodano-Alpi. Lione \u00e8 la terza citt\u00e0 pi\u00f9 grande della Francia dopo Parigi e Marsiglia, ma, considerando l'area metropolitana, \u00e8 seconda dopo la capitale. La citt\u00e0 sorge alla confluenza del Rodano e della Saona ed \u00e8 composta da un centro storico (Vieux-Lyon, Fourvi\u00e8re, Saint Jean) e da un centro pi\u00f9 commerciale con la Place des terreaux, Place Bellecour e la Rue de la R\u00e9publique sulla penisola tra Rodano e Saona. I suoi abitanti si chiamano lionesi (in francese Lyonnais /lj\u0254'n\u025b/). Il motto della citt\u00e0 \u00e8 Avant, Avant, Lion le melhor, in arpitano \"Avanti, avanti, Lione la migliore\".",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau_de_Lyon.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744978274,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        8638634,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "500715",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "69001-69009",
+        null
+    ],
+    "latitude": [
+        45.76,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.84,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        47870000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        349,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        162,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Lyon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.25",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94068",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Saint-Maur-des-Foss\u00e9s .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.saintmaursolidaire.fr/",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30b5\u30f3\uff1d\u30e2\u30fc\u30eb\uff1d\u30c7\uff1d\u30d5\u30a9\u30c3\u30bb\uff08\u30d5\u30e9\u30f3\u30b9\u8a9e:Saint-Maur-des-Foss\u00e9s\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u306e\u30f4\u30a1\u30eb\uff1d\u30c9\uff1d\u30de\u30eb\u30cc\u770c\u306e\u30b3\u30df\u30e5\u30fc\u30f3\u3002\u30d1\u30ea\u306e\u4e2d\u5fc3\u304b\u3089\u7d0411km\u306e\u90ca\u5916\u306b\u4f4d\u7f6e\u3059\u308b\u3002 \u30ab\u30bf\u30ab\u30ca\u3067\u306f\u3001\u30b5\u30f3\u30e2\u30fc\u30eb\uff1d\u30c7\uff1d\u30d5\u30a9\u30c3\u30bb\u3001\u30b5\u30f3\uff1d\u30e2\u30fc\u30eb\uff1d\u30ec\uff1d\u30d5\u30a9\u30c3\u30bb\u3001\u30b5\u30f3\u30e2\u30fc\u30eb\uff1d\u30ec\uff1d\u30d5\u30a9\u30c3\u30bb\u306a\u3069\u3068\u8868\u8a18\u3055\u308c\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/St_Maur_des_Foss\u00e9s_-_Hotel_de_ville.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739358050,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        473614,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "74816",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94100 (St Maur), 94210 (La Varenne)",
+        null
+    ],
+    "latitude": [
+        48.7994,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4997,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11250000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        53,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        32,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Cr\u00e9teil",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Sylvain Berrios",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

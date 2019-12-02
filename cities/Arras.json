@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.63",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "62041",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Arras .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.fortified-places.com/arras.html",
+        null
+    ],
+    "caption": [
+        "Clockwise from top: A row of Flemish-Baroque-style townhouses, the Saint-Vaast Abbey, a colorful house, the Vauban Citadel, and the Town Hall and its Belfry",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30a2\u30e9\u30b9\uff08Arras\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u5317\u90e8\u3001\u30ce\u30fc\u30eb\uff1d\u30d1\u30fb\u30c9\u30fb\u30ab\u30ec\u30fc\u5730\u57df\u570f\u306e\u90fd\u5e02\u3002\u30d1\uff1d\u30c9\uff1d\u30ab\u30ec\u30fc\u770c\u306e\u770c\u5e81\u6240\u5728\u5730\u3002\u304b\u3064\u3066\u306e\u30a2\u30eb\u30c8\u30ef\u5730\u65b9\u306b\u5c5e\u3059\u3002LGV\u5317\u7dda\u304c\u505c\u8eca\u3059\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://en.wikipedia.org/wiki/Special:FilePath/Photo_montage_of_Arras.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744962577,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        105054,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "43693",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "62000",
+        null
+    ],
+    "latitude": [
+        50.29999,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.70214,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11630000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Pas-de-Calais",
+        null
+    ],
+    "maximumElevation": [
+        99,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        52,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jean-Paul Potal",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        72,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

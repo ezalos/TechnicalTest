@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "46.95",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "76351",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Le Havre .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Normandy_(French_region)",
+        null
+    ],
+    "term": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Le Havre in mid-2005",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Hawr (fr. Le Havre) \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie Normandia, w departamencie Seine-Maritime. Wed\u0142ug danych na rok 2009 gmin\u0119 zamieszkiwa\u0142y 179 783 osoby, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 3830 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1421 gmin G\u00f3rnej Normandii Hawr plasuje si\u0119 na 1. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 2.). Hawr ma charakter miasta przemys\u0142owego. Znajduje si\u0119 tam najwi\u0119kszy port we Francji (5. co do wielko\u015bci w Europie), a tak\u017ce jedna z kilku najwi\u0119kszych francuskich rafinerii \u2013 Raffinerie de Normandie (Total \u2013 Elf). W 1984 utworzono uniwersytet o charakterze mi\u0119dzynarodowym, gdzie nauk\u0119 pobieraj\u0105 studenci z ca\u0142ego \u015bwiata. Ich liczba wynosi oko\u0142o 7000.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Le_Havre_Vue_Plage_14_07_2005.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743369467,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        54004,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "175497",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "76600, 76610, 76620",
+        null
+    ],
+    "latitude": [
+        49.49,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        0.1,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        46950000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Seine-Maritime",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Edouard Phillippe",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

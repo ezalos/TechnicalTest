@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "10.45",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "69034",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Auvergne-Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "City hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Caluire-et-Cuire est une commune fran\u00e7aise situ\u00e9e dans la m\u00e9tropole de Lyon et la r\u00e9gion Auvergne-Rh\u00f4ne-Alpes. Ses habitants sont appel\u00e9s les Caluirards. Sixi\u00e8me ville de la m\u00e9tropole de Lyon en nombre d'habitants, elle est situ\u00e9e entre la Sa\u00f4ne et le Rh\u00f4ne, juste au nord de Lyon dont elle est limitrophe. Elle est issue de la r\u00e9union de Caluire et de Cuire (quartier lui-m\u00eame issu de la scission de Cuire-la-Croix-Rousse), \u00e0 la fin du XVIIIe si\u00e8cle. La commune est la 34e ville fran\u00e7aise de plus de 20 000 habitants en proportion de contribuables assujettis \u00e0 l'ISF en 2006. La ville est connue pour l'arrestation de Jean Moulin, le 21 juin 1943, dans la maison du docteur Dugoujon situ\u00e9e au centre de la commune, mais aussi pour \u00eatre la ville natale du po\u00e8te oulipien, Jacques Roubaud.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel.de.ville.Caluire.et.Cuire.001.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        699464559,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3174415,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "42038",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "69300",
+        null
+    ],
+    "latitude": [
+        45.7953,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.8472,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        10450000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Rh\u00f4ne_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        275,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        165,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Philippe Cochet",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

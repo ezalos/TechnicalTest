@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "79.97",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "42218",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Saint-\u00c9tienne.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2007,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.saint-etienne.fr",
+        null
+    ],
+    "caption": [
+        "Clockwise from top: View of Saint-\u00c9tienne, Stade Geoffroy-Guichard, Place du Peuple, tramway at Gare de Ch\u00e2teaucreux and Couriot Coalmine.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Saint-\u00c9tienne (fr-prow. Sant-Eti\u00e8ve, prow. Sant Est\u00e8ve) \u2013 miejscowo\u015b\u0107 i gmina we Francji, we wschodniej cz\u0119\u015bci Masywu Centralnego, w regionie Owernia-Rodan-Alpy, w departamencie Loara. Miejscowo\u015b\u0107 jest po\u0142o\u017cona oko\u0142o 60 km na po\u0142udniowy zach\u00f3d od stolicy regionu \u2013 miasta Lyon.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Panorama_St_Etienne.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742971240,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        214482,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "178530",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "42000, 42100",
+        null
+    ],
+    "latitude": [
+        45.4347,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.3903,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        79970000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Loire_(department)",
+        null
+    ],
+    "maximumElevation": [
+        1117,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        422,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Capital of 9 cantons",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Ga\u00ebl Perdriau",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        516,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

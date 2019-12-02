@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "59.24",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "88160",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason \u00c9pinal.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://hologuides.com/cities/epinal_fr/",
+        null
+    ],
+    "caption": [
+        "The Moselle River",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u00c9pinal is een stad in het departement Vosges in de regio Alsace-Champagne-Ardenne-Lorraine in Frankrijk. Het telt zo'n 40.000 inwoners. De stad bevindt zich op de rechteroever van een vallei, aan de voet van verschillende kasteelru\u00efnes. \u00c9pinal is ook bekend om de zogenaamde \"Images d'\u00c9pinal\", gekleurde prenten die geproduceerd werden in een in 1796 door Jean-Charles Pellerin in deze stad opgerichte drukkerij. Hierop werden vaak vrome of hero\u00efek-nationalistische taferelen afgebeeld. Ze waren in de 19e eeuw bij de minder welvarende Fransen zeer geliefd als muurversiering.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Epinal_Passerelle.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741785362,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        981203,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "35814",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "88000",
+        null
+    ],
+    "latitude": [
+        48.1744,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.4512,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        59240000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        492,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        315,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "\u00c9pinal",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "\u00c9pinal-Est and \u00c9pinal-Ouest",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "\u00c9pinal-Golbey",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Michel Heinrich",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        340,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

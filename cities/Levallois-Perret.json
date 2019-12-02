@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "2.41",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92044",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Levallois-Perret 92.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The town hall of Levallois-Perret",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u041b\u0435\u0432\u0430\u043b\u043b\u0443\u0430-\u041f\u0435\u0440\u0440\u0435 (\u0444\u0440. Levallois-Perret ) \u2014 \u0433\u043e\u0440\u043e\u0434 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u043c \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0435 \u041e-\u0434\u0435-\u0421\u0435\u043d, \u043e\u043a\u0440\u0443\u0433 \u041d\u0430\u043d\u0442\u0435\u0440, \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u0434\u0432\u0443\u0445 \u043a\u0430\u043d\u0442\u043e\u043d\u043e\u0432.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Levallois6.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        740411387,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1257063,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "63643",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92300",
+        null
+    ],
+    "latitude": [
+        48.895,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2872,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        2410000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        34,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        23,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Nanterre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

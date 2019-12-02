@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "17.48",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "56121",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Lorient .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2007,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.festival-interceltique.com/",
+        null
+    ],
+    "caption": [
+        "Aerial view of the harbour of Lorient",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Lorient (Bret\u00e3o: An Oriant) \u00e9 uma comuna francesa na regi\u00e3o administrativa da Bretanha, no departamento Morbihan. Estende-se por uma \u00e1rea de 17,48 km\u00b2. Em 2010 a comuna tinha 57 204 habitantes (densidade: 3 272,5 hab./km\u00b2).391 hab/km\u00b2.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Lorient.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        735238619,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        328288,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "58135",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "56100",
+        null
+    ],
+    "latitude": [
+        47.75,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -3.36,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        17480000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        46,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Lorient",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Pays de Lorient",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Norbert M\u00e9tairie",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

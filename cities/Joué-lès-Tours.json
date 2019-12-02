@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "33.41",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "37122",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de la ville de Jou\u00e9-l\u00e8s-Tours .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2009,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://videos.tf1.fr/jt-20h/liberte-egalite-fraternite-laicite-inscrits-sur-une-mairie-5705419.html",
+        null
+    ],
+    "caption": [
+        "The church in Jou\u00e9-l\u00e8s-Tours",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u0416\u0443\u044d-\u043b\u0435-\u0422\u0443\u0440 (\u0444\u0440. Jou\u00e9-l\u00e8s-Tours) \u2014 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438, \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u0426\u0435\u043d\u0442\u0440. \u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u043a\u043e\u043c\u043c\u0443\u043d\u044b \u2014 \u042d\u043d\u0434\u0440 \u0438 \u041b\u0443\u0430\u0440\u0430. \u0412\u0445\u043e\u0434\u0438\u0442 \u0432 \u0441\u043e\u0441\u0442\u0430\u0432 \u043a\u0430\u043d\u0442\u043e\u043d\u043e\u0432 \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0416\u0443\u044d-\u043b\u0435-\u0422\u0443\u0440 \u0438 \u042e\u0436\u043d\u044b\u0439 \u0416\u0443\u044d-\u043b\u0435-\u0422\u0443\u0440. \u041e\u043a\u0440\u0443\u0433 \u043a\u043e\u043c\u043c\u0443\u043d\u044b \u2014 \u0422\u0443\u0440. \u041a\u043e\u0434 INSEE \u043a\u043e\u043c\u043c\u0443\u043d\u044b 37122. \u041a\u043e\u043c\u043c\u0443\u043d\u0430 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0430 \u043f\u0440\u0438\u0431\u043b\u0438\u0437\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0432 210 \u043a\u043c \u043a \u044e\u0433\u043e-\u0437\u0430\u043f\u0430\u0434\u0443 \u043e\u0442 \u041f\u0430\u0440\u0438\u0436\u0430, \u0432 115 \u043a\u043c \u044e\u0433\u043e-\u0437\u0430\u043f\u0430\u0434\u043d\u0435\u0435 \u041e\u0440\u043b\u0435\u0430\u043d\u0430, \u0432 6 \u043a\u043c \u043a \u044e\u0433\u043e-\u0437\u0430\u043f\u0430\u0434\u0443 \u043e\u0442 \u0422\u0443\u0440\u0430.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Kirche1_JlT_2006.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        647728829,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5147155,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "36000",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "37300",
+        null
+    ],
+    "latitude": [
+        47.3514,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        0.6625,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        33410000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Indre-et-Loire",
+        null
+    ],
+    "maximumElevation": [
+        96,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        44,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

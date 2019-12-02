@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "44.44",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "06069",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Grasse .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-grasse.fr/",
+        null
+    ],
+    "caption": [
+        "A general view of Grasse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Grasse ist eine franz\u00f6sische Stadt im D\u00e9partement Alpes-Maritimes mit 50.916 Einwohnern (Stand: 1. Januar 2013).Sie gilt als Welthauptstadt des Parf\u00fcms und erreichte als Handlungsort des Romans Das Parfum von Patrick S\u00fcskind weltweite Bekanntheit.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Grasse2.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744517452,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        46092,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "51021",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "06130",
+        null
+    ],
+    "latitude": [
+        43.6667,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.9167,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        44440000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        1061,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        80,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Grasse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "P\u00f4le Azur Provence",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "J\u00e9r\u00f4me Viaud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        333,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "23.01",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "69282",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Meyzieu .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Auvergne-Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mairie-meyzieu.fr/",
+        null
+    ],
+    "caption": [
+        "The town hall in Meyzieu",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Meyzieu is een gemeente in het Franse departement M\u00e9tropole de Lyon (regio Auvergne-Rh\u00f4ne-Alpes) en telt 28.009 inwoners (1999). De plaats maakt deel uit van het arrondissement Lyon.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Hotel_de_ville_Meyzieu.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        699296993,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5146863,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "31493",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "69330",
+        null
+    ],
+    "latitude": [
+        45.7667,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.0036,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        23010000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Metropolis_of_Lyon",
+        null
+    ],
+    "maximumElevation": [
+        250,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        167,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Lyon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        192,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

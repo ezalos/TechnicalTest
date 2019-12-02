@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "14.04",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "59378",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Marcq-en-Baroeul .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        1999,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Nord-Pas-de-Calais",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.marcq-en-baroeul.org/",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u041c\u0430\u0440\u043a-\u0430\u043d-\u0411\u0430\u0440\u0451\u0301\u043b\u044c (\u0444\u0440. Marcq-en-Bar\u0153ul) \u2014 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438, \u0440\u0435\u0433\u0438\u043e\u043d \u041d\u043e\u0440 \u2014 \u041f\u0430-\u0434\u0435-\u041a\u0430\u043b\u0435, \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041d\u043e\u0440, \u043e\u043a\u0440\u0443\u0433 \u041b\u0438\u043b\u043b\u044c, \u043a\u0430\u043d\u0442\u043e\u043d \u041b\u0438\u043b\u043b\u044c-2. \u041e\u0434\u0438\u043d \u0438\u0437 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0445 \u043f\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u043e\u0432 \u041b\u0438\u043b\u043b\u044f, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u0432 5 \u043a\u043c \u043a \u0441\u0435\u0432\u0435\u0440\u043e-\u0432\u043e\u0441\u0442\u043e\u043a\u0443 \u043e\u0442 \u0446\u0435\u043d\u0442\u0440\u0430 \u0433\u043e\u0440\u043e\u0434\u0430, \u043d\u0430 \u0431\u0435\u0440\u0435\u0433\u0443 \u043a\u0430\u043d\u0430\u043b\u0430 \u0420\u0443\u0431\u0435. \u041d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 (2011) \u2014 39 591 \u0447\u0435\u043b\u043e\u0432\u0435\u043a.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Marcq-en-Baroeul_(Nord).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739743234,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3069343,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "37177",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "59700",
+        null
+    ],
+    "latitude": [
+        50.6711,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.0972,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        14040000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Nord_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        51,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        16,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Marcq-en-Bar\u0153ul",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Lille M\u00e9tropole",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        21,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

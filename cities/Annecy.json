@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "13.75",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "74010",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason d'Annecy.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-annecy.fr/",
+        null
+    ],
+    "caption": [
+        "Panoramic sight of Annecy and Lake Annecy.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Annecy (en arpitano \u00c8nneci) es una localidad del departamento de Alta Saboya, en la regi\u00f3n de Auvernia-R\u00f3dano-Alpes, Francia.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Annecy_vue_du_mont_Veyrier.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745202548,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        508527,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "51012",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "74000",
+        null
+    ],
+    "latitude": [
+        45.916,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.133,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        13750000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Haute-Savoie",
+        null
+    ],
+    "maximumElevation": [
+        9,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        418,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        448,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

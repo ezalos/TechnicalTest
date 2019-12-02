@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "21.26",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "33550",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Villenave-d'Ornon .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Villenave-d'Ornon \u00e9 uma comuna francesa na regi\u00e3o administrativa da Aquit\u00e2nia, no departamento Gironde. Estende-se por uma \u00e1rea de 21,25 km\u00b2. Em 2010 a comuna tinha 28 420 habitantes (densidade: 1 337,4 hab./km\u00b2).205 hab/km\u00b2. Villenave d'Ornon \u00e9 uma cidade geminada com a cidade portuguesa de Torres Vedras",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/\u00c9glise_Saint-Martin_de_Villenave-d'Ornon_vue_rue.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744250965,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5146363,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "28762",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "33140",
+        null
+    ],
+    "latitude": [
+        44.7806,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -0.5658,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        21260000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        41,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        3,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Villenave-d'Ornon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Patrick Pujol",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

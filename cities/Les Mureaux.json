@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.99",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "78440",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Les Mureaux01.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "https://web.archive.org/web/20071124142010/http:/www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The town hall in Les Mureaux",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Les Mureaux \u00e8 un comune francese di 31.754 abitanti situato nel dipartimento degli Yvelines nella regione dell'\u00cele-de-France.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Les_Mureaux_-_Mairie01.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737408027,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3108372,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "32942",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "78130",
+        null
+    ],
+    "latitude": [
+        48.9875,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.9172,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11990000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Yvelines",
+        null
+    ],
+    "maximumElevation": [
+        53,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        18,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Mantes-la-Jolie",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Meulan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Fran\u00e7ois Garay",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

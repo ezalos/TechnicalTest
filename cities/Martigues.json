@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "71.44",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "13056",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Martigues .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mairie-martigues.fr/",
+        null
+    ],
+    "caption": [
+        "Le Miroir aux oiseaux  area",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Martigues  (en occitano, Lo Martegue) es una comuna y poblaci\u00f3n de Francia, en la regi\u00f3n de Provenza-Alpes-Costa Azul, departamento de Bocas del R\u00f3dano, en el distrito de Istres. Es la chef-lieu de dos cantones: Martigues Este y Martigues Oeste. Est\u00e1 integrada en la Communaut\u00e9 d'Agglom\u00e9ration du Pays de Martigues, de la cual es la mayor poblaci\u00f3n.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Martigues_\u2014_Le_Miroir_aux_oiseaux_(quartier_de_L'\u00cele).JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        740065395,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        655823,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "46471",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "13500",
+        null
+    ],
+    "latitude": [
+        43.4053,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.0475,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        71440000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        187,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Istres",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Martigues-Est and Martigues-Ouest",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Ouest de l'\u00c9tang de Berre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        1,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

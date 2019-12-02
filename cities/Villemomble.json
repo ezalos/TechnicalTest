@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "4.04",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93077",
+        null
+    ],
+    "imageCoatOfArms": [
+        "ArmesRougeGrisOr.png",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The city hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Villemomble \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie \u00cele-de-France, w departamencie Seine-Saint-Denis. Wed\u0142ug danych na rok 1999 gmin\u0119 zamieszkiwa\u0142y 27 230 osoby, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 6740 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1287 gmin regionu \u00cele-de-France Villemomble plasuje si\u0119 na 96. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 747.).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_Villemomble.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        740196397,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3368237,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "28562",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93250",
+        null
+    ],
+    "latitude": [
+        48.8833,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.5,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        4040000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        107.44,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        54.05,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Bobigny",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Villemomble",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Patrice Calm\u00e9jane",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

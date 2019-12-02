@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.51",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "91477",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Palaiseau.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=91477",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Palaiseau (French pronunciation: \u200b[pal\u025bzo]) is a commune in the southern suburbs of Paris, France. It is located 16.9 km (10.5 mi) from the center of Paris. Palaiseau is a sub-prefecture of the Essonne department and the seat of the Arrondissement of Palaiseau. Inhabitants of Palaiseau are known as Palaisiens.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/H\u00f4teldeVilleParcPalaiseau.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741576945,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        574000,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "30542",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "91120",
+        null
+    ],
+    "latitude": [
+        48.7145,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2457,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11510000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Essonne",
+        null
+    ],
+    "maximumElevation": [
+        159,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        47,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Fran\u00e7ois Lamy",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

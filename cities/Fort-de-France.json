@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "44.21",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "97209",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Fort-de-France .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Martinique",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=97209",
+        null
+    ],
+    "caption": [
+        "A view from the ship arriving from Les Trois-\u00celets",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Fort-de-France (in creolo Fodfrans) \u00e8 un comune francese di 89.890 abitanti, nonch\u00e9 il capoluogo del dipartimento d'oltre mare francese della Martinica.La citt\u00e0 venne fondata nel 1635 con il nome di cul-de-sac du Fort-Royal, nome che conserv\u00f2 fino al 1672 quando venne chiamata Fort-Royal nel 1807 fu ribattezzata Fort de France da Napoleone Bonaparte; conta attualmente 89.794 abitanti. Nel biennio 1793-1794 si chiam\u00f2 Fort-de-la-R\u00e9publique o R\u00e9publique-Ville. Capitale amministrativa della Martinica, ospita i principali organismi della regione. Prospiciente alla Savane, un enorme piazza-giardino, vi \u00e8 la biblioteca Schoelcher, opera dell'architetto francese Henri Picq. Altre opere di Henri Picq presenti in citt\u00e0 sono la cattedrale di Saint-Louis, inaugurata nel 1895, e il mercato coperto. La citt\u00e0 ospita anche il Museo Dipartimentale d'Archeologia, con una collezione di oltre 2000 oggetti ritrovati a Martinica e sulle altre isole dei Caraibi, e il Museo Regionale di storia e di etnografia.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Fort-de-France-baie.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        735510201,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        254951,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "85295",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97200 and 97234 (Quartier de Balata)",
+        null
+    ],
+    "latitude": [
+        14.6,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -61.0833,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        44210000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Martinique",
+        null
+    ],
+    "maximumElevation": [
+        1070,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Fort-de-France",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Centre de la Martinique",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

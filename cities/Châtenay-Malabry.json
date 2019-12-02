@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "6.38",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92019",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Ch\u00e2tenay-Malabry .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The church of Saint-Germain l'Auxerrois",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Ch\u00e2tenay-Malabry /\u0283at'n\u025b mala'b\u0281i/ \u00e8 un comune francese di 32.814 abitanti situato nel dipartimento dell'Hauts-de-Seine nella regione dell'\u00cele-de-France. \u00c8 la sede del Agence fran\u00e7aise de lutte contre le dopage, organismo del WADA (Agenzia internazionale anti-doping), assurto agli onori delle cronache per la sua lotta alla diffusione del CERA nel ciclismo.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Ch\u00e2tenay-Malabry_(\u00e9glise_Saint-Germain-l'Auxerrois_1).jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741123221,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1173537,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "32379",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92290",
+        null
+    ],
+    "latitude": [
+        48.7653,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2781,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        6380000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Antony",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Ch\u00e2tenay-Malabry",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        104,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

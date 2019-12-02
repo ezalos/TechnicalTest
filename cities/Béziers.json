@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "95.48",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "34032",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason B\u00e9ziers.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.sunnyfrance.net/histoiredebeziers/index_UK.htm",
+        null
+    ],
+    "caption": [
+        "Aerial view of B\u00e9ziers",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "B\u00e9ziers /be'zje/ (in occitano Besi\u00e8rs) \u00e8 un comune francese di 72.554 abitanti situato nel dipartimento dell'H\u00e9rault nella regione della Linguadoca-Rossiglione-Midi-Pirenei, sede di sottoprefettura. Per popolazione \u00e8 la seconda citt\u00e0 del suo dipartimento e la quarta della propria regione di appartenenza. I suoi abitanti sono denominati Biterrois e Biterroises toponimo latino della citt\u00e0, Baeterrae.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/1_B\u00e9ziers_2016.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742205943,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        262958,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "72970",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "34500",
+        null
+    ],
+    "latitude": [
+        43.3476,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.219,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        95480000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        120,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        4,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "B\u00e9ziers",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "B\u00e9ziers M\u00e9diterran\u00e9e",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        17,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

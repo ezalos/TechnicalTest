@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "118.3",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "31555",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Toulouse .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        "Jan. 2013",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Occitanie",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.toulouse.fr/",
+        null
+    ],
+    "caption": [
+        "Montage of Toulouse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Toulouse, pronunciado en franc\u00e9s [tu\u02c8luz] (en occitano y antiguamente en espa\u00f1ol: Tolosa [tu\u02c8luz\u0254]), y tambi\u00e9n nombrada como Ciutat Mondina, del occitano, en referencia a la dinast\u00eda de los Condes de la ciudad llamados Raymond en su mayor\u00eda, es una ciudad del sur de Francia, la cuarta en poblaci\u00f3n despu\u00e9s de Par\u00eds, Marsella y Lyon, en 2013 contaba con 458 298 habitantes en el municipio, en una superficie de 118,3 km\u00b2. Su \u00e1rea urbana, con 1 291 517 habitantes, es tambi\u00e9n la cuarta mayor de Francia y la primera en crecimiento demogr\u00e1fico. Es la capital del departamento del Alto Garona y de la regi\u00f3n de Occitania, as\u00ed como la capital hist\u00f3rica de la provincia del Languedoc. Es atravesada por el r\u00edo Garona (en franc\u00e9s: Garonne) y en su casco urbano (Port de l'Embouchure) se produce la confluencia de los canales de Midi, Brienne y lateral de la Garona. Est\u00e1 localizada al suroeste del pa\u00eds , entre el Mediterr\u00e1neo (Gruissan) y el oc\u00e9ano Atl\u00e1ntico (Capbreton), a 90 km de los Pirineos espa\u00f1oles. Recibe el apodo de Ciudad Rosa por el color dominante en los edificios antiguos, hechos con ladrillos caravista. Su altitud promedio es de 141 metros, el relieve es poco accidentado.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Montage_Toulouse_2.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745096190,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        45371,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "458298",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        43.6045,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.444,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        118300000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Haute-Garonne",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Toulouse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

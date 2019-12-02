@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "30.02",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "44162",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Saint-Herblain .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        1999,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Pays_de_la_Loire",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.saint-herblain.fr/",
+        null
+    ],
+    "caption": [
+        "The church of Saint-Hermeland, in Saint-Herblain",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Die franz\u00f6sische Stadt Saint-Herblain im D\u00e9partement Loire-Atlantique in der Region Pays de la Loire ist mit 43.784 Einwohnern (Stand 1. Januar 2013) die drittgr\u00f6\u00dfte Stadt im D\u00e9partement. Sie liegt westlich von Nantes ca. 60 km von der Atlantikk\u00fcste entfernt. Die Stadt ist Sitz der Kantone Saint-Herblain-Est und Saint-Herblain-Ouest-Indre.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Saint-Herblain_(Loire-Atlantique).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        645903041,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3156584,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "43726",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "44800",
+        null
+    ],
+    "latitude": [
+        47.2122,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -1.6497,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        30020000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Loire-Atlantique",
+        null
+    ],
+    "maximumElevation": [
+        64,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        1,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Saint-Herblain-Est, Saint-Herblain-Ouest-Indre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Urban Community of Nantes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Bertrand Affil\u00e9",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

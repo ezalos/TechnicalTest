@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "19.38",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "2B033",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Ville fr Bastia.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Corsica",
+        null
+    ],
+    "term": [
+        2016,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.bastiaairport.com/",
+        null
+    ],
+    "caption": [
+        "View of St Jean Baptiste Cathedral from Bastia Port",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Bastia is de tweede stad van het Franse eiland Corsica, departement Haute-Corse, arrondissement Bastia. Er wonen ongeveer 40.000 inwoners in de havenstad. De inwoners worden Bastiais genoemd. Een tamelijk grote stad die, zoals meestal, in twee delen verdeeld: Terra Vecchia en Terra Nuova. In het centrum ligt het Place St. Nicolas, waar men over zee kan uitzien. Het toeristische centrum van de stad is de oude haven (Port de Plaisance), die nu als jachthaven wordt gebruikt. Eveneens aan de haven is de, met marmer versierde, oudste kerk van Bastia de St. Jean Baptiste. Vanaf de citadel heeft men een compleet uitzicht over de Toscaanse archipel en kan men Elba zien liggen. In het oude paleis van de Gouverneurs is het etnografisch museum ondergebracht met een uitgebreide collectie cultuur en historie. De stad was de woonplaats van de schrijver Victor Hugo. De stad is in de 14e eeuw gesticht door de Genuezen (Republiek Genua). Bastia is bekend om zijn wijn.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Bastia-st-jean-baptiste-church-harbour.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741518472,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        45433,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "43008",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "20200",
+        null
+    ],
+    "latitude": [
+        42.7008,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        9.4503,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        19380000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Haute-Corse",
+        null
+    ],
+    "maximumElevation": [
+        963,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Bastia",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Bastia",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Pierre Savelli",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        30,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

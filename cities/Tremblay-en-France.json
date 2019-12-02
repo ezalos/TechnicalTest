@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "22.44",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93073",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Tremblay-en-France 93.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.tremblay-en-france.fr/",
+        null
+    ],
+    "caption": [
+        "The church of Sainte Therese, in Tremblay-en-France",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Tremblay-en-France \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie \u00cele-de-France, w departamencie Seine-Saint-Denis. Wed\u0142ug danych na rok 1990 gmin\u0119 zamieszkiwa\u0142o 31 385 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 1399 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1287 gmin regionu \u00cele-de-France Tremblay-en-France plasuje si\u0119 na 72. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 53.).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Tremblay_en_France_Eglise_Sainte_Therese.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738396321,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3156766,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "35665",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93290",
+        null
+    ],
+    "latitude": [
+        48.95,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.5722,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        22440000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Le Raincy",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Tremblay-en-France",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Fran\u00e7ois Asensi",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        84,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

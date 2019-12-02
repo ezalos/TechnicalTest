@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "16.12",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "42187",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Roanne .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.roanne.fr",
+        null
+    ],
+    "caption": [
+        "The museum in Roanne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Roanne (French pronunciation: \u200b[\u0281\u0254an] ; Rouana in Arpitan) is a commune in the Loire department in central France. It is located 90 km (56 mi) northwest of Lyon on the Loire River. It has an important Museum, the Mus\u00e9e de Beaux-arts et d'Arch\u00e9ologie Joseph D\u00e9chelette (French), with many Egyptian artifacts.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mus\u00e9e_D\u00e9chelette.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        734896518,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        885902,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "45105",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "42300",
+        null
+    ],
+    "latitude": [
+        46.0367,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.0689,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        16120000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Loire_(department)",
+        null
+    ],
+    "maximumElevation": [
+        304,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        257,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Roanne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Grand Roanne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        279,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "24.21",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "34301",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr S\u00e8te .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Languedoc-Roussillon",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Tivoli bridge",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "S\u00e8te (French pronunciation: \u200b[s\u025bt]; Seta in Occitan), known as Cette until 1928, is a commune in the H\u00e9rault department in the Languedoc-Roussillon region in southern France. Its inhabitants are called S\u00e9tois. Known as the Venice of Languedoc and the singular island (in Paul Val\u00e9ry's words), it is a port and a seaside resort on the Mediterranean with its own very strong cultural identity, traditions, cuisine and dialect. It is also the hometown of artists like Paul Val\u00e9ry, Jean Vilar, Georges Brassens, Gregory Del Piero, Herv\u00e9 Di Rosa, Manitas de Plata, and Robert Combas.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Pont_du_Tivoli,_S\u00e8te,_H\u00e9rault_14.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        733032374,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        564056,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "42786",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "34200",
+        null
+    ],
+    "latitude": [
+        43.4053,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.6975,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        24210000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/H\u00e9rault",
+        null
+    ],
+    "maximumElevation": [
+        176,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "S\u00e8te-1 and S\u00e8te-2",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        4,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

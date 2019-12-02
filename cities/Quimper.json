@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "84.45",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "29232",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Quimper .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.qub.fr",
+        null
+    ],
+    "caption": [
+        "The Odet River in the centre of Quimper",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Quimper (bret. Kemper) to miejscowo\u015b\u0107 i gmina w p\u00f3\u0142nocno-zachodniej Francji, w regionie Bretania. Miasto jest prefektur\u0105 departamentu Finist\u00e8re. Wed\u0142ug danych na rok 1990 gmin\u0119 zamieszkiwa\u0142o 59 437 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 704 osoby/km\u00b2 (w\u015br\u00f3d 1269 gmin Bretanii Quimper plasuje si\u0119 na 3. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 5.). Miasto le\u017cy w pobli\u017cu uj\u015bcia rzeki Odet do Oceanu Atlantyckiego. W mie\u015bcie znajduje si\u0119 stacja kolejowa Gare de Quimper.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Quimper_(Finist\u00e8re).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737948198,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        290281,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "63929",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "29000",
+        null
+    ],
+    "latitude": [
+        47.9967,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -4.0964,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        84450000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Finist\u00e8re",
+        null
+    ],
+    "maximumElevation": [
+        151,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        -5,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Quimper",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Quimper",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Ludovic Jolivet",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        6,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

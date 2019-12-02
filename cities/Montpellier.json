@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "56.88",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "34172",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Montpellier.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://us.montpellier.fr/",
+        null
+    ],
+    "caption": [
+        "Top to bottom, left to right: L'aqueduc Saint-Cl\u00e9ment, la Place de l'Europe, la Place de la Com\u00e9die, l'h\u00f4tel de r\u00e9gion, la promenade du Peyrou, le Corum, l'arc de Triomphe, la cath\u00e9drale Saint Pierre.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "25\u0628\u0643 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0647\u0646\u0627 \u064a\u0646\u0642\u0635\u0647 \u0627\u0644\u0627\u0633\u062a\u0634\u0647\u0627\u062f \u0628\u0645\u0635\u0627\u062f\u0631. \u064a\u0631\u062c\u0649 \u0625\u064a\u0631\u0627\u062f \u0645\u0635\u0627\u062f\u0631 \u0645\u0648\u062b\u0648\u0642 \u0628\u0647\u0627. \u0623\u064a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u063a\u064a\u0631 \u0645\u0648\u062b\u0642\u0629 \u064a\u0645\u0643\u0646 \u0627\u0644\u062a\u0634\u0643\u064a\u0643 \u0628\u0647\u0627 \u0648\u0625\u0632\u0627\u0644\u062a\u0647\u0627. (\u0645\u0627\u0631\u0633 2016) \u0645\u0648\u0646\u0628\u0644\u064a\u064a\u0647  (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629: Montpellier) (\u0628\u0627\u0644\u0623\u0648\u0642\u0633\u064a\u0637\u0627\u0646\u064a\u0629: Montpelhi\u00e8r ) \u0647\u064a \u0645\u062f\u064a\u0646\u0629 \u0641\u064a \u062c\u0646\u0648\u0628 \u0641\u0631\u0646\u0633\u0627\u060c \u0648\u0639\u0627\u0635\u0645\u0629 \u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u064a\u0631\u0648\u0644\u062a \u0648\u0639\u0627\u0635\u0645\u0629 \u062c\u0647\u0629 \u0644\u0648\u0646\u063a\u062f\u0648\u0643 \u0648\u0631\u0648\u0633\u064a\u0644\u064a\u0648\u0646. \u0645\u0648\u0646\u0628\u0644\u064a\u064a\u0647 \u062a\u0642\u0639 \u0645\u0627 \u0628\u064a\u0646 \u0646\u064a\u0645 \u0648\u0628\u064a\u0632\u064a\u064a\u0647\u060c \u0648\u0647\u064a \u0639\u0644\u0649 \u0636\u0641\u0627\u0641 \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0645\u062a\u0648\u0633\u0637. \u0645\u0648\u0646\u0628\u0644\u064a\u064a\u0647 \u0648\u0627\u0642\u0639\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u062d\u0648\u0631 \u0627\u0644\u0631\u0627\u0628\u0637 \u0645\u0627 \u0628\u064a\u0646 \u0623\u0633\u0628\u0627\u0646\u064a\u0627 \u0641\u064a \u0627\u0644\u063a\u0631\u0628 \u0648\u0625\u064a\u0637\u0627\u0644\u064a\u0627 \u0641\u064a \u0627\u0644\u0634\u0631\u0642. \u0645\u0634\u0627\u0631\u064a\u0639 \u0634\u0642\u064a\u0642\u0629 \u0634\u0627\u0647\u062f \u0641\u064a \u0643\u0648\u0645\u0646\u0632 \u0635\u0648\u0631 \u0648\u0645\u0644\u0641\u0627\u062a \u0639\u0646: \u0645\u0648\u0646\u0628\u0644\u064a\u064a\u0647 \u0645\u0648\u0646\u0628\u064a\u0644\u064a\u064a\u0647 \u062a\u0639\u062a\u0628\u0631 \u0645\u062f\u064a\u0646\u0629 \u0641\u0631\u0646\u0633\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u0628\u062d\u0631 \u0627\u0644\u0645\u062a\u0648\u0633\u0637 ..",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Montpellier_montage_couv.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739577922,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        73369,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "268456",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "34000, 34070, 34080, 34090",
+        null
+    ],
+    "latitude": [
+        43.6119,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.8772,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        56880000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/H\u00e9rault",
+        null
+    ],
+    "maximumElevation": [
+        121,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        7,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Montpellier",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Montpellier M\u00e9diterran\u00e9e M\u00e9tropole",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Philippe Saurel",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        27,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

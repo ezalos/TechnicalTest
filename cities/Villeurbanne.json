@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "14.52",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "69266",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Villeurbanne .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Auvergne-Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://forum-villeurbanne.aceboard.fr/",
+        null
+    ],
+    "caption": [
+        "The city hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Villeurbanne ist eine franz\u00f6sische Gemeinde in der M\u00e9tropole de Lyon in der Region Auvergne-Rh\u00f4ne-Alpes. Die Industriestadt mit 147.192 Einwohnern (Stand 1. Januar 2013) liegt am \u00f6stlichen Stadtrand von Lyon am rechten Ufer der Rh\u00f4ne. Noch vor Montreuil und Roubaix ist Villeurbanne die bev\u00f6lkerungsreichste derjenigen St\u00e4dte Frankreichs, die keine Pr\u00e4fektur eines D\u00e9partements oder Unterpr\u00e4fektur eines Arrondissements sind.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Place_lazare_goujon.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737702447,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        575984,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "146282",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "69100",
+        null
+    ],
+    "latitude": [
+        45.7667,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.8803,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        14520000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        189,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        165,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jean-Paul Bret",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        181,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

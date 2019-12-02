@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "28.43",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "17300",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de La Rochelle.png",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Old harbour of La Rochelle",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "La Rochelle (tak\u017ce La Rocheile, niekiedy w j\u0119zyku polskim jako Roszela[potrzebny przypis]) \u2013 miasto w zachodniej Francji, w regionie Akwitania-Limousin-Poitou-Charentes, w departamencie Charente-Maritime, nad Zatok\u0105 Biskajsk\u0105. Jest portem morskim i o\u015brodkiem turystycznym. Wed\u0142ug danych na rok 2004 gmin\u0119 zamieszkiwa\u0142y 80 055 osoby, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 2815 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1467 gmin regionu Poitou-Charentes La Rochelle plasuje si\u0119 na 2. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 193.). Od po\u0142owy XVI w. przez kilkadziesi\u0105t lat by\u0142o politycznym i militarnym o\u015brodkiem hugenot\u00f3w. W 1627 miasto-twierdza wyst\u0105pi\u0142o w sojuszu z Angli\u0105 przeciwko rz\u0105dowi i faworytowi kr\u00f3la, Richelieu. Podda\u0142o si\u0119 po ponad 14-miesi\u0119cznym obl\u0119\u017ceniu, trac\u0105c przywileje handlowe i uprawnienia edyktu nantejskiego, zachowuj\u0105c jednak wolno\u015b\u0107 kultu. Obecnie w La Rochelle wytwarza si\u0119 nawozy sztuczne, tworzywa sztuczne i cement. Jest tu stocznia, tartaki, fabryka konserw rybnych oraz fabryka pojazd\u00f3w szynowych Alstom. Jedn\u0105 z letnich atrakcji jest s\u0142ynny na ca\u0142\u0105 Francj\u0119 festiwal muzyczny Francofolies, odbywaj\u0105cy si\u0119 tu od 1985 roku. Port handlowy La Rochelle jest nazywany tak\u017ce La Pallice od dzielnicy, w kt\u00f3rej si\u0119 znajduje. Podczas II wojny \u015bwiatowej by\u0142a tam wa\u017cna baza niemieckich okr\u0119t\u00f3w podwodnych. W mie\u015bcie znajduje si\u0119 stacja kolejowa Gare de La Rochelle. Urodzi\u0142 si\u0119 tutaj fizyk i przyrodnik Ren\u00e9 Antoine Ferchault de R\u00e9aumur.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_de_La_Rochelle.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742646570,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        105048,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "80014",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "17000",
+        null
+    ],
+    "latitude": [
+        46.1591,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -1.1517,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        28430000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Charente-Maritime",
+        null
+    ],
+    "maximumElevation": [
+        28,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "La Rochelle",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "La Rochelle",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        4,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

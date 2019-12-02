@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "25.54",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "36044",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de la ville de Ch\u00e2teauroux .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.villes-et-villages-fleuris.com/chateaur.htm",
+        null
+    ],
+    "caption": [
+        "St. Andrew's Church",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Ch\u00e2teauroux - miejscowo\u015b\u0107 i gmina we Francji, w Regionie Centralnym, w departamencie Indre. Wed\u0142ug danych na rok 1990 gmin\u0119 zamieszkiwa\u0142o 50 969 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 1996 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1842 gmin Regionu Centralnego Ch\u00e2teauroux plasuje si\u0119 na 4. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 477.). W miejscowo\u015bci znajduje si\u0119 stacja kolejowa Gare de Ch\u00e2teauroux.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Ch\u00e2teauroux_\u00e9glise_Saint-Andr\u00e9_7.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        740675901,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        984396,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "44960",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "36000",
+        null
+    ],
+    "latitude": [
+        46.8103,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.6911,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        25540000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Indre",
+        null
+    ],
+    "maximumElevation": [
+        164,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        132,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Ch\u00e2teauroux",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Castelroussine",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Jean-Fran\u00e7ois Mayet",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        154,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

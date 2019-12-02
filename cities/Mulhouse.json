@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "22.18",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "68224",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Mulhouse.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Alsace",
+        null
+    ],
+    "term": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://lefuretmulhousien.fr",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "M\u00fclhausen (franz\u00f6sisch Mulhouse [my\u02c8lu\u02d0z], els\u00e4ssisch M\u00eclh\u00fcsa) ist eine Stadt im Elsass in der Verwaltungsregion Grand Est im Osten Frankreichs. Die Stadt ist Sitz der Unterpr\u00e4fektur (Sous-pr\u00e9fecture) des Arrondissements Mulhouse im D\u00e9partement Haut-Rhin. Das Arrondissement gliedert sich in neun Kantone. M\u00fclhausen wird von zwei Wasserl\u00e4ufen, der Doller und dem Rheinzufluss Ill, durchquert. M\u00fclhausen liegt geographisch am Dreil\u00e4ndereck Frankreich, Deutschland, Schweiz. Nordwestlich der Stadt am Fu\u00dfe der Vogesen liegt Thann, das s\u00fcdliche Tor zur Els\u00e4sser Weinstra\u00dfe (Route du vin). Auch ist M\u00fclhausen das Tor zum Sundgau im \u00e4u\u00dfersten S\u00fcden des Elsass. M\u00fclhausen liegt in der Trinationalen Metropolregion Oberrhein. Mit 112.063 Einwohnern (1. Januar 2013) und 278.206 Einwohnern im Gro\u00dfraum ist M\u00fclhausen die gr\u00f6\u00dfte Stadt des D\u00e9partements. M\u00fclhausen ist die mit Abstand gr\u00f6\u00dfte der 32 Gemeinden der Communaut\u00e9 d\u2019agglom\u00e9ration Mulhouse Alsace Agglom\u00e9ration (MAA, 252.000 Einwohner). Seit dem 17. Februar 2014 ist die Stadt M\u00fclhausen im Sinne der Europ\u00e4ischen Charta der Regional- oder Minderheitensprachen zweisprachig.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mulhouseviews.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743715535,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        364964,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "112063",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "68100, 68200",
+        null
+    ],
+    "latitude": [
+        47.75,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        7.34,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        22180000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Haut-Rhin",
+        null
+    ],
+    "maximumElevation": [
+        338,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        232,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Mulhouse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        240,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "9.26",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "38421",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Saint Martin dHeres.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-st-martin-dheres.fr/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Saint-Martin-d'H\u00e8res is a commune in the Is\u00e8re department in southeastern France. It is the largest suburb of the city of Grenoble and is adjacent to it on the east.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/\u00c9glise_St-Martin_de_Saint-Martin-d'H\u00e8res.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        710250688,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5147605,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "37126",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "38400",
+        null
+    ],
+    "latitude": [
+        45.1672,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.7653,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        9260000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        610,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        206,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Saint-Martin-d\u2019H\u00e8res-Nord, Saint-Martin-d\u2019H\u00e8res-Sud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Grenoble Alpes M\u00e9tropole",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "David Queiros",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        234,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

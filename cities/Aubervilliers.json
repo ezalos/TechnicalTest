@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "5.76",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93001",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Aubervilliers.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France",
+        null
+    ],
+    "term": [
+        2016,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/fr/themes/tableau_local.asp?ref_id=POP&millesime=2010&nivgeo=DEP&codgeo=93",
+        null
+    ],
+    "caption": [
+        "Town Centre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Aubervilliers \u00e9 uma vila da Fran\u00e7a, situada na periferia nordeste de Paris, no departamento de Seine-Saint-Denis, regi\u00e3o de \u00cele-de-France. Sua popula\u00e7\u00e3o era de 63.136 habitantes, em 1999. O Telecity Paris, datacenter que abriga servidores da Wikimedia, est\u00e1 localizado em Aubervilliers. Originalmente toda o seu territ\u00f3rio era uma propriedade agr\u00edcola (villare) pertencente a um certo Albert ou Aubert. Aubervilliers n\u00e3o aparece nos arquivos antes de 1060, quando ser\u00e1 uma vila povoada por agricultores, mantendo-se assim at\u00e9 o s\u00e9culo XIX, pois a proximidade dos mercados de Paris favorecia a cultura verduras e legumes O Forte de Aubervilliers, constru\u00eddo em 1843, \u00e9 uma das obras realizadas a partir de1840, por determina\u00e7\u00e3o do ent\u00e3o presidente da rep\u00fablica, Adolphe Thiers, para proteger Paris e esmagar eventuais rebeli\u00f5es. O forte ser\u00e1 particularmente \u00fatil na repress\u00e3o \u00e0 Comuna de Paris, em 1871. Durante a Revolu\u00e7\u00e3o Industrial, ind\u00fastrias se instalam ao longo do Canal de Saint Denis, que atravessa a parte oeste da cidade, e os oper\u00e1rios, muitos dos quais estrangeiros, v\u00e3o residir nas \u00e1reas da periferia da capital, onde o aluguel \u00e9 mais barato. Desde ent\u00e3o, Aubervilliers \u00e9 uma cidade multicultural, onde coabitam pessoas de 70 nacionalidades.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Aubervilliers_centre_fr.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742104940,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        504288,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "77452",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93300",
+        null
+    ],
+    "latitude": [
+        48.9131,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3831,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        5760000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Seine-Saint-Denis",
+        null
+    ],
+    "maximumElevation": [
+        46,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        33,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Capital of two cantons:",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Plaine-Commune",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Meriem Derkaoui",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

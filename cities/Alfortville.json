@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "3.67",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94002",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Alfortville 94.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://dessous-alfortville.blogspot.fr/",
+        null
+    ],
+    "caption": [
+        "Alfortville and Chinagora, with a barge and tugboat on the River Seine",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u0410\u043b\u044c\u0444\u043e\u0440\u0432\u0438\u043b\u044c (\u0444\u0440. Alfortville) \u2014 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438, \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0430\u044f\u0441\u044f \u0432 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0435 \u0412\u0430\u043b\u044c-\u0434\u0435-\u041c\u0430\u0440\u043d \u0440\u0435\u0433\u0438\u043e\u043d\u0430 \u0418\u043b\u044c-\u0434\u0435-\u0424\u0440\u0430\u043d\u0441.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Barges_paris_P1050238.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738563968,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3115867,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "44371",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94140",
+        null
+    ],
+    "latitude": [
+        48.805,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4239,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        3670000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Val-de-Marne",
+        null
+    ],
+    "maximumElevation": [
+        37,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        27,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Cr\u00e9teil",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Alfortville-Nord and Alfortville-Sud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Plaine Centrale du Val-de-Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Ren\u00e9 Rouquet",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        32,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

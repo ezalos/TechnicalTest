@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "17.95",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "06027",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville Cagnes-sur-Mer .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.cagnes-sur-mer.fr/index.php",
+        null
+    ],
+    "caption": [
+        "The old village of Haut-de-Cagnes as seen from the ch\u00e2teau",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Cagnes-sur-Mer [ka\u0272 sy\u0281 m\u025b\u02d0\u0281] ist eine Stadt im S\u00fcdosten Frankreichs im D\u00e9partement Alpes-Maritimes der Region Provence-Alpes-C\u00f4te d\u2019Azur und in der M\u00e9tropole Nice C\u00f4te d\u2019Azur mit 46.940 Einwohnern (Stand 1. Januar 2013). Cagnes-sur-Mer liegt an der Mittelmeerk\u00fcste (C\u00f4te d\u2019Azur), \u00f6stlich von Cannes und westlich von Nizza (Nice).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Cagnes-sur-Mer.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745109243,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3546923,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "46686",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "06800",
+        null
+    ],
+    "latitude": [
+        43.6644,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        7.1489,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        17950000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        187,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Grasse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "7.81",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92025",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Colombes .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://observer.guardian.co.uk/europe/story/0,11363,1115657,00.html",
+        null
+    ],
+    "caption": [
+        "The town hall of Colombes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Colombes (franz\u00f6sisch [k\u0254\u02c8l\u00f5b]) ist eine franz\u00f6sische Industriestadt mit 84.577 Einwohnern (Stand 1. Januar 2013) im Gro\u00dfraum von Paris. Sie befindet sich rund zehn Kilometer nordwestlich des Pariser Stadtzentrums im D\u00e9partement Hauts-de-Seine zwischen Courbevoie und Argenteuil am S\u00fcdufer der Seine. Die Einwohner werden Colombiens genannt.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/P1080870_Mairie_Colombes.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743148845,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1199379,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "83220",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92700",
+        null
+    ],
+    "latitude": [
+        48.9236,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2522,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        7810000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        44,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        23,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Nicole Goueta",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

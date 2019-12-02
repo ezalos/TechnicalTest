@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "26.93",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "64024",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Anglet.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "https://www.google.com/maps/place/Anglet/@43.4792035,-1.5233892,13215m/data=!3m1!1e3!4m2!3m1!1s0xd51401cdc979735:0xbdbc5ff838b9ab48?hl=en",
+        null
+    ],
+    "caption": [
+        "Town Hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Anglet (in lingua basca \u00e8 Angelu) \u00e8 un comune francese di 39.034 abitanti situato nel dipartimento dei Pirenei Atlantici nella regione dell'Aquitania. Vi si trova il convento di Notre-Dame du refuge, casa madre e generalizia delle Ancelle di Maria.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Anglet_Mairie.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        736444574,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2431503,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "38032",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "64600",
+        null
+    ],
+    "latitude": [
+        43.485,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -1.5183,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        26930000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        76,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Anglet and Bayonne-1",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "C\u00f4te Basque-Adour",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Claude Olive",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        38,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

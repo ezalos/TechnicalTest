@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "33.08",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "26281",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Romans-sur-Is\u00e8re (oder auch Romans) ist eine franz\u00f6sische Gemeinde mit 33.632 Einwohnern (Stand 1. Januar 2013) im D\u00e9partement Dr\u00f4me in der Region Auvergne-Rh\u00f4ne-Alpes im S\u00fcdosten Frankreichs. Die Stadt liegt am Fluss Is\u00e8re, zirka 20 Kilometer nord\u00f6stlich von Valence. Gemeinsam mit der Nachbarstadt Bourg-de-P\u00e9age bildet Romans einen Ballungsraum mit 50.000 Menschen, den Romanais und den P\u00e9ageois. Die Stadt beheimatet eine Produktionsanlage f\u00fcr Kernbrennstoffe der Firma FBFC. International bekannt wurde Romans durch die einem Stadtaufstand gewidmete Studie (1979) des bekannten Historikers Emmanuel Le Roy Ladurie Karneval in Romans. Eine Revolte und ihr blutiges Ende 1579-80.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Romansvg.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738707957,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1396617,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "33701",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "26100",
+        null
+    ],
+    "latitude": [
+        45.0464,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.0517,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        33080000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        291,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        122,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Pays de Romans",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Marie-H\u00e9l\u00e8ne Thoraval",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        167,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

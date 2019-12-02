@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "45.7",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "98818",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Armoiries Noum\u00e9an fr.png",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        "June 2015 census",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "https://web.archive.org/web/20050328065902/http:/www.ac-noumea.nc/laperouse/site-hg/site/",
+        null
+    ],
+    "caption": [
+        "City centre and Noum\u00e9a Cathedral",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Noum\u00e9a (auch Numea) ist die Hauptstadt des franz\u00f6sischen \u00dcberseegebietes Neukaledonien. Noum\u00e9a wurde 1854 auf einer stark gegliederten rund 10 Kilometer langen Halbinsel am s\u00fcdwestlichen Ende der neukaledonischen Insel unter dem Namen Port-de-France gegr\u00fcndet. Die Gemeinde hat 97.579 Einwohner; mit Vororten hat Gro\u00df-Noum\u00e9a (franz\u00f6sisch agglom\u00e9ration du Grand Noum\u00e9a) 163.732 Einwohner (beide Stand 2009). Die Stadt ist Sitz des r\u00f6misch-katholischen Erzbistums Noum\u00e9a. Hier befindet sich auch die Universit\u00e4t Neukaledonien.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Noumea_centre_1402561139_375c811796_o.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739797331,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        413525,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "100237",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "98800",
+        null
+    ],
+    "latitude": [
+        -22.2758,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        166.458,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        45700000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        167,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        20,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

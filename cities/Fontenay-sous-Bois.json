@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "5.58",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94033",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2016,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "https://web.archive.org/web/20071124142010/http:/www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "A road in the centre of Fontenay-sous-Bois",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Fontenay-sous-Bois  es una comuna y poblaci\u00f3n de Francia, en la regi\u00f3n de Isla de Francia, departamento de Valle del Marne, en el distrito de Nogent-sur-Marne. La comuna forma por s\u00ed sola dos cantones: Fontenay-sous-Bois-Est y Fontenay-sous-Bois-Ouest. Su poblaci\u00f3n municipal de 2007 era de 52 143 habitantes: 25 533 en Fontenay-sous-Bois Este y 26 610 en Fontenay-sous-Bois Oeste. No est\u00e1 integrada en ninguna Communaut\u00e9 d'agglom\u00e9ration u organismo similar.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Rue_du_Centre_Fontenay.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739506867,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3108672,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "53124",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94120",
+        null
+    ],
+    "latitude": [
+        48.8517,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4772,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        5580000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        111,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        44,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Nogent-sur-Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        "Paris-Est-Marne et Bois",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "GAUTRAIS Jean-Philipp",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

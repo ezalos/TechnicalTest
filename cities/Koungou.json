@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "28.41",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "98510",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        null,
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Koungou es una comuna francesa situada en el departamento de Mayotte, de la regi\u00f3n de Mayotte.",
+        null
+    ],
+    "thumbnail": [
+        "http://en.wikipedia.org/wiki/Special:FilePath/Koungou.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        705608864,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3781613,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "26488",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97600",
+        null
+    ],
+    "latitude": [
+        -12.7385,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        45.2071,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        28410000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "8.35",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "33522",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Talence .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Aquitaine",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "https://web.archive.org/web/20071124142010/http:/www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Talence \u00e9 uma comuna francesa na regi\u00e3o administrativa da Aquit\u00e2nia, no departamento Gironde. Estende-se por uma \u00e1rea de 8,35 km\u00b2. Em 2010 a comuna tinha 40 600 habitantes (densidade: 4 862,3 hab./km\u00b2).130 hab/km\u00b2.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Eglise_de_Talence.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        730074994,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5146274,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "40576",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "33400",
+        null
+    ],
+    "latitude": [
+        44.8,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -0.584,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        8350000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Gironde",
+        null
+    ],
+    "maximumElevation": [
+        29,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Talence",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Alain Cazabonne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        15,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "68.07",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "66136",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Arms of Perpignan.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Languedoc-Roussillon",
+        null
+    ],
+    "term": [
+        2009,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ajuntament-perpinya.cat/",
+        null
+    ],
+    "caption": [
+        "Perpignan seen from the Palace of the Kings of Majorca",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Perpinh\u00e3 ou Perpinh\u00e3o (em franc\u00eas Perpignan e em catal\u00e3o Perpiny\u00e0) \u00e9 uma cidade e comuna da Fran\u00e7a. Est\u00e1 localizada no departamento dos Pirineus Orientais, sendo a capital de departamento mais meridional da Fran\u00e7a continental. A cidade foi a capital continental do Reino de Maiorca nos s\u00e9culos XIII e XIV, e mais tarde foi a capital da prov\u00edncia de Rossilh\u00e3o. Nos \u00faltimos anos a cidade tem-se promovido com o slogan Perpignan la Catalane (em franc\u00eas) / Perpiny\u00e0 la Catalana (em catal\u00e3o). Em 2008 foi distinguida como Capital da Cultura Catal\u00e3. A 11 de Junho de 2010 as autoridades camar\u00e1rias aprovam, por unanimidade, a Carta Municipal para a l\u00edngua catal\u00e3, estabelecendo este idioma co-oficial com o franc\u00eas. A cidade \u00e9 dominada por a sea catedral de S\u00e3o Jo\u00e3o Batista e do Pal\u00e1cio dos reis de Maiorca.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_Perpignan.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744794267,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        38707,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "118238",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "66000",
+        null
+    ],
+    "latitude": [
+        42.6986,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.8956,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        68070000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Pyr\u00e9n\u00e9es-Orientales",
+        null
+    ],
+    "maximumElevation": [
+        95,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        8,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Perpignan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "T\u00eat M\u00e9diterran\u00e9e",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        30,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

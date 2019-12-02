@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "165.43",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "97422",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/R\u00e9union",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.letampon.fr/",
+        null
+    ],
+    "caption": [
+        "The church of Le Tampon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Le Tampon ist eine Gemeinde des franz\u00f6sischen \u00dcbersee-D\u00e9partements R\u00e9union mit 76.090 Einwohnern (Stand 1. Januar 2013).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_South-West_Africa_People's_Organisation.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        735915483,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5361421,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "75631",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97430",
+        null
+    ],
+    "latitude": [
+        -21.2781,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        55.5153,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        165430000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/R\u00e9union",
+        null
+    ],
+    "maximumElevation": [
+        2418,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        287,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Communes du Sud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Andr\u00e9 Thien Ah Koon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        546,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

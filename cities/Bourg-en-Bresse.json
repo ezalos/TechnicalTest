@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "23.86",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "01053",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Bourg-en-Bresse.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Prefecture building of the Ain department",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Bourg-en-Bresse is een stad in het oosten van Frankrijk. De stad is de prefectuur van het departement Ain. Er wonen ongeveer 40.000 mensen. Bourg is ook de belangrijkste plaats van de voormalige provincie Bresse, een streek die vooral bekend is vanwege het pluimvee (Bressekip of poulet de Bresse). In de gemeente ligt spoorwegstation Bourg-en-Bresse.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Pr\u00e9fecture.Ain.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738009925,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        263841,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "40203",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "01000",
+        null
+    ],
+    "latitude": [
+        46.2056,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.2289,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        23860000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        273,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        220,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Bourg-en-Bresse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Bourg-en-Bresse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Jean-Fran\u00e7ois Debat",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        240,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

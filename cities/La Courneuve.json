@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "7.52",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93027",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason La Courneuve 93.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "https://www.facebook.com/pages/La-Courneuve/466571183447193",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "La Courneuve  es una comuna (municipio) de Francia, en la regi\u00f3n de Isla de Francia, departamento de Sena-San Denis, en el distrito de Saint-Denis. La comuna forma ella sola el cant\u00f3n de su nombre. Est\u00e1 integrada en la Communaut\u00e9 d\u2019agglom\u00e9ration Plaine Commune.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_la_Courneuve.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744788055,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2835179,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "37539",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93 120",
+        null
+    ],
+    "latitude": [
+        48.9322,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3967,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        7520000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Seine-Saint-Denis",
+        null
+    ],
+    "maximumElevation": [
+        60,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        29,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "La Courneuve",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Gilles Poux",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        40,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "20.67",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "03185",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Montlu\u00e7on.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mairie-montlucon.fr/",
+        null
+    ],
+    "caption": [
+        "Castle of Montlu\u00e7on",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u8499\u5415\u677e\uff08\u6cd5\u8bed\uff1aMontlu\u00e7on\uff09\u662f\u4e00\u5ea7\u6cd5\u56fd\u4e2d\u90e8\u57ce\u5e02\uff0c\u4f4d\u4e8e\u6cd5\u56fd\u5965\u5f17\u6d85\u5927\u533a\u963f\u5217\u7701\u5883\u5185\uff0c\u8c22\u5c14\u6cb3\u7554\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Montlucon.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        727684392,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1921491,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "38072",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "03100",
+        null
+    ],
+    "latitude": [
+        46.3408,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.6033,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        20670000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Allier",
+        null
+    ],
+    "maximumElevation": [
+        364,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        194,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Montlu\u00e7on",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Montlu\u00e7on",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Daniel Dugl\u00e9ry",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        207,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        null,
+        null
+    ],
+    "inseeCode": [
+        null,
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        null,
+        null
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        null,
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "\u30d0\u30cb\u30e5\u30fc\uff08Bagneux\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u306e\u5404\u5730\u306b\u5b58\u5728\u3059\u308b\u5730\u540d\u3067\u3042\u308b\u3002 \n*  \u30d0\u30cb\u30e5\u30fc (\u30a8\u30fc\u30cc\u770c)  (fr)  \n*  \u30d0\u30cb\u30e5\u30fc (\u30a2\u30ea\u30a8\u770c)  (fr)  \n*  \u30d0\u30cb\u30e5\u30fc (\u30a2\u30f3\u30c9\u30eb\u770c)  (fr)  \n*  \u30d0\u30cb\u30e5\u30fc (\u30de\u30eb\u30cc\u770c)  (fr)  \n*  \u30d0\u30cb\u30e5\u30fc (\u30e0\u30eb\u30c8\uff1d\u30a8\uff1d\u30e2\u30bc\u30eb\u770c)  (fr)  \n*  \u30d0\u30cb\u30e5\u30fc (\u30aa\u30fc\uff1d\u30c9\uff1d\u30bb\u30fc\u30cc\u770c) __DISAMBIG__",
+        null
+    ],
+    "thumbnail": [
+        null,
+        null
+    ],
+    "wikiPageRevisionID": [
+        618655874,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1166617,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        null,
+        null
+    ],
+    "populationTotal": [
+        null,
+        null
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        null,
+        null
+    ],
+    "longitude": [
+        null,
+        null
+    ],
+    "area": [
+        null,
+        null
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

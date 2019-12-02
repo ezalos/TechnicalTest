@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "1.85",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94018",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Charenton-le-Pont 94.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.archeo.cg94.fr/noticeshistorique/charenton.html",
+        null
+    ],
+    "caption": [
+        "Arthur Dussault square inCharenton-le-pont",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Charenton-le-Pont est une commune du d\u00e9partement du Val-de-Marne en r\u00e9gion \u00cele-de-France, en France.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Charenton-le-pont_place_dussault.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737930994,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        208913,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "28679",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94220",
+        null
+    ],
+    "latitude": [
+        48.8265,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.405,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        1850000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        57,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        28,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Cr\u00e9teil",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Charenton-le-Pont",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Charenton-le-Pont - Saint-Maurice",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Jean-Marie Br\u00e9tillon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        36,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

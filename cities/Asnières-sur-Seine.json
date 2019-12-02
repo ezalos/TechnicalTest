@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "4.82",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92004",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Asni\u00e8res-sur-Seine .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The Seine with the Pont de la Grande Jatte",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30a2\u30cb\u30a8\u30fc\u30eb\uff1d\u30b7\u30e5\u30eb\uff1d\u30bb\u30fc\u30cc \uff08Asni\u00e8res-sur-Seine\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30a4\u30eb\uff1d\u30c9\uff1d\u30d5\u30e9\u30f3\u30b9\u5730\u57df\u570f\u3001\u30aa\u30fc\uff1d\u30c9\uff1d\u30bb\u30fc\u30cc\u770c\u306e\u30b3\u30df\u30e5\u30fc\u30f3\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Chateaud'asni\u00e8res.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743148890,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1150093,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "83845",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92600",
+        null
+    ],
+    "latitude": [
+        48.9108,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2889,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        4820000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        43,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        22,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Nanterre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Manuel Aeschlimann",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

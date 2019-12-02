@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.01",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "91174",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Corbeil-Essonnes2 .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2007,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mjccorbeil.com",
+        null
+    ],
+    "caption": [
+        "The town Hall of Corbeil-Essonnes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u041a\u043e\u0440\u0431\u0435\u0439-\u042d\u0441\u043e\u043d\u043d (\u0444\u0440. Corbeil-Essonnes) \u2014 \u0433\u043e\u0440\u043e\u0434 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u0432\u043e \u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u043c \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0435 \u042d\u0441\u043e\u043d, \u043e\u043a\u0440\u0443\u0433 \u042d\u0432\u0440\u0438, \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u0434\u0432\u0443\u0445 \u043a\u0430\u043d\u0442\u043e\u043d\u043e\u0432.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Corbeil-Essonnes_H\u00f4tel_de_Ville.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741772078,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1111731,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "41308",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        48.6139,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.482,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11010000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        92,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        32,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Corbeil-Essonnes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Seine-Essonne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Jean-Pierre Bechter",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

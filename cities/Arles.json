@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "758.93",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "13004",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Arles 13.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-arles.fr/",
+        null
+    ],
+    "caption": [
+        "Aerial view of Arles",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30a2\u30eb\u30eb\uff08\u30d5\u30e9\u30f3\u30b9\u8a9e: Arles\u3001\u30aa\u30c3\u30af\u8a9e\u30d7\u30ed\u30f4\u30a1\u30f3\u30b5\u30eb\u65b9\u8a00: Arle\uff09\u306f\u30d5\u30e9\u30f3\u30b9\u5357\u90e8\u306b\u3042\u308b\u30b3\u30df\u30e5\u30fc\u30f3\u3002\u540c\u56fd\u5185\u6700\u5927\u9762\u7a4d\u3092\u6301\u3064\u3002\u4f4f\u6c11\u306e\u547c\u79f0\u306f\u30a2\u30eb\u30ec\u30b8\u30e3\u30f3 (Arl\u00e9siens) \u3068\u547c\u3070\u308c\u3001\u30d5\u30a3\u30f3\u30bb\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30fb\u30b4\u30c3\u30db\u306e\u7d75\u753b\u306a\u3069\u306e\u984c\u540d\u306b\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u300e\u30a2\u30eb\u30eb\u306e\u5973 (l'Arl\u00e9sienne)\u300f\u306f\u3053\u306e\u5973\u6027\u5358\u6570\u5f62\u3067\u3042\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/1_arles_france_2016.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744888865,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        79494,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "52439",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "13200",
+        null
+    ],
+    "latitude": [
+        43.6767,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.6278,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        758930000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Bouches-du-Rh\u00f4ne",
+        null
+    ],
+    "maximumElevation": [
+        57,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Arles",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Arles-Est and Arles-Ouest",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Herv\u00e9 Schiavetti",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        10,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

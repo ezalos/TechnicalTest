@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "52.81",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "72181",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Le Mans  .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-lemans.fr/",
+        null
+    ],
+    "caption": [
+        "Top row: left, Le Mans 24-hr automobile race in June; right, Le Mans Justice Department Office; Middle row: View of Sarthe River and historic area, including the Palais of Comtes du Maine; Bottom row: left, Le Mans Tramway in Gambetta Street; center, Facade built in Le Mans Commerce Center; right, Saint Julien Cathedral",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Le Mans is een stad in Noordwest-Frankrijk. Het is de hoofdstad van het departement Sarthe. Le Mans heeft 145.000 inwoners. De kathedraal van Le Mans behoort tot de voornaamste gotische bouwwerken in Frankrijk. De stad is bekend van de 24 uur van Le Mans, de race die sinds 1923 op het 13,65 km lange 'Circuit de la Sarthe' circuit wordt gehouden. De naam van het circuit komt van de rivier de Sarthe, waar Le Mans aan ligt. Tijdens de race is het de bedoeling om in 24 uur tijd zo veel mogelijk ronden te rijden. De race vindt elk jaar in het tweede weekend van juni plaats.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Montage_du_Mans.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742966277,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        18730,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "148169",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "72000",
+        null
+    ],
+    "latitude": [
+        48.0077,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        0.1984,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        52810000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        134,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        38,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Le Mans",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Le Mans",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Jean-Claude Boulard",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        51,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

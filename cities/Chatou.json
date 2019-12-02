@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "5.08",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "78146",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Chatou.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.chatou.fr/",
+        null
+    ],
+    "caption": [
+        "Church of Notre-Dame in Chatou",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Chatou \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie \u00cele-de-France, w departamencie Yvelines. Przez miejscowo\u015b\u0107 przep\u0142ywa Sekwana. Wed\u0142ug danych na rok 1990 gmin\u0119 zamieszkiwa\u0142o 27 977 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 5507 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1287 gmin regionu \u00cele-de-France Chatou plasuje si\u0119 na 87. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 671.).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Church_of_Notre-Dame_in_Chatou_004.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737343348,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3595970,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "30585",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "78400",
+        null
+    ],
+    "latitude": [
+        48.8897,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.1573,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        5080000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Yvelines",
+        null
+    ],
+    "maximumElevation": [
+        58,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        22,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Saint-Germain-en-Laye",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Chatou",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Boucle de la Seine",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Ghislain Fournier",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

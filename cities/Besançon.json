@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "65.05",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "25056",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Besan\u00e7on .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Franche-Comt\u00e9",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The old city of Besan\u00e7on",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Besanz\u00f3n (en franc\u00e9s: Besan\u00e7on) es una comuna francesa situada al este del pa\u00eds, en el departamento de Doubs y regi\u00f3n de Franco Condado. La poblaci\u00f3n de la ciudad propiamente dicha es de 117.836 habitantes, y constituye el centro de un \u00e1rea metropolitana de 222.000 habitantes. La ciudad ha sido proclamada a menudo como primera ciudad verde en Francia y cuenta con una calidad de vida reconocida a nivel nacional y remarcada por sus innovaciones sociales y ecologistas. Las fortificaciones de Besanz\u00f3n est\u00e1n inscritas en la lista del Patrimonio de la Humanidad desde el a\u00f1o 2008.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Besancon_boucle_Doubs.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744948160,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        86918,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "116353",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        47.2431,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.0219,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        65050000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Doubs",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jean-Louis Fousseret",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "3.8",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94038",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Ha\u00ff-les-Roses 94.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2015,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ume.asso.fr",
+        null
+    ],
+    "caption": [
+        "The Norman Pavillon at the Roseraie du Val-de-Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "L'Ha\u00ff-les-Roses is een gemeente in het Franse departement Val-de-Marne (regio \u00cele-de-France) en telt 29.660 inwoners (1999). De plaats maakt deel uit van het arrondissement L'Ha\u00ff-les-Roses.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Pavillon_normand.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742038105,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2681528,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "31498",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94240",
+        null
+    ],
+    "latitude": [
+        48.7727,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3363,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        3800000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Val-de-Marne",
+        null
+    ],
+    "maximumElevation": [
+        110,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        45,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "L'Ha\u00ff-les-Roses",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "L'Ha\u00ff-les-Roses",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Vincent Jeanbrun",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

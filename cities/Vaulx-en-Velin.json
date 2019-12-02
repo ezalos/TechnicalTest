@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "20.95",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "69256",
+        null
+    ],
+    "imageCoatOfArms": [
+        "File:Blason ville fr Vaulx-en-Velin .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Auvergne-Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mairie-vaulx-en-velin.fr/",
+        null
+    ],
+    "caption": [
+        "The town hall in Vaulx-en-Velin",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30f4\u30a9\u30fc\uff1d\u30a2\u30f3\uff1d\u30f4\u30e9\u30f3 \uff08Vaulx-en-Velin\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30ed\u30fc\u30cc\uff1d\u30a2\u30eb\u30d7\u5730\u57df\u570f\u3001\u30ed\u30fc\u30cc\u770c\u306e\u90fd\u5e02\u3002\u30ea\u30e8\u30f3\u5317\u6771\u90e8\u306e\u90ca\u5916\u30b3\u30df\u30e5\u30fc\u30f3\u3067\u3001\u30d6\u30ed\u30f3\u3084\u30c7\u30b7\u30fc\u30cc\uff1d\u30b7\u30e3\u30eb\u30d4\u30e5\u30fc\u540c\u69d8\u30ec\u30b9\u30c8\u30fb\u30ea\u30e8\u30cd\u30fc\u30ba\u3068\u547c\u3070\u308c\u308b\u30b3\u30df\u30e5\u30fc\u30f3\u7fa4\u306b\u542b\u307e\u308c\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Vaulx-en-Velin_mairie.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        704468087,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3115880,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "43394",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "69120",
+        null
+    ],
+    "latitude": [
+        45.7768,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.9186,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        20950000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        193,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        165,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        192,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

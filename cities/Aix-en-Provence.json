@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "186.08",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "13001",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Arms Aix-en-Provence.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Provence-Alpes-C\u00f4te_d'Azur",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mairie-aixenprovence.fr/",
+        null
+    ],
+    "caption": [
+        "The Fontaine de la Rotonde, built in 1860",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        " \u666e\u7f57\u65fa\u65af\u5730\u533a\u827e\u514b\u65af\u6216\u4e9e\u6851\u84b2\u574a\uff08\u6cd5\u8bed\uff1aAix-en-Provence\uff09\u662f\u6cd5\u56fd\u666e\u7f57\u65fa\u65af-\u963f\u5c14\u5351\u65af-\u84dd\u8272\u6d77\u5cb8\u7f57\u8bb7\u6cb3\u53e3\u7701\u7684\u4e00\u5ea7\u57ce\u5e02\uff0c\u4eba\u53e3134,222\uff081999\u5e74\uff09\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Aix-en-Provence_20110930_12.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742885469,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        79495,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "141438",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "13100 or 13090",
+        null
+    ],
+    "latitude": [
+        43.526304,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.445429,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        186080000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Bouches-du-Rh\u00f4ne",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Aix-en-Provence",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Pays d'Aix",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        173,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

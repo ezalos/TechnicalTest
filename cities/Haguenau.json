@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "182.59",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "67180",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason haguenau 67.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Alsace-Champagne-Ardenne-Lorraine",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-haguenau.fr/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Hagenau (franz\u00f6sisch: Haguenau [ag\u02c8no], els\u00e4ssisch: H\u00e0wen\u00e0u) ist eine Stadt im els\u00e4ssischen Teil der Region Grand Est (Frankreich). Sie befindet sich rund 25 Kilometer n\u00f6rdlich der els\u00e4ssischen Hauptstadt Stra\u00dfburg, ca. 40 km westlich von Baden-Baden, ungef\u00e4hr 50 Kilometer s\u00fcdwestlich von Karlsruhe und etwa 75 Kilometer s\u00fcd\u00f6stlich der saarl\u00e4ndischen Landeshauptstadt Saarbr\u00fccken. Die an der Moder gelegene Stadt ist Sitz des Arrondissement Haguenau und Hauptort des Kantons Haguenau. Mit 34.419 Einwohnern (Stand 1. Januar 2013) ist Haguenau nach Stra\u00dfburg die zweitgr\u00f6\u00dfte Stadt im D\u00e9partement Bas-Rhin (Niederrhein). Die Haguenauer Bev\u00f6lkerung wuchs zwischen 1968 und 2006 von 22.644 auf 34.891 Einwohner an; seit 2006 geht die Bev\u00f6lkerungszahl jedoch wieder langsam zur\u00fcck (2009: 34.648). Der Gro\u00dfraum Haguenau (aire urbaine) wuchs im gleichen Zeitraum von 43.904 Einwohnern (1968) auf 64.562 Einwohner (2006).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_haguenau_67.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        717810711,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        998902,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "34891",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "67500",
+        null
+    ],
+    "latitude": [
+        48.82,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        7.79,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        182590000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Bas-Rhin",
+        null
+    ],
+    "maximumElevation": [
+        203,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        115,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Haguenau-Wissembourg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Haguenau",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Claude Sturni",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        150,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

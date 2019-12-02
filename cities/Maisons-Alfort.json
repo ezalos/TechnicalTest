@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "5.38",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94046",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Maison-Alfort 94.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ume.asso.fr",
+        null
+    ],
+    "caption": [
+        "The church of Sainte-Agn\u00e8s, in Maisons-Alfort",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Maisons-Alfort \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie \u00cele-de-France, w departamencie Dolina Marny. Wed\u0142ug danych na rok 2009 gmin\u0119 zamieszkiwa\u0142o 52 619 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 9 835 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1287 gmin regionu \u00cele-de-France Maisons-Alfort plasuje si\u0119 na 24. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 649.). Maisons-Alfort straci\u0142o cz\u0119\u015b\u0107 swojego terytorium po utworzeniu gminy Alfortville w 1885 r. Obecnie miasto ma kszta\u0142t tr\u00f3jk\u0105ta, ograniczonego: \n*  od zachodu jest oddzielone od Alfortville torowiskiem linii RER D ; \n*  od p\u00f3\u0142nocy rzek\u0105 Marn\u0105 ; \n*  od po\u0142udniowego wschodu miastem Cr\u00e9teil.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Eglise_Sainte-Agn\u00e8s_vue_de_l'\u00e9cole_v\u00e9t\u00e9rinaire_Maisons-Alfort_France.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744954706,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2013800,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "53607",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94700",
+        null
+    ],
+    "latitude": [
+        48.8058,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4378,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        5380000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        47,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        24,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Cr\u00e9teil",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Michel Herbillon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

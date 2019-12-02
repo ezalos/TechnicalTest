@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "26.45",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "27229",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason_ville_fr_Evreux_.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.grandevreuxtourisme.fr",
+        null
+    ],
+    "caption": [
+        "River Iton",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u00c9vreux \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie Normandia, w departamencie Eure. Wed\u0142ug danych na rok 1990 gmin\u0119 zamieszkiwa\u0142y 49 103 osoby, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 1856 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1421 gmin G\u00f3rnej Normandii \u00c9vreux plasuje si\u0119 na 3 miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 21). Znajduje si\u0119 tu pami\u0105tkowa tablica upami\u0119tniaj\u0105ca debiutancki wyst\u0119p grupy The Jimi Hendrix Experience z 13 pa\u017adziernika 1966 roku.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Iton_evreux.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742831779,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        638273,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "50777",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "27000",
+        null
+    ],
+    "latitude": [
+        49.02,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.15,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        26450000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Eure",
+        null
+    ],
+    "maximumElevation": [
+        146,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        58,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        92,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

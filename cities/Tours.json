@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "34.36",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "37261",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason tours 37.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.tours.fr/",
+        null
+    ],
+    "caption": [
+        "Town hall and Place Jean Jaur\u00e8s",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u0422\u0443\u0440 (\u0444\u0440. Tours, \u043b\u0430\u0442. Turones, Caesarodunum Turonum, Augusta Turonum) \u2014 \u0433\u043e\u0440\u043e\u0434 \u0432\u043e \u0424\u0440\u0430\u043d\u0446\u0438\u0438 \u043d\u0430 \u0440\u0435\u043a\u0435 \u041b\u0443\u0430\u0440\u0430, \u0432 \u043c\u0435\u0441\u0442\u0435 \u0441\u043b\u0438\u044f\u043d\u0438\u044f \u0435\u0451 \u0441 \u0440\u0435\u043a\u043e\u0439 \u0428\u0435\u0440. \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u042d\u043d\u0434\u0440 \u0438 \u041b\u0443\u0430\u0440\u0430. \u041d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 142000 (\u0433\u043e\u0440\u043e\u0434) \u0438 297630 (\u0441 \u043f\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u0430\u043c\u0438) \u0447\u0435\u043b\u043e\u0432\u0435\u043a (2006). \u0426\u0435\u043d\u0442\u0440 \u0432\u0438\u043d\u043e\u0434\u0435\u043b\u0438\u044f \u0434\u043e\u043b\u0438\u043d\u044b \u041b\u0443\u0430\u0440\u044b. \u0413\u043b\u0430\u0432\u043d\u044b\u0439 \u0433\u043e\u0440\u043e\u0434 \u0438\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u0422\u0443\u0440\u0435\u043d\u044c. \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0439 \u0443\u0437\u0435\u043b \u2014 \u0436\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0432\u043e\u043a\u0437\u0430\u043b, \u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442. \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435. \u0412\u0430\u0433\u043e\u043d\u043e\u0440\u0435\u043c\u043e\u043d\u0442\u043d\u0430\u044f, \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f, \u0444\u0430\u0440\u043c\u0430\u0446\u0435\u0432\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f, \u043f\u043e\u043b\u0438\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0430\u044f, \u0448\u0432\u0435\u0439\u043d\u0430\u044f, \u043c\u0435\u0431\u0435\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c. \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442. \u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u0432 \u0422\u0443\u0440\u0435, \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u0441\u0430\u043c\u044b\u043c \u0447\u0438\u0441\u0442\u044b\u043c. \u0412 \u0422\u0443\u0440\u0435 20 \u043c\u0430\u044f 1799 \u0433\u043e\u0434\u0430 \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u041e\u043d\u043e\u0440\u0435 \u0434\u0435 \u0411\u0430\u043b\u044c\u0437\u0430\u043a.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Loire_Indre_Tours1_tango7174.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745124545,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        31593,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "134978",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "37000, 37100, 37200",
+        null
+    ],
+    "latitude": [
+        47.3936,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        0.6892,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        34360000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Indre-et-Loire",
+        null
+    ],
+    "maximumElevation": [
+        109,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        44,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Tours",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Serge Babary",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

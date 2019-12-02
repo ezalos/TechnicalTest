@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "7.15",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "95500",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de Pontoise.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-pontoise.fr/",
+        null
+    ],
+    "caption": [
+        "A view of the cathedral of Saint-Maclou, from the Garden of Five Senses, on the promontory of the castle",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Pontoise \u2013 miejscowo\u015b\u0107 i gmina we Francji, w regionie \u00cele-de-France, w departamencie Val-d'Oise. Wed\u0142ug danych na rok 1990 gmin\u0119 zamieszkiwa\u0142o 27 150 os\u00f3b, a g\u0119sto\u015b\u0107 zaludnienia wynosi\u0142a 3813 os\u00f3b/km\u00b2 (w\u015br\u00f3d 1287 gmin regionu \u00cele-de-France Pontoise plasuje si\u0119 na 92. miejscu pod wzgl\u0119dem liczby ludno\u015bci, natomiast pod wzgl\u0119dem powierzchni na miejscu 544.).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Pontoise_(95),_cath\u00e9drale_Saint-Maclou,_vue_depuis_le_jardin_des_Cinq_Sens_(promontoire_du_ch\u00e2teau).jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742627865,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1024996,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "29885",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "95300",
+        null
+    ],
+    "latitude": [
+        49.0516,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.1017,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        7150000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Val-d'Oise",
+        null
+    ],
+    "maximumElevation": [
+        87,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        22,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Philippe Houillon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        27,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.43",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94028",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Cr\u00e9teil .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ume.asso.fr",
+        null
+    ],
+    "caption": [
+        "Val-de-Marne prefecture building by the lake",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Cr\u00e9teil es un municipio (commune) franc\u00e9s, situado en el departamento de Valle del Marne y en la regi\u00f3n de Isla de Francia. Sus habitantes se llaman, en franc\u00e9s, Cristoliens.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Creteil_prefecture.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743148179,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        473593,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "90197",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94000",
+        null
+    ],
+    "latitude": [
+        48.7911,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4628,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11430000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Val-de-Marne",
+        null
+    ],
+    "maximumElevation": [
+        74,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        31,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Cr\u00e9teil",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        63,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

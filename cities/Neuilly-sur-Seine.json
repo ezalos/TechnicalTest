@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "3.73",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92051",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Neuilly-sur-Seine .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Neuilly-sur-Seine (franz\u00f6sisch [n\u00f8ji sy\u0281 s\u025bn]) ist ein westlicher Vorort von Paris im D\u00e9partement Hauts-de-Seine mit 62.346 Einwohnern (Stand 1. Januar 2013). Die Einwohner werden Neuill\u00e9ens genannt. Im S\u00fcden und Westen wird Neuilly-sur-Seine vom Bois de Boulogne und der Seine begrenzt; im Norden bildet die Rue de Villiers die Grenze zu Levallois-Perret. Die westliche Stadtgrenze von Paris verl\u00e4uft etwas au\u00dferhalb des Autobahnrings Boulevard p\u00e9riph\u00e9rique. Neuilly ist der bevorzugte Wohnort des arrivierten und wohlhabenden franz\u00f6sischen B\u00fcrgertums, vor allem Anw\u00e4lte, Wirtschaftsfunktion\u00e4re und Prominente aus Film und Fernsehen. Die Avenue Charles-de-Gaulle verl\u00e4ngert zwischen der Porte Maillot und der Seine die sogenannte Axe historique der Avenue des Champs-\u00c9lys\u00e9es in Richtung La D\u00e9fense.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_Neuilly-sur-Seine.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741786628,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        234647,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "61754",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92200",
+        null
+    ],
+    "latitude": [
+        48.8881,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2686,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        3730000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        39,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        27,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Nanterre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Neuilly-Nord, Neuilly-Sud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jean-Christophe Fromantin",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

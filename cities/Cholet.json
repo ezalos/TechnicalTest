@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "87.47",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "49099",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Cholet .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        1999,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Pays-de-la-Loire",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-cholet.fr/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Cholet est une commune fran\u00e7aise, chef-lieu d'arrondissement, situ\u00e9e dans le d\u00e9partement de Maine-et-Loire et la r\u00e9gion Pays de la Loire. Elle est la ville principale des Mauges, au sud-ouest de l'ancienne province d'Anjou, \u00e0 proximit\u00e9 imm\u00e9diate de la Loire-Atlantique (ancienne province de Bretagne), de la Vend\u00e9e et des Deux-S\u00e8vres (ancienne province du Poitou). L'architecture et l'h\u00e9ritage culturel locaux sont fortement influenc\u00e9s par cette situation g\u00e9ographique. Aujourd'hui, du fait de sa plus forte ressemblance physique avec la Vend\u00e9e voisine qu'avec le reste de l'Anjou et de ses constructions en pierres de taille du bassin de la Loire mais aussi par le fait que Cholet est la principale ville conquise par l'Arm\u00e9e catholique et royale durant la guerre de Vend\u00e9e, la confusion, selon laquelle Cholet est situ\u00e9e en Vend\u00e9e, persiste dans la pens\u00e9e populaire alors qu'elle en est \u00e9loign\u00e9e g\u00e9ographiquement d'une dizaine de kilom\u00e8tres.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Cholet_(Maine-et-Loire).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738756445,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2321993,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "54204",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "49300",
+        null
+    ],
+    "latitude": [
+        47.06,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -0.8783,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        87470000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Maine-et-Loire",
+        null
+    ],
+    "maximumElevation": [
+        184,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        63,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Cholet",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Choletais",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        124,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

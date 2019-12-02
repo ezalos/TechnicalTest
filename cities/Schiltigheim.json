@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "7.63",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "67447",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Schiltigheim 67.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-schiltigheim.fr/",
+        null
+    ],
+    "caption": [
+        "The old town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Schiltigheim  es una poblaci\u00f3n y comuna francesa, en la regi\u00f3n de Alsacia, departamento de Bajo Rin, en el distrito de Strasbourg-Campagne. Es el chef-lieu del cant\u00f3n de su nombre. Forma parte de la Eurometr\u00f3poli de Estrasburgo.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Schiltigheim22.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        729970942,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3024746,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "31239",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "67300",
+        null
+    ],
+    "latitude": [
+        48.6078,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        7.75,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        7630000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        152,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        133,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Schiltigheim",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        140,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

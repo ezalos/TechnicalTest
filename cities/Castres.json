@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "98.17",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "81065",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Castres .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Midi-Pyr\u00e9n\u00e9es",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.castres-mazamet.com/",
+        null
+    ],
+    "caption": [
+        "Houses by the Agout River",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Castres (en idioma occitano Castras) es una localidad y comuna francesa, situada en el departamento de Tarn y en la regi\u00f3n de Mediod\u00eda-Pirineos. Castres es la poblaci\u00f3n natal del l\u00edder socialista Jean Jaur\u00e8s y alberga un museo en honor del pintor espa\u00f1ol Francisco de Goya, con obras suyas y de otros muchos artistas espa\u00f1oles.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Castres_(81),_Maisons_sur_l'Ago\u00fbt.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739276789,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        894251,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "43010",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "81100",
+        null
+    ],
+    "latitude": [
+        43.6,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.25,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        98170000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Tarn_(department)",
+        null
+    ],
+    "maximumElevation": [
+        367,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        151,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Castres",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Castres-Mazamet",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        170,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

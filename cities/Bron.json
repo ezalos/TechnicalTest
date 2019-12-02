@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "10.3",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "69029",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Auvergne-Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        2015,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-bron.fr/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Bron is een gemeente in het Franse departement M\u00e9tropole de Lyon (regio Auvergne-Rh\u00f4ne-Alpes) en telt 38700 inwoners (2005). De oppervlakte bedraagt 10,3 km\u00b2, de bevolkingsdichtheid is 3757,3 inwoners per km\u00b2. Bron ligt ten oosten van de stad Lyon. Bron behoort tot de 25 gemeenten die worden aangeduid met Est lyonnais.",
+        null
+    ],
+    "thumbnail": [
+        null,
+        null
+    ],
+    "wikiPageRevisionID": [
+        730477759,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        752671,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "39232",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "69500",
+        null
+    ],
+    "latitude": [
+        45.7394,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.9139,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        10300000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        221,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        183,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jean-Michel Longueval",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        212,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

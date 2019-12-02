@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "5.47",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "95268",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de Garges-l\u00e8s-Gonesse.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2004,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.garges.net",
+        null
+    ],
+    "caption": [
+        "The Avenue de Stalingrad in Garges-l\u00e8s-Gonesse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Garges-l\u00e8s-Gonesse is een gemeente in het Franse departement Val-d'Oise (regio \u00cele-de-France) en telt 40.058 inwoners (1999). De plaats maakt deel uit van het arrondissement Sarcelles.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Garges-les-Gonesse_-_Avenue_de_Stalingrad_01.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744823997,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3583282,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "41782",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "95140",
+        null
+    ],
+    "latitude": [
+        48.9728,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4008,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        5470000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Val-d'Oise",
+        null
+    ],
+    "maximumElevation": [
+        80,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        34,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Sarcelles",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Garges-l\u00e8s-Gonesse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Roissy Pays de France",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Maurice Lef\u00e8vre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        60,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

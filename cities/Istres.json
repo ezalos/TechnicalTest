@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "113.73",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "13047",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Istres.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Provence-Alpes-C\u00f4te_d'Azur",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Shops in Istres",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Istres (em occitan: Istre) \u00e9 uma comuna de Fran\u00e7a, localizada no departamento de Bouches-du-Rh\u00f4ne e na regi\u00e3o Provence-Alpes-C\u00f4te d'Azur.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Istres.arp.750pix.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        692573029,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        714382,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "42603",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "13800",
+        null
+    ],
+    "latitude": [
+        43.5151,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.9895,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        113730000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Bouches-du-Rh\u00f4ne",
+        null
+    ],
+    "maximumElevation": [
+        120,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Istres",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Istres Nord and Istres Sud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Ouest Provence",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Fran\u00e7ois Bernardini",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        20,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

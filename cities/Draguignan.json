@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "53.7",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "83050",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Draguignan.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Provence-Alpes-C\u00f4te_d'Azur",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Clock tower of Draguignan.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Draguignan (en occitano Draguinhan, en espa\u00f1ol \u00e1urico, Dragui\u00f1\u00e1n) es una ciudad del sur de Francia, en el departamento de Var, regi\u00f3n de Provenza-Alpes-Costa Azul. Se sit\u00faa a orillas del mar Mediterr\u00e1neo, en la Costa Azul. Hasta 1974 fue la prefectura del departamento.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_Draguignan.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        709511936,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1201522,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "38258",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "83300",
+        null
+    ],
+    "latitude": [
+        43.5403,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.4667,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        53700000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Var_(department)",
+        null
+    ],
+    "maximumElevation": [
+        603,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        153,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Draguignan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Draguignan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Draguignan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Richard Strambio",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        181,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

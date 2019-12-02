@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "49.95",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "89024",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de la ville de Auxerre .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.auxerre.com/",
+        null
+    ],
+    "caption": [
+        "Auxerre and Yonne river",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Auxerre [o\u02c8s\u025b\u0281] es la capital del departamento de Yonne, en la regi\u00f3n de Borgo\u00f1a (Francia), al sureste de Par\u00eds. Tiene una poblaci\u00f3n de 37.218 habitantes (a\u00f1o 2007) en su t\u00e9rmino municipal, y de 85.080 en su \u00e1rea metropolitana.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Auxerre1.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739824380,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        524642,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "38800",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "89000",
+        null
+    ],
+    "latitude": [
+        47.7986,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.5672,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        49950000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Yonne",
+        null
+    ],
+    "maximumElevation": [
+        217,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        93,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Auxerrois",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Guy Ferez",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        102,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "5.91",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93064",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Rosny-sous-Bois 93.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.rosny-rail.fr/pages_en/index.html",
+        null
+    ],
+    "caption": [
+        "Rosny-sous-Bois war memorial",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Rosny-sous-Bois [r\u0254n'isubwa] ist eine franz\u00f6sische Stadt im D\u00e9partement Seine-Saint-Denis in der Region Ile-de-France \u00f6stlich von Paris. Die Einwohner werden Rosn\u00e9ens genannt.Der Ort z\u00e4hlt 43.802 Einwohner (Stand 1. Januar 2013).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Rosny_sous_Bois_Monument_aux_morts.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738369923,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        517628,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "41565",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93110",
+        null
+    ],
+    "latitude": [
+        48.8667,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4833,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        5910000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        116,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        45,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Bobigny",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Claude Capillon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

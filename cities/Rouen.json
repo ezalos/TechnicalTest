@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "21.38",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "76540",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Rouen 76.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Normandy",
+        null
+    ],
+    "term": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.gutenberg.org/etext/18740",
+        null
+    ],
+    "caption": [
+        "Top: Downtown Rouen and the Seine River. Middle left: Maritime museum. Centre: The Great-Clock. Middle right: Gustave-Flaubert Bridge. Bottom: Rouen Cathedral.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Rouen /\u0281w\u0251\u0303/ \u00e8 una citt\u00e0 di 113.128 abitanti nel nord della Francia, capoluogo del dipartimento della Senna Marittima e della regione della Normandia. La citt\u00e0 \u00e8 attraversata dalla Senna e da tre suoi affluenti: l'Aubette, il Robec, e il Cailly. I suoi abitanti sono chiamati Rouennais. \u00c8 una delle pi\u00f9 importanti citt\u00e0 d'arte del Paese tanto da meritarsi l'appellativo di Ville Mus\u00e9e. Conserva, infatti, un elevato numero di mirabilissimi monumenti, soprattutto gotici, e un centro storico ancora ricco di antiche case a graticci costituenti un importante esempio di complesso medievale nord-europeo. \u00c8 sede di un'arcidiocesi, il cui arcivescovo \u00e8 primate di Normandia. La citt\u00e0 \u00e8 una delle poche in Francia ad essere onorata con la L\u00e9gion d'honneur.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Rouen_montage.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        740504632,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        49114,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "111557",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        49.44,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.1,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        21380000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Seine-Maritime",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Rouen",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

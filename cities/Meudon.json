@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "9.9",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92048",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Meudon .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Observatory of Meudon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u0645\u064a\u062f\u0648\u0646 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629: m\u00f8.d\u0254) \u0647\u064a \u0628\u0644\u062f\u0629 \u0641\u064a \u0636\u0648\u0627\u062d\u064a \u062c\u0646\u0648\u0628 \u063a\u0631\u0628 \u0628\u0627\u0631\u064a\u0633\u060c \u0641\u0631\u0646\u0633\u0627. \u0648\u062a\u0642\u0639 \u0639\u0644\u0649 \u0628\u0639\u062f 9.1 \u0643\u0645 (5.7 \u0645\u064a\u0644) \u0645\u0646 \u0648\u0633\u0637 \u0628\u0627\u0631\u064a\u0633.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Meudon-Observatoire.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741251103,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        416786,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "45682",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92190, 92360",
+        null
+    ],
+    "latitude": [
+        48.8075,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2403,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        9900000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        179,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        28,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Boulogne-Billancourt",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Meudon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        103,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

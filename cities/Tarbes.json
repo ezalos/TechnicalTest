@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "15.33",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "65440",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville Tarbes.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Occitania_(administrative_region)",
+        null
+    ],
+    "term": [
+        "From 2001",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.parvis.net/",
+        null
+    ],
+    "caption": [
+        "The town hall of Tarbes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Tarbes (French pronunciation: \u200b[ta\u0281b]; Occitan: Tarba) is a commune in the Hautes-Pyr\u00e9n\u00e9es department in the Occitania region of southwestern France. It is the capital of Bigorre. It has been a commune since 1790. It was known as Turba or Tarba in Roman times. Tarbes is part of the historical region of Gascony. Formerly of strong industrial tradition, Tarbes today tries to diversify its activities, particularly in aeronautics and high tech around the different zones of activities which are increasing. The recent development of Tarbais beans and other regional specialties also shows a willingness to develop the agri-food industry thus justifying its nickname of \"market town\". With 116,056 inhabitants in 2011, it is the second largest metropolitan area in the Midi-Pyr\u00e9n\u00e9es region. Its 42,888 inhabitants are called Tarbaises and the Tarbais. It is the seat of the diocese of Tarbes-et-Lourdes. The 1st Parachute Hussar Regiment and 35th Parachute Artillery Regiment are stationed in Tarbes.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_Tarbes_(Hautes-Pyr\u00e9n\u00e9es,_France).jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741784407,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        527808,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "48166",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "65000",
+        null
+    ],
+    "latitude": [
+        43.23,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        0.07,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        15330000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Hautes-Pyr\u00e9n\u00e9es",
+        null
+    ],
+    "maximumElevation": [
+        326,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        284,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Tarbes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Chief town of 5 cantons",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Grand Tarbes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        304,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

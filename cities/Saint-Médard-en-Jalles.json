@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "85.28",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "33449",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Saint-M\u00e9dard-en-Jalles .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.saint-medard-en-jalles.com/",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Saint-M\u00e9dard-en-Jalles ist eine Stadt in der franz\u00f6sischen Region Nouvelle-Aquitaine im D\u00e9partement Gironde mit 29.178 Einwohnern (Stand 1. Januar 2013). Die Stadt liegt im Arrondissement Bordeaux und ist Hauptort (frz.: chef-lieu) eines eigenen Kantons.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_Saint-M\u00e9dard_Gironde.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        704521459,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5146412,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "27427",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "33160",
+        null
+    ],
+    "latitude": [
+        44.8964,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -0.7164,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        85280000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        48,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        9,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Saint-M\u00e9dard-en-Jalles",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Serge Lamaison",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

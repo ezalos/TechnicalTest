@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "9.48",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "69264",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Villefranche-sur-Sa\u00f4ne .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.villefranche.net/",
+        null
+    ],
+    "caption": [
+        "A general view of Villefranche-sur-Sa\u00f4ne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Villefranche-sur-Sa\u00f4ne (French pronunciation: \u200b[vilf\u0281\u0251\u0303\u0283 sy\u0281 son]; Arpitan: Velafranche) is a commune in the Rh\u00f4ne department in eastern France. It lies 1 mile (1.6 km) west of the Sa\u00f4ne River, and is around 25 kilometres (16 mi)north of Lyon. The inhabitants of the town are called Caladois.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Villefranche-sur-Sa\u00f4ne_(Rh\u00f4ne).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        714115192,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2982042,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "35640",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "69400",
+        null
+    ],
+    "latitude": [
+        45.9833,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.7167,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        9480000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Villefranche-sur-Sa\u00f4ne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Villefranche-sur-Sa\u00f4ne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Villefranche-Beaujolais-Sa\u00f4ne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

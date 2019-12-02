@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "68.74",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "18033",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de Bourges.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2009,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ensa-bourges.fr",
+        null
+    ],
+    "caption": [
+        "http://dbpedia.org/resource/Bourges_Cathedral",
+        null
+    ],
+    "abstract": [
+        "Bourges is een stad in Midden-Frankrijk en de hoofdstad van het departement Cher. De stad heeft ongeveer 72.480 inwoners. De universiteit van Bourges was in de 16e eeuw het Europees centrum voor de studie van het Romeins Recht. Johan van Oldenbarnevelt (1547 - 1619) heeft hier enige tijd rechten gestudeerd. In de tijd van de Romeinen heette de stad Avaricum. Bezienswaardig zijn de kathedraal van Bourges met unieke glasramen, en het paleis van Jacques Coeur. In de gemeente ligt spoorwegstation Bourges. De plaatselijke voetbalclub is Bourges 18. Bourges is de finishplaats van de eendaagse wielerwedstrijd Parijs-Bourges.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Kathedrale_Bourges_v2.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743022057,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        82132,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "66786",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "18000",
+        null
+    ],
+    "latitude": [
+        47.0844,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3964,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        68740000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        169,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        120,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Bourges",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Bourges",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Pascal Blanc",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        153,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

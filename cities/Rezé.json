@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "13.78",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "44143",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Rez\u00e9 .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2005,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Pays_de_la_Loire",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.culture.cg44.fr/Archives/fonds/presentationfonds.html",
+        null
+    ],
+    "caption": [
+        "Partial view of Rez\u00e9 with, from left to right, the town hall, the church of Saint Peter and the Cit\u00e9 Radieuse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Rez\u00e9 est une commune situ\u00e9e en France, dans le d\u00e9partement de la Loire-Atlantique, en r\u00e9gion Pays de la Loire, chef-lieu d'un canton qui porte son nom. Situ\u00e9e dans le Pays nantais, dans la Bretagne historique, Rez\u00e9 a par ailleurs donn\u00e9 son nom au pays de Retz, pays traditionnel dont elle fut la capitale originelle. La position de la ville, au confluent de la Loire et de la S\u00e8vre, en a fait d\u00e8s l'Antiquit\u00e9 un site militaire et \u00e9conomique privil\u00e9gi\u00e9. Sa situation strat\u00e9gique entre Nantes et les Marches m\u00e9ridionales de la Bretagne, non loin de la fronti\u00e8re avec l'Anjou et le Poitou, et sa proximit\u00e9 avec la Vend\u00e9e lui ont valu un pass\u00e9 tumultueux, notamment au cours des guerres de succession de Bretagne (entre Bretons, mais aussi entre la Bretagne, l'Anjou, l'Angleterre et la France), et de la guerre de Vend\u00e9e lors de la R\u00e9volution fran\u00e7aise. Rez\u00e9 fut plusieurs fois d\u00e9truite. Ancienne commune semi-rurale, tr\u00e8s d\u00e9pendante de l'\u00e9volution de Nantes, Rez\u00e9 s'est fortement urbanis\u00e9e en moins d'un si\u00e8cle sous l'influence de celle-ci. S'\u00e9tant d\u00e9velopp\u00e9e autour de ses diff\u00e9rents bourgs et hameaux, la ville au pass\u00e9 paysan et ouvrier a d\u00fb trouver la voie de son homog\u00e9n\u00e9it\u00e9, de la ma\u00eetrise de sa croissance. Elle affirme son identit\u00e9 dans l'agglom\u00e9ration nantaise par deux symboles : l'ancien village de p\u00eacheurs de Trentemoult et la cit\u00e9 Radieuse de Le Corbusier. En 2013, l'Insee recense 39 568 Rez\u00e9ens, ce qui fait de la commune la 4e plus peupl\u00e9e du d\u00e9partement.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Rez\u00e9_centre.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741374739,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5147284,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "37200",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "44400",
+        null
+    ],
+    "latitude": [
+        47.1833,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -1.55,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        13780000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Loire-Atlantique",
+        null
+    ],
+    "maximumElevation": [
+        42,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        1,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Rez\u00e9 and Bouaye",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Gilles Reti\u00e8re",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        8,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

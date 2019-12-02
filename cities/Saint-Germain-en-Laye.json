@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "48.27",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "78551",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Saint-Germain-en-Laye.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.mablehome.com/fortification/france/allemandes/st-germain-en-laye/saint-germain-en-laye-01.htm",
+        null
+    ],
+    "caption": [
+        "http://dbpedia.org/resource/Ch\u00e2teau_de_Saint-Germain-en-Laye",
+        null
+    ],
+    "abstract": [
+        "Saint-Germain-en-Laye est une commune fran\u00e7aise situ\u00e9e \u00e0 20 km environ \u00e0 l'ouest de Paris dans le d\u00e9partement des Yvelines en r\u00e9gion \u00cele-de-France. La ville de Saint-Germain-en-Laye a vu son histoire li\u00e9e \u00e0 la pr\u00e9sence du ch\u00e2teau, qui fut une r\u00e9sidence r\u00e9guli\u00e8re des rois de France dont l'importance diminua n\u00e9anmoins par suite de l'installation de Louis XIV \u00e0 Versailles, et \u00e0 la for\u00eat, ancien domaine de chasse royal. Au d\u00e9but du XXIe si\u00e8cle, elle est le si\u00e8ge d'une sous-pr\u00e9fecture des Yvelines et est devenue une ville r\u00e9sidentielle recherch\u00e9e, au caract\u00e8re international marqu\u00e9. Ses habitants sont appel\u00e9s les Saint-Germanois ou Saint-Germanoise. Saint-Germain-en-Laye est c\u00e9l\u00e8bre pour ses ch\u00e2teaux (Ch\u00e2teau-Vieux, vestiges du Ch\u00e2teau-Neuf, ch\u00e2teau d'Hennemont) et ses mus\u00e9es (mus\u00e9e des Antiquit\u00e9s nationales, mus\u00e9e du Prieur\u00e9, mus\u00e9e Claude Debussy).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Ch\u00e2teau_de_Saint-Germain-en-Laye01.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744301578,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        75952,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "43015",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "78100",
+        null
+    ],
+    "latitude": [
+        48.8989,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.0938,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        48270000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Yvelines",
+        null
+    ],
+    "maximumElevation": [
+        107,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        22,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Saint-Germain Seine et For\u00eats",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Emmanuel Lamy",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        78,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

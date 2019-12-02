@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "2.78",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94016",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Heraldique blason ville fr cachan.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Cachan in the foreground, with the Medici Aqueduct in the background, and Paris beyond",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Cachan \u00e8 un comune francese di 28.078 abitanti (2006) situato nel dipartimento della Valle della Marna nella regione dell'\u00cele-de-France. Vi ha sede l'\u00c9cole normale sup\u00e9rieure de Cachan (ENS de Cachan), una delle istituzioni francesi di alti studi universitari note con l'appellativo di \"Grandes \u00c9coles\".",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Aqueduc_de_la_Vanne.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738120296,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2681515,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "27718",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94230",
+        null
+    ],
+    "latitude": [
+        48.7919,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3319,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        2780000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        108,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        43,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Cachan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

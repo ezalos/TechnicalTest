@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "6.1",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94041",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Ivry-sur-Seine 94.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2015,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Ivry-sur-Seine (French pronunciation: \u200b[i.v\u0281i.sy\u0281.s\u025bn]) is a commune in the Val-de-Marne department in the southeastern suburbs of Paris, France. It is located 5.3 km (3.3 mi) from the center of Paris. Paris's main Asian district, the Quartier Asiatique in the 13th arrondissement, borders the commune and now extends into the northern parts of Ivry. Asian commercial activity, especially Chinese and Vietnamese, has greatly increased in Ivry-sur-Seine during the past two decades. The commune contains one of the highest concentrations of Vietnamese in France, who began settling in the city in the late 1970s after the Vietnam War. Politically, Ivry-sur-Seine has historically demonstrated strong electoral support for the French Communist Party (PCF). Between 1925 and 2015 (except for the period of German occupation in World War II) the office of mayor was held by just three individuals: Georges Marrane, Jacques Lalo\u00eb, and Pierre Gosnat, all members of the Communist Party. Ivry-sur-Seine is twinned with Bishop Auckland in County Durham, England.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Ivry-sur-Seine_town_hall_under_snow_2005-02-23.jpeg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737656945,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        955604,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "58579",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94200",
+        null
+    ],
+    "latitude": [
+        48.8078,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3747,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        6100000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Val-de-Marne",
+        null
+    ],
+    "maximumElevation": [
+        68,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        28,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Cr\u00e9teil",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Philippe Bouyssou",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

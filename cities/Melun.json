@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "8.04",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "77288",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Melun .png",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2007,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=77288",
+        null
+    ],
+    "caption": [
+        "Town Hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Melun [m\u0259\u02c8l\u0153\u0303] ist eine franz\u00f6sische Gemeinde mit 40.066 Einwohnern (Stand 1. Januar 2013) in der Region \u00cele-de-France. Sie ist Pr\u00e4fektur des D\u00e9partements Seine-et-Marne.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Melun_map.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739728442,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        145708,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "37835",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "77000",
+        null
+    ],
+    "latitude": [
+        48.5406,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.66,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        8040000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Seine-et-Marne",
+        null
+    ],
+    "maximumElevation": [
+        102,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        37,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Melun",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Melun",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "G\u00e9rard Millet",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        54,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

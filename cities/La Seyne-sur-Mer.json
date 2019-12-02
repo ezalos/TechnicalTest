@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "22.17",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "83126",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason La-Seyne-sur-Mer.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.la-seyne-sur-mer.fr/",
+        null
+    ],
+    "caption": [
+        "Fort Balaguier",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "La Seyne-sur-Mer, or La Seyne is a commune in the Var department in the Provence-Alpes-C\u00f4te d'Azur region in southeastern France. It is part of the agglomeration of Toulon, and is situated adjacent to the west of this city.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Fort_balaguier.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745275358,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1824914,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "57553",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "83500",
+        null
+    ],
+    "latitude": [
+        43.1,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.883,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        22170000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        352,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "La Seyne-sur-Mer and Saint-Mandrier-sur-Mer",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Toulon Provence M\u00e9diterran\u00e9e",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Arthur Paecht",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        9,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

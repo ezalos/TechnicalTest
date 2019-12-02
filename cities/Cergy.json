@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.68",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "95127",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Cergy .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos95127.html",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Cergy (French pronunciation: \u200b[s\u025b\u0281.\u0292i]) is a commune in the northwestern suburbs of Paris, France. It is located 27.8 km (17.3 mi) from the center of Paris, in the \"new town\" of Cergy-Pontoise, created in the 1960s, of which it is the central and most populated commune. Although neighboring Pontoise is the official pr\u00e9fecture (capital) of the Val-d'Oise d\u00e9partement, the pr\u00e9fecture building and administration, as well as the department council (conseil g\u00e9n\u00e9ral), are located inside the commune of Cergy, which is regarded as the de facto capital of Val-d'Oise. The sous-pr\u00e9fecture building and administration, on the other hand, are located inside the commune of Pontoise.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Cergy_(Val-d'Oise).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        742627947,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1024977,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "58265",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "95000",
+        null
+    ],
+    "latitude": [
+        49.0361,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.0631,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11680000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        121,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        21,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jean-Paul Jeandon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        25,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

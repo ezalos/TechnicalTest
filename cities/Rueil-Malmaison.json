@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "14.7",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92063",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Rueil-Malmaison .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.rueil-tourisme.com/EN/",
+        null
+    ],
+    "caption": [
+        "Vue on the Place de l'\u00c9glise",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Rueil-Malmaison ist eine franz\u00f6sische Stadt mit 79.762 Einwohnern (Stand 1. Januar 2013) etwa 14 km westlich des Zentrums von Paris. Sie geh\u00f6rt zum D\u00e9partement Hauts-de-Seine in der Region \u00cele-de-France und liegt an der Seine. Sie ist Hauptort des Kantons Rueil-Malmaison; ein Teil der Gemeinde geh\u00f6rt zum Kanton Garches. Die Einwohner werden Rueillois genannt.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Rueil-Malmaison_Place\u00c9glise.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743031007,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        530785,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "79379",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92500",
+        null
+    ],
+    "latitude": [
+        48.876,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.181,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        14700000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Hauts-de-Seine",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Nanterre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

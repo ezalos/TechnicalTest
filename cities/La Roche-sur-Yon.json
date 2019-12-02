@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "87.52",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "85191",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr La Roche-sur-Yon .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Pays_de_la_Loire",
+        null
+    ],
+    "term": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Square Napol\u00e9on",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "La Roche-sur-Yon ist eine franz\u00f6sische Stadt mit 52.732 Einwohnern (Stand 1. Januar 2013) im D\u00e9partement Vend\u00e9e, das zur Region Pays de la Loire geh\u00f6rt. Sie ist der Verwaltungssitz des D\u00e9partements, also Sitz der Pr\u00e4fektur. Die Stadt wird vom Fluss Yon durchquert.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_La_Roche-sur-Yon_(Vend\u00e9e).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737906135,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        537646,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "52664",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "85000",
+        null
+    ],
+    "latitude": [
+        46.6705,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -1.426,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        87520000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Vend\u00e9e",
+        null
+    ],
+    "maximumElevation": [
+        94,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        32,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "La Roche-sur-Yon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "La Roche-sur-Yon-1 and La Roche-sur-Yon-2",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "La Roche-sur-Yon Agglom\u00e9ration",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Luc Bouard",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        74,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

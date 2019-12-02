@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "46.79",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "44184",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Saint-Nazaire  v2.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.lancastria.org.uk/",
+        null
+    ],
+    "caption": [
+        "Avenue de la R\u00e9publique",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u5723\u7eb3\u6cfd\u5c14\uff08\u6cd5\u8bed\uff1aSaint-Nazaire\uff09\u662f\u6cd5\u56fd\u5362\u74e6\u5c14\u6cb3\u5730\u533a\u5927\u533a\u5927\u897f\u6d0b\u5cb8\u5362\u74e6\u5c14\u7701\u7684\u4e00\u4e2a\u9547\uff0c\u4f4d\u4e8e\u5362\u74e6\u5c14\u6cb3\u7554\uff0c\u9762\u79ef46.79\u5e73\u65b9\u516c\u91cc\uff0c\u4eba\u53e365,874\u4eba\uff081999\u5e74\uff09\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Saint-Nazaire_(Loire-Atlantique)_v2.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745021664,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        427412,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "71373",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "44600",
+        null
+    ],
+    "latitude": [
+        47.2806,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -2.2086,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        46790000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        47,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Saint-Nazaire",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        3,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jo\u00ebl-Guy Batteux",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        6,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

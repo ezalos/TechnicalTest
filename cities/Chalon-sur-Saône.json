@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "15.22",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "71076",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Chalon Ville.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Bourgogne-Franche-Comt\u00e9",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.chalondanslarue.com/e.php?lsd=138&tc=5/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Chalon-sur-Sa\u00f4ne es una ciudad, antiguo obispado y comuna de Francia central, en el departamento de Saona y Loira, del cual es una subprefectura.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_Chalon_Ville.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739434227,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        629450,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "45166",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "71100",
+        null
+    ],
+    "latitude": [
+        46.7806,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.8528,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        15220000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Sa\u00f4ne-et-Loire",
+        null
+    ],
+    "maximumElevation": [
+        190,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        172,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Chalon-sur-Sa\u00f4ne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Le Grand Chalon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Gilles Platret",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        185,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "17.1",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "90010",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Belfort .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Franche-Comt\u00e9",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.fortified-places.com/belfort.html",
+        null
+    ],
+    "caption": [
+        "An aerial view of Belfort with the cathedral of Saint-Christophe in the foreground",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Belfort (IPA: b\u025bl.f\u0254\u0281) \u00e8 una citt\u00e0 della Francia nord-orientale, nella regione Borgogna-Franca Contea tra Lione e Strasburgo. \u00c8 il maggior centro e capoluogo del Territorio di Belfort, uno dei dipartimenti della regione. Dista 400 km da Parigi, 141 da Strasburgo, 290 da Lione e 150 da Zurigo. I residenti sono chiamati \u2018'Belfortains'\u2019.Belfort \u00e8 situata nel Savoureuse, nel mezzo di un'importante e strategica via di comunicazione tra Reno e Rodano, il cosiddetto Varco di Belfort (Trou\u00e9e de Belfort) o Porta Burgunda (Porte de Bourgogne).La citt\u00e0 di Belfort ha 50.196 abitanti Insieme alle periferie e alle cittadine satellite, Belfort formava l'agglomerato pi\u00f9 vasto (area metropolitana) della ex regione Franca Contea con una popolazione di 308.601 abitanti..",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Belfort2.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739155678,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        287847,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "50128",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "90000",
+        null
+    ],
+    "latitude": [
+        47.64,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.85,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        17100000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Territoire_de_Belfort",
+        null
+    ],
+    "maximumElevation": [
+        650,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        354,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Belfort",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Cantons of Belfort-Centre, Belfort-Est, Belfort-Nord, Belfort-Ouest, and Belfort-Sud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Belfortaine",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        358,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "6.07",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "91687",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Viry-Ch\u00e2tillon .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.iaurif.org/en/gis/fichescom/mos99/ficmos/mos91687.html",
+        null
+    ],
+    "caption": [
+        "The town hall in Viry-Ch\u00e2tillon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Viry-Ch\u00e2tillon  es una poblaci\u00f3n y comuna francesa, ubicada en la regi\u00f3n de Isla de Francia, departamento de Essonne, en el distrito de \u00c9vry y cant\u00f3n de Viry-Ch\u00e2tillon.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Viry-Chatillon_IMG_5430.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        735300774,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3569890,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "31600",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "91170",
+        null
+    ],
+    "latitude": [
+        48.6713,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.375,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        6070000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        84,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        32,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "\u00c9vry",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Les Lacs de l'Essonne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Jean-Marie Vilain",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "33.5",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "62193",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Calais .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Nord-Pas_de_Calais",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://openlibrary.org/books/OL24872324M/Northern_France",
+        null
+    ],
+    "caption": [
+        "Port of Calais",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Calais [ka\u02c8l\u025b] (niederl\u00e4ndisch veraltet Kales; deutsch veraltet Kalen) ist eine Hafenstadt im Norden Frankreichs mit 72.520 Einwohnern (Stand 1. Januar 2013).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Zone_portuaire_calais_phare.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743902535,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        85468,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "72589",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "62100",
+        null
+    ],
+    "latitude": [
+        50.9480555555556,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.8563888888889,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        33500000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Pas-de-Calais",
+        null
+    ],
+    "maximumElevation": [
+        18,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

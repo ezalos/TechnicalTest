@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "13.44",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "59650",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Nord-Pas-de-Calais",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-wattrelos.fr/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Wattrelos (ndl.: \"Waterlo\") ist eine Stadt in Nordfrankreich in der N\u00e4he von Lille im D\u00e9partement Nord in der Region Hauts-de-France an der Grenze zu Belgien. Das Stadtgebiet ist 1.362 Hektar gro\u00df und hat 41.522 Einwohner (Stand 1. Januar 2013). Angrenzende St\u00e4dte sind in Frankreich Tourcoing, Roubaix und Leers, in Belgien Mouscron und Estaimpuis.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Wattrelos_(Nord).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739744633,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3108410,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "41633",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "59150",
+        null
+    ],
+    "latitude": [
+        50.7,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.217,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        13440000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Nord_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Roubaix-Est and Roubaix-Nord",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Lille M\u00e9tropole",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Dominique Baert",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        29,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

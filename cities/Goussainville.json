@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        null,
+        null
+    ],
+    "inseeCode": [
+        null,
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        null,
+        null
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        null,
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        null,
+        null
+    ],
+    "thumbnail": [
+        null,
+        null
+    ],
+    "wikiPageRevisionID": [
+        653096025,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3553908,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        null,
+        null
+    ],
+    "populationTotal": [
+        null,
+        null
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        null,
+        null
+    ],
+    "longitude": [
+        null,
+        null
+    ],
+    "area": [
+        null,
+        null
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

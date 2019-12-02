@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "50.39",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "35238",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Rennes.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.parlement-bretagne.com/",
+        null
+    ],
+    "caption": [
+        "Top to bottom, left to right : City hall, March\u00e9 des Lices, Rennes Metro, Esplanade Charles de Gaulle, Opera of Rennes by night, University of Rennes 2, Skyline of Rennes from Cathedral",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Rennes /\u0281\u025bn/ (gallo Resnn, bretone Roazhon, latino Condate, Condate Riedonum) \u00e8 una citt\u00e0 francese del nord-ovest di 211 000 abitanti (700 000 con area urbana), capoluogo della Bretagna e prefettura del dipartimento dell'Ille-et-Vilaine. Sede universitaria importante (64 000 studenti), \u00e8 anche sede di Corte d'appello ed \u00e8 stata a lungo la capitale del ducato di Bretagna (per diventare capoluogo della regione negli anni settanta).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau_Rennes.svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745216806,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        46132,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "211373",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "35000, 35200, 35700",
+        null
+    ],
+    "latitude": [
+        48.1147,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -1.6794,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        50390000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Ille-et-Vilaine",
+        null
+    ],
+    "maximumElevation": [
+        74,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        20,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        30,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

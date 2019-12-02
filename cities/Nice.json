@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "71.92",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "06088",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Nice Arms.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Provence-Alpes-C\u00f4te_d'Azur",
+        null
+    ],
+    "term": [
+        2016,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://en.nicetourisme.com/",
+        null
+    ],
+    "caption": [
+        "Panoramic view of the old city and the Promenade des Anglais",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u041d\u0438\u0301\u0446\u0446\u0430 (\u0444\u0440. Nice [nis], \u043e\u043a\u0441. Ni\u00e7a, \u0433\u0440\u0435\u0447. \u039d\u03af\u03ba\u03b1\u03b9\u03b1, \u0438\u0442\u0430\u043b. Nizza, \u043b\u0430\u0442. Nicaea) \u2014 \u0441\u0440\u0435\u0434\u0438\u0437\u0435\u043c\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434, \u043f\u043e\u0440\u0442 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u043d\u0430 \u044e\u0433\u043e-\u0432\u043e\u0441\u0442\u043e\u043a\u0435 \u0424\u0440\u0430\u043d\u0446\u0438\u0438 \u0432 \u0440\u0435\u0433\u0438\u043e\u043d\u0435 \u041f\u0440\u043e\u0432\u0430\u043d\u0441 \u2014 \u0410\u043b\u044c\u043f\u044b \u2014 \u041b\u0430\u0437\u0443\u0440\u043d\u044b\u0439 \u0431\u0435\u0440\u0435\u0433. \u0410\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0435 \u0410\u043b\u044c\u043f\u044b, \u043e\u043a\u0440\u0443\u0433\u0430 \u041d\u0438\u0446\u0446\u0430 \u0438 9 \u043a\u0430\u043d\u0442\u043e\u043d\u043e\u0432 (\u041d\u0438\u0446\u0446\u0430-1 \u2014 \u041d\u0438\u0446\u0446\u0430-9). \u0411\u043e\u043b\u0435\u0435 352 \u0442\u044b\u0441\u044f\u0447 \u0436\u0438\u0442\u0435\u043b\u0435\u0439 (2007). \u041a\u0440\u0443\u043f\u043d\u044b\u0439 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0439 \u0443\u0437\u0435\u043b. \u041e\u0434\u043d\u043e \u0438\u0437 \u0433\u043b\u0430\u0432\u043d\u044b\u0445 \u043a\u0443\u0440\u043e\u0440\u0442\u043d\u044b\u0445 \u043c\u0435\u0441\u0442 \u041b\u0430\u0437\u0443\u0440\u043d\u043e\u0433\u043e \u0411\u0435\u0440\u0435\u0433\u0430 (\u0438\u043b\u0438 \u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u0439 \u0420\u0438\u0432\u044c\u0435\u0440\u044b).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Nizza-C\u00f4te_d'Azur.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745243455,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        47088,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "343629",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        43.7034,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        7.2663,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        71920000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Alpes-Maritimes",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Nice",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

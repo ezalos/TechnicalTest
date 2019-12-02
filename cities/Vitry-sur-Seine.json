@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.67",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "94081",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Vitry-sur-Seine .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/\u00cele-de-France_(region)",
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ume.asso.fr",
+        null
+    ],
+    "caption": [
+        "The town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Vitry-sur-Seine- es una localidad y comuna de Francia, en la regi\u00f3n de Isla de Francia, departamento de Valle del Marne, en el distrito de Cr\u00e9teil. La comuna forma los cantones de Vitry-sur-Seine-Est, Vitry-sur-Seine-Nord y Vitry-sur-Seine-Ouest. Forma parte de la aglomeraci\u00f3n urbana de Par\u00eds. No est\u00e1 integrada en ninguna Communaut\u00e9 de communes o similar.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Vitry_Hotel_de_Ville_DSCN1793.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743148749,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        458871,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "84369",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "94400",
+        null
+    ],
+    "latitude": [
+        48.7875,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3928,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11670000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Cr\u00e9teil",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

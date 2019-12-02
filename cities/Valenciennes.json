@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "13.82",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "59606",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason valenciennes.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Nord-Pas-de-Calais",
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.nordmag.fr/nord_pas_de_calais/valenciennes/valenciennes.htm",
+        null
+    ],
+    "caption": [
+        "The town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Valenciennes (em neerland\u00eas: Valencijn; em latim: Valentianae) \u00e9 uma cidade e comuna do norte da Fran\u00e7a, no departamento de Nord, junto ao rio Escalda. Em 2010 a comuna tinha 43 335 habitantes (densidade: 3 131,1 hab./km\u00b2). A sua regi\u00e3o metropolitana tinha 399 677 habitantes em 1999. Seus habitantes s\u00e3o chamados valenciennois.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Valenciennes.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737657776,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        491026,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "42989",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "59300",
+        null
+    ],
+    "latitude": [
+        50.3581,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.5233,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        13820000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Nord_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        56,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        17,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Valenciennes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        3,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        "Valenciennes M\u00e9tropole",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        42,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

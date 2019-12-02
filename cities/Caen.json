@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "25.7",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "14118",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Caen 2.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.britannica.com/eb/article-9018515/Caen",
+        null
+    ],
+    "caption": [
+        "July 2010 view of downtown Caen",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u041a\u0430\u043d (\u0444\u0440. Caen [k\u0251\u0303], \u043d\u043e\u0440\u043c\u0430\u043d\u0434. Ca\u00ebn, \u043b\u0430\u0442. Cadomum) \u2014 \u0433\u043e\u0440\u043e\u0434 \u0438 \u043a\u043e\u043c\u043c\u0443\u043d\u0430 \u043d\u0430 \u0441\u0435\u0432\u0435\u0440\u043e-\u0437\u0430\u043f\u0430\u0434\u0435 \u0424\u0440\u0430\u043d\u0446\u0438\u0438, \u0441\u0442\u043e\u043b\u0438\u0446\u0430 \u0440\u0435\u0433\u0438\u043e\u043d\u0430 \u041d\u0438\u0436\u043d\u044f\u044f \u041d\u043e\u0440\u043c\u0430\u043d\u0434\u0438\u044f \u0438 \u043f\u0440\u0435\u0444\u0435\u043a\u0442\u0443\u0440\u0430 (\u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440) \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u0430 \u041a\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0441. \u041d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u2014 109 \u0442\u044b\u0441. \u0447\u0435\u043b\u043e\u0432\u0435\u043a (2007).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Caen_France_(28).JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744495155,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        92443,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "108365",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "14000",
+        null
+    ],
+    "latitude": [
+        49.18,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -0.37,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        25700000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        73,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        2,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Caen",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        8,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

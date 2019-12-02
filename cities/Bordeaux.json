@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "49.36",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "33063",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Coat of Arms of Bordeaux.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Duchy_of_Aquitaine",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.bordeaux.fr",
+        null
+    ],
+    "caption": [
+        "Clockwise from top: Place de la Bourse by the Garonne, Allees du Tourny and Maison de Vin, Pierre Bridge on the Garonne, Meriadeck Commercial Centre, front of Palais Rohan Hotel, and Saint-Andre Cathedral with Bordeaux Tramway",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Bordeaux (pronuncia [bor\u02c8do] o [b\u0254r\u02c8do]; in francese [b\u0254\u0281\u02c8do], in guascone Bord\u00e8u pronuncia [bur\u02c8dew]), \u00e8 un comune francese di 241.287 abitanti, capoluogo del dipartimento della Gironda e della regione della Nuova Aquitania. L'area metropolitana \u00e8 la sesta pi\u00f9 popolosa del paese e conta 1.178.225 abitanti in 2013. La citt\u00e0, attraversata dalla Garonna, fa parte della Guascogna ed \u00e8 nota in tutto il mondo per l'omonimo vino rosso Bordeaux. Nel 2007 l'UNESCO ha definito il centro storico della citt\u00e0 un patrimonio dell'umanit\u00e0, per un totale di 347 edifici. Il nome deriva dall'antica citt\u00e0 romana di Burdigala, al bordo della Gallia.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Montage_Bordeaux_1.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744339865,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        4097,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "241287",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        null,
+        null
+    ],
+    "latitude": [
+        44.84,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -0.58,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        49360000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Gironde",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

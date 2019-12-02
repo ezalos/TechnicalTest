@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "38.82",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "33318",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Pessac .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Aquitaine",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "Chateau of Haut Brion",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u4f69\u8428\u514b\uff08\u6cd5\u8bed\uff1aPessac\uff09\u662f\u6cd5\u56fd\u963f\u57fa\u5766\u5927\u533a\u5409\u4f26\u7279\u7701\u7684\u4e00\u4e2a\u5e02\u9547\u3002 \u4f69\u8428\u514b\u662f\u8457\u540d\u7684\u8461\u8404\u9152\u4ea7\u533a\uff0c1855\u5e74\u6ce2\u5c14\u591a\u8461\u8404\u9152\u5b98\u65b9\u5206\u7ea7\u4e2d\u7684\u4e00\u7ea7\u9152\u5e84\u4e0a\u5e03\u91cc\u6602\u9152\u5e84\u5c31\u4f4d\u4e8e\u4f69\u8428\u514b\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Haut_Brion_exterior.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        745114882,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3238023,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "57632",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "33600",
+        null
+    ],
+    "latitude": [
+        44.8067,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -0.6311,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        38820000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Gironde",
+        null
+    ],
+    "maximumElevation": [
+        56,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        12,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Pessac 2",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Franck Raynal",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

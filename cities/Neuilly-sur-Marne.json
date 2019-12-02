@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "6.86",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93050",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Neuilly-sur-Marne 93.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/en/home/home_page.asp",
+        null
+    ],
+    "caption": [
+        "The town hall of Neuilly-sur-Marne",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Neuilly-sur-Marne ist eine franz\u00f6sische Stadt mit 34.756 Einwohnern (Stand 1. Januar 2013) im Departement Seine-Saint-Denis und der Region \u00cele-de-France. Die Stadt liegt \u00f6stlich von Paris, ca. 90 m \u00fcber dem Meeresspiegel am n\u00f6rdlichen Ufer der Marne. Ihre Einwohner werden Noc\u00e9ens genannt. \u00dcberregionale Bekanntheit erlangte die Stadt im November 2005 durch l\u00e4nger anhaltende Unruhen, die in dieser Region ihren Ursprung nahmen.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_Neuilly-sur-Marne.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738358580,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2694957,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "33680",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93330",
+        null
+    ],
+    "latitude": [
+        48.85,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.5333,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        6860000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        80,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        36,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Le Raincy",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jacques Mah\u00e9as",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

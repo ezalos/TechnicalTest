@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "16.88",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "59178",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        1999,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Nord-Pas-de-Calais",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-douai.fr/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Douai est une commune fran\u00e7aise du d\u00e9partement du Nord et de la r\u00e9gion Hauts-de-France, situ\u00e9e dans le sud de la Flandre romane. La Compagnie des mines de l'Escarpelle y a exploit\u00e9 la houille dans ses fosses nos 4 - 4 bis et 5 \u00e0 partir des ann\u00e9es 1870, la Compagnie des mines d'Aniche a ouvert la fosse Bernard dans les ann\u00e9es 1910. L'exploitation charbonni\u00e8re cesse en 1970 avec la fermeture de la fosse no 5. Douai est au centre de l'aire urbaine de Douai-Lens, la quinzi\u00e8me aire urbaine de France, comprenant 103 communes, avec 542 918 habitants en 2010. Avec Lille et les villes de l'ancien bassin minier du Nord-Pas-de-Calais, elle appartient aussi \u00e0 un ensemble m\u00e9tropolitain de pr\u00e8s de 3,8 millions d'habitants, appel\u00e9 \u00ab aire m\u00e9tropolitaine de Lille \u00bb. Les habitants de Douai sont les Douaisiens. La r\u00e9gion s'appelle le Douaisis. Le nom jet\u00e9 des habitants est les \u00ab ventres d'osier \u00bb (vint' d'osier en chti) en raison de la mati\u00e8re dont sont faits les g\u00e9ants locaux (la famille Gayant).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Douai_rue_de_la_mairie.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        739728439,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        89875,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "42796",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "59500",
+        null
+    ],
+    "latitude": [
+        50.3714,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.08,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        16880000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Nord_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        38,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        16,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Douai",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Douaisis",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Fr\u00e9d\u00e9ric Ch\u00e9reau",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        24,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

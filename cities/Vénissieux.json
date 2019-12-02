@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "15.33",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "69259",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason V\u00e9nissieux.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Auvergne-Rh\u00f4ne-Alpes",
+        null
+    ],
+    "term": [
+        null,
+        null
+    ],
+    "wikiPageExternalLink": [
+        "http://www.lion1906.com/Pages/ResultatLocalisation.php?InseeVille=690259",
+        null
+    ],
+    "caption": [
+        "Sunset over V\u00e9nissieux",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "V\u00e9nissieux ist eine franz\u00f6sische Gemeinde mit 61.636 Einwohnern (Stand 1. Januar 2013) in der M\u00e9tropole de Lyon in der Region Auvergne-Rh\u00f4ne-Alpes. Sie ist die drittgr\u00f6\u00dfte Gemeinde der M\u00e9tropole de Lyon und an die Lyoner Metro, Linie D, sowie die Lyoner Stra\u00dfenbahn, Linie 4, angebunden.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Minguettes2.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        727970119,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        3069393,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "61183",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "69200",
+        null
+    ],
+    "latitude": [
+        45.6978,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.8867,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        15330000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        229,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        171,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Lyon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        186,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

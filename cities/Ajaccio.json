@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "82.03",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "2A004",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Ajaccio.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Corsica",
+        null
+    ],
+    "term": [
+        2015,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ajaccio-tourisme.com",
+        null
+    ],
+    "caption": [
+        "The center of Ajaccio",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30a2\u30b8\u30e3\u30af\u30b7\u30aa\uff08\u30d5\u30e9\u30f3\u30b9\u8a9e: Ajaccio\u3001\u30b3\u30eb\u30b7\u30ab\u8a9e: Aiacciu \uff3b\u30a2\u30e4\u30c3\u30c1\u30e5\uff3d\u3001\u30a4\u30bf\u30ea\u30a2\u8a9e: Ajaccio [\u30a2\u30e4\u30c3\u30c1\u30e7]\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u306e\u30b3\u30eb\u30b9\u5730\u65b9\u516c\u5171\u56e3\u4f53\u3001\u30b3\u30eb\u30b7\u30ab\u5cf6\uff08\u30b3\u30eb\u30b9\u5cf6\uff09\u306e\u30b3\u30df\u30e5\u30fc\u30f3\u3002\u30b3\u30eb\u30b9\u5730\u65b9\u516c\u5171\u56e3\u4f53\u306e\u9996\u5e9c\u3067\u3042\u308a\u3001\u30b3\u30eb\u30b9\uff1d\u30c7\u30e5\uff1d\u30b7\u30e5\u30c9\u770c\u306e\u770c\u5e81\u6240\u5728\u5730\u3067\u3042\u308b\u3002\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u4e2d\u306e1943\u5e7410\u67088\u65e5\u3001\u30d5\u30e9\u30f3\u30b9\u9818\u5185\u3067\u6700\u521d\u306b\u30c9\u30a4\u30c4\u304b\u3089\u89e3\u653e\u3055\u308c\u305f\u8857\u3067\u3042\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ajaccio.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743290044,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2640,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "67507",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "20000",
+        null
+    ],
+    "latitude": [
+        41.9267,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        8.7369,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        82030000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Corse-du-Sud",
+        null
+    ],
+    "maximumElevation": [
+        787,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Ajaccio",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Pays Ajaccien",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Laurent Marcangeli",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        38,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

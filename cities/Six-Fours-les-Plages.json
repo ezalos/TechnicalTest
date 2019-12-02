@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "26.58",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "83129",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr SixFours .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Provence-Alpes-C\u00f4te_d'Azur",
+        null
+    ],
+    "term": [
+        2001,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.six-fours-les-plages.com/res1024/index.htm",
+        null
+    ],
+    "caption": [
+        "Six-Fours  seen from Cap N\u00e8gre",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Six-Fours-les-Plages (in occitano Si\u00e8is Four) \u00e8 un comune francese di 35.413 abitanti situato nel dipartimento del Varo della regione della Provenza-Alpi-Costa Azzurra.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Six-Fours-les-Plages.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        730094327,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5157631,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "34779",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "83140",
+        null
+    ],
+    "latitude": [
+        43.1009,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.82,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        26580000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Var_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        352,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Six-Fours-les-Plages",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Toulon Provence M\u00e9diterran\u00e9e",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Jean-S\u00e9bastien Vialatte",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        234,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

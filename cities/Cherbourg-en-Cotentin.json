@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "68.54",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "50129",
+        null
+    ],
+    "imageCoatOfArms": [
+        null,
+        null
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2016,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        null,
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Cherbourg-en-Cotentin is een stad en gemeente in het noorden van het schiereiland Cotentin in Normandi\u00eb in het noordwesten van Frankrijk. De stad is een onderprefectuur van het departement Manche. De zogenaamde commune nouvelle ontstond op 1 januari 2016 toen de gemeenten van het samenwerkingsverband Communaut\u00e9 urbaine de Cherbourg, Cherbourg-Octeville, \u00c9queurdreville-Hainneville, La Glacerie, Querqueville en Tourlaville fuseerden tot \u00e9\u00e9n gemeente. Cherbourg-Octeville was ontstaan in 2000 toen de overige gemeente van het in 1970 opgerichte gemeentelijk samenwerkingsverband na lokale referenda een fusie nog hadden afgewezen. \u00c9queurdreville-Hainneville was al in 1965 ontstaan door een gemeentefusie.",
+        null
+    ],
+    "thumbnail": [
+        null,
+        null
+    ],
+    "wikiPageRevisionID": [
+        744100325,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        49430351,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "80978",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "50100",
+        null
+    ],
+    "latitude": [
+        49.639,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -1.625,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        68540000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        6,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Beno\u00eet Arriv\u00e9",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "62.32",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "97213",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Le Lamentin .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.martinique.aeroport.fr/",
+        null
+    ],
+    "caption": [
+        "Aim\u00e9-C\u00e9saire International Airport in Le Lamentin",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Le Lamentin est une commune fran\u00e7aise, situ\u00e9e dans la Collectivit\u00e9 Territoriale de Martinique. Avec ses 62,32 km2, elle est la plus grande commune en superficie de la Martinique. Le Lamentin, avec pr\u00e8s de 40 000 habitants est la deuxi\u00e8me ville la plus peupl\u00e9e de Martinique apr\u00e8s Fort-de-France. C'est aussi la premi\u00e8re ville industrielle et le poumon \u00e9conomique de l'\u00eele. En effet, elle abrite sur son territoire 5 zones industrielles et 2 ZAC (ZI la L\u00e9zarde, ZI de la Jambette, ZI Les Mangles Acajou, ZI les Hauts de Californie, ZI de Places d'Armes, ZAC du Lareinty, ZAC de Manhity), la raffinerie de p\u00e9trole (La Sara) et les deux plus grands centres commerciaux de l'\u00eele (La Galleria et Place d'Armes). Sur le plan administratif, on trouve dans la commune du Lamentin, de grandes administrations telles que la CGSS (Caisse G\u00e9n\u00e9rale de S\u00e9curit\u00e9 Sociale), la CAF (Caisse d'Allocations Familiales) et la Chambre d'Agriculture. La commune du Lamentin accueille aussi sur son territoire l'a\u00e9roport international Martinique Aim\u00e9 C\u00e9saire.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Aeroport_Aime_Cesaire.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        716594589,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        5360977,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "40841",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "97232",
+        null
+    ],
+    "latitude": [
+        14.6,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -61,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "area": [
+        62320000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        363,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        -10,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Le Lamentin 1st Canton through Le Lamentin 3rd Canton",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Centre de la Martinique",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Pierre-Jean Samot",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "51.96",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "86066",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Ch\u00e2tellerault .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Poitou-Charentes",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://users.skynet.be/euro-swords/chatellerault.htm",
+        null
+    ],
+    "caption": [
+        "An aerial view of the centre of Ch\u00e2tellerault",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Ch\u00e2tellerault (pronounced: [\u0283a.t\u025bl.\u0281o]) is a commune in the Vienne department in the Poitou-Charentes region in France. It is located in the northeast of the former province Poitou, and the residents are called Ch\u00e2telleraudais.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Vuesud1.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737657887,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1029663,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "31537",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "86100",
+        null
+    ],
+    "latitude": [
+        46.8178,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        0.5461,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        51960000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Vienne",
+        null
+    ],
+    "maximumElevation": [
+        134,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        42,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Ch\u00e2tellerault",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Pays Ch\u00e2telleraudais",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        60,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

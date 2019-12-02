@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "8.77",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92023",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Clamart .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.avfclamart.com/",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Clamart  es una comuna (municipio) de Francia, en el suroeste de la regi\u00f3n de Isla de Francia, departamento de Altos del Sena, en el distrito de Antony. La comuna comprende la totalidad del cant\u00f3n hom\u00f3nimo y parte del de Le Plessis-Robinson. Se localiza a8.7 km (5.4 mi) del centro de Par\u00eds. La ciudad se divide en dos partes, separadas por un bosque, el Bosque de Clamart, cantado por Georges Brassens: El Bas-Clamart, que es el centro hist\u00f3rico, y el Petit-Clamart, una urbanizaci\u00f3n construida en los 60 en sustituci\u00f3n de plantaciones de guisantes. Est\u00e1 integrada en la Communaut\u00e9 d\u2019agglom\u00e9ration Sud de Seine, de la que es la mayor poblaci\u00f3n.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_clamart.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738171383,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1169254,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "51407",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92140",
+        null
+    ],
+    "latitude": [
+        48.8014,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2628,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        8770000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        175,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        64,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Antony",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Jean-Didier Berger",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

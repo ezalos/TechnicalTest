@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "2.57",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93006",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Bagnolet .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-bagnolet.fr/",
+        null
+    ],
+    "caption": [
+        "The Mercurial Towers and Bagnolet town hall, in 2004",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30d0\u30cb\u30e7\u30ec \uff08Bagnolet\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30a4\u30eb\uff1d\u30c9\uff1d\u30d5\u30e9\u30f3\u30b9\u5730\u57df\u570f\u3001\u30bb\u30fc\u30cc\uff1d\u30b5\u30f3\uff1d\u30c9\u30cb\u770c\u306e\u30b3\u30df\u30e5\u30fc\u30f3\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mercurial_et_Mairie_-_2004.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        738103563,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2218011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "35984",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93170",
+        null
+    ],
+    "latitude": [
+        48.8692,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4181,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        2570000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        119,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        57,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Bobigny",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Bagnolet",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Est Ensemble",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Tony Di Martino",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

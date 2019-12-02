@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "102.27",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "83061",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Fr\u00e9jus .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2006,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Provence-Alpes-C\u00f4te_d'Azur",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://perso.orange.fr/portfrejus/index2.htm",
+        null
+    ],
+    "caption": [
+        "The city hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Fr\u00e9jus (in occitano Frej\u00fas) \u00e8 un comune francese di 52.953 abitanti situato nel dipartimento del Varo della regione della Provenza-Alpi-Costa Azzurra. \u00c8 ricca di monumenti risalenti all'epoca romana molto interessanti (acquedotto, anfiteatro, arena).",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/MairieFr\u00e9jus.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        741865499,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1687466,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "52389",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "83600",
+        null
+    ],
+    "latitude": [
+        43.433,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.737,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        102270000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Var_(d\u00e9partement)",
+        null
+    ],
+    "maximumElevation": [
+        616,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Draguignan",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Fr\u00e9jus",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Var Est\u00e9rel M\u00e9diterran\u00e9e",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        8,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

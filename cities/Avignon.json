@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "64.78",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "84007",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Avignon .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2011,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Provence-Alpes-C\u00f4te_d'Azur",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.avignon.fr/en/",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Avignon is een stad in het zuiden van Frankrijk, in het departement Vaucluse.De stad is bereikbaar via de A7 en ligt niet ver van Orange. Avignon telde 89.380 inwoners in 2012, die Avignonais worden genoemd. Avignon heeft de bijnamen \"Babylon aan de Rh\u00f4ne\", en \"Proven\u00e7aalse pausenstad\". Het historische centrum is omgeven door een hoge stadsmuur van 4,2 kilometer lang met zeven poorten. Het centrum staat sinds 1995 op de Werelderfgoedlijst van UNESCO.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Avignon_(Vaucluse).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744165713,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        38166,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "90194",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "84000",
+        null
+    ],
+    "latitude": [
+        43.95,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.81,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        64780000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Vaucluse",
+        null
+    ],
+    "maximumElevation": [
+        122,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        10,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Avignon",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Capital of 4 Cantons",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        23,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

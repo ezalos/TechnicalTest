@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "19.62",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "06029",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Cannes .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.festival-pyrotechnique-cannes.com/",
+        null
+    ],
+    "caption": [
+        "The Promenade de la Croisette",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Cannes [kan] (okzitanisch Canas, von lateinisch canna \u201aSchilf\u2018) ist eine Stadt mit 73.325 Einwohnern (Stand 1. Januar 2013) in S\u00fcdfrankreich an der C\u00f4te d\u2019Azur im D\u00e9partement Alpes-Maritimes.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/CANNES_(festival1).jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744186588,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        81095,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "73603",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "06400",
+        null
+    ],
+    "latitude": [
+        43.5513,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        7.0128,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        19620000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Alpes-Maritimes",
+        null
+    ],
+    "maximumElevation": [
+        260,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Grasse",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

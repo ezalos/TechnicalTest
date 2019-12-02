@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "23.16",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "13054",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Marignane .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.marignane.fr/",
+        null
+    ],
+    "caption": [
+        "Chapel of Notre Dame de Piti\u00e9",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Marignane (en occitan proven\u00e7al [ma\u027ei\u02c8\u0272an\u0254], Marinhana selon la norme classique ou Marignano selon la norme mistralienne) est une commune fran\u00e7aise situ\u00e9e dans la r\u00e9gion Provence-Alpes-C\u00f4te d\u2019Azur, dans le d\u00e9partement des Bouches-du-Rh\u00f4ne. Elle est baign\u00e9e par les rives des \u00e9tangs de Berre et de Bolmon et travers\u00e9e par le canal du Rove. La ville est connue dans la r\u00e9gion pour h\u00e9berger l\u2019a\u00e9roport de Marseille Provence ainsi que le si\u00e8ge social et l'une des usines de conception et d'assemblage de la soci\u00e9t\u00e9 Airbus Helicopters (anciennement Eurocopter), fabricant d'h\u00e9licopt\u00e8res civils et militaires.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Chapelle_Notre_Dame_de_Piti\u00e9_-_Marignane_(13).JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737766905,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2695207,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "33909",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "13700",
+        null
+    ],
+    "latitude": [
+        43.4217,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.2342,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        23160000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        100,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Istres",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Marignane",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Eric Le Diss\u00e8s",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        15,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

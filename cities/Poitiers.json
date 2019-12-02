@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "289.11",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "86194",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Poitiers .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2015,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.vitalis-poitiers.fr",
+        null
+    ],
+    "caption": [
+        "Panoramic view of Poitiers at sunset.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Poitiers \u2014 prononc\u00e9 /pwa.tje/  en fran\u00e7ais est une commune du Centre-Ouest de la France, chef-lieu (pr\u00e9fecture) du d\u00e9partement de la Vienne. Ancienne capitale de la r\u00e9gion Poitou-Charentes, elle constitue d\u00e9sormais un p\u00f4le d'\u00e9quilibre de la r\u00e9gion Nouvelle-Aquitaine. Avec 87 427 habitants en 2013, Poitiers est la commune la plus peupl\u00e9e de la Vienne. Son agglom\u00e9ration compte 128 180 habitants en 2012, son unit\u00e9 urbaine constituant le p\u00f4le d'une aire urbaine de 255 831 habitants. La communaut\u00e9 d'agglom\u00e9ration du Grand Poitiers comptait, quant \u00e0 elle, 138 759 habitants au 1er janvier 2012. Ville d'art et d'histoire, celle qu'on surnomme encore \u00ab La ville aux cent clochers \u00bb ou \u00ab La ville aux cent \u00e9glises \u00bb est riche d'un important ensemble monumental comprenant notamment le baptist\u00e8re Saint-Jean (IVe si\u00e8cle), l'hypog\u00e9e des Dunes (VIIe si\u00e8cle), l'\u00e9glise Notre-Dame la Grande (XIIe si\u00e8cle), l'\u00e9glise Saint-Porchaire (XIIe si\u00e8cle) ou encore la cath\u00e9drale Saint-Pierre (fin du XIIe si\u00e8cle \u2014 d\u00e9but du XIIIe si\u00e8cle). Son centre historique concentre de nombreuses maisons \u00e0 colombages, quelques h\u00f4tels particuliers \u2014 h\u00f4tel Fum\u00e9, h\u00f4tel Jean Beauc\u00e9 \u2014 ainsi que l'ancien palais des comtes de Poitou, ducs d'Aquitaine (XIIe si\u00e8cle), o\u00f9 la reine de France Ali\u00e9nor d'Aquitaine tenait sa cour. Ce palais des ducs d'Aquitaine abrite aujourd'hui le palais de justice de Poitiers.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_ville_fr_Poitiers_(Vienne).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        732763633,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        51489,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "298339",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "86000",
+        null
+    ],
+    "latitude": [
+        46.58,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        0.34,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        289110000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        144,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        65,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "Prefecture",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Agglomeration community of Poitiers",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        75,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

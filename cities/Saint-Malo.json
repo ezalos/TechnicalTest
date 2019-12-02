@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "36.58",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "35288",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Saint-Malo.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-saint-malo.fr",
+        null
+    ],
+    "caption": [
+        "Walled city",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Saint-Malo (Bret\u00e3o: Sant-Malo\u00f9) \u00e9 uma comuna francesa situada no departamento de Ille-et-Vilaine, na regi\u00e3o Bretanha. Saint-Malo conta com cerca de 51 000 habitantes, mas este n\u00famero pode subir para 200 000 com a vinda de turistas no ver\u00e3o. Com os sub\u00farbios, a popula\u00e7\u00e3o \u00e9 de cerca de 135 000. A cidade foi fundada no seculo I a.C. Os romanos fortificaram a cidade, e no s\u00e9culo VI os monges irlandeses Brendan e Aaron estabeleceram um mosteiro na regi\u00e3o. O nome da cidade vem do Santo Bispo Maclou. Suas muralhas foram constru\u00eddas no seculo XII pelo Bispo Jean de Ch\u00e2tillon. No s\u00e9culo XX, um bombardeio pelo 3\u00ba ex\u00e9rcito do general Patton, mesmo destruindo a resist\u00eancia alem\u00e3, acabou por devastar a cidade, que demorou 30 anos para ser novamente restaurada. Atualmente \u00e9 um dos principais pontos tur\u00edsticos da Bretanha. O personagem mais c\u00e9lebre \u00e9 Jacques Cartier, um marinheiro que \u00e9 creditado pela descoberta do Canad\u00e1 no s\u00e9culo XVI.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau_de_Saint-Malo_(20\u00e8_si\u00e8cle).svg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        737977878,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        196794,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "44620",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "35400",
+        null
+    ],
+    "latitude": [
+        48.6481,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        -2.0075,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        36580000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        51,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Saint-Malo",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Saint-Malo-Nord and Saint-Malo-Sud",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Saint-Malo",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Claude Renoult",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        8,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "70.3",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "13103",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason de la ville de Salon-de-Provence .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.festival-salon.fr/",
+        null
+    ],
+    "caption": [
+        "A view of Salon-de-Provence, with the church and clock tower",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u666e\u7f57\u65fa\u65af\u8428\u9686\uff08\u6cd5\u8bed\uff1aSalon-de-Provence\uff09\uff0c\u53c8\u8bd1\u666e\u7f57\u65fa\u65af\u5730\u533a\u8428\u9686\uff0c\u662f\u6cd5\u56fd\u7f57\u8bb7\u6cb3\u53e3\u7701\u7684\u4e00\u4e2a\u5e02\u9547\uff0c\u5c5e\u4e8e\u666e\u7f57\u65fa\u65af\u5730\u533a\u827e\u514b\u65af\u533a\uff08Aix-en-Provence\uff09\u666e\u7f57\u65fa\u65af\u5730\u533a\u8428\u9686\u53bf\uff08Salon-de-Provence\uff09\u3002\u8be5\u5e02\u95472009\u5e74\u65f6\u7684\u4eba\u53e3\u4e3a42440\u4eba\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Salon-de-Provence.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        710264685,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1087522,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "43771",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "13300",
+        null
+    ],
+    "latitude": [
+        43.6406,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        5.0972,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        70300000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        325,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        53,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Aix-en-Provence",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Salon-de-Provence",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Salon-\u00c9tang de Berre-Durance",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

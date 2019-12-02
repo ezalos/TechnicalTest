@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "34.8",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "59350",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason_ville_fr_Lille_.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        "http://dbpedia.org/resource/Hauts-de-France",
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.lille.fr/",
+        null
+    ],
+    "caption": [
+        "Grand' place, Lille city centre.",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30ea\u30fc\u30eb\uff08\u30d5\u30e9\u30f3\u30b9\u8a9e\uff1aLille, \u30aa\u30e9\u30f3\u30c0\u8a9e\u30fb\u30d5\u30e9\u30de\u30f3\u8a9e\uff1aRijsel\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u5317\u90e8\u306e\u90fd\u5e02\u3067\u3001\u30d9\u30eb\u30ae\u30fc\u3068\u56fd\u5883\u3092\u63a5\u3059\u308b\u30aa\u30fc\uff1d\u30c9\uff1d\u30d5\u30e9\u30f3\u30b9\u5730\u57df\u570f\u306e\u9996\u5e9c\u3001\u30ce\u30fc\u30eb\u770c\u306e\u770c\u5e81\u6240\u5728\u5730\u3067\u3042\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Lille_vue_gd_place.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743118800,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        50116,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "228652",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "59000, 59800",
+        null
+    ],
+    "latitude": [
+        50.6278,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        3.0583,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        34800000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        "http://dbpedia.org/resource/Nord_(French_department)",
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        "Lille",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

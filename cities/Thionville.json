@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "49.86",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "57672",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Thionville .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2010,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        "Since 2014",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "wikiPageExternalLink": [
+        "https://sites.google.com/site/pascalbertrandthionville/",
+        null
+    ],
+    "caption": [
+        "Thionville",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Thionville (en alem\u00e1n Diedenhofen, en luxemburgu\u00e9s Diddenuewen), es una ciudad francesa situada en el noreste del pa\u00eds, en el departamento de Mosela, en la regi\u00f3n Alsacia-Champa\u00f1a-Ardenas-Lorena. Se localiza cerca del r\u00edo Mosela y de la frontera con Luxemburgo. Con 135.627 habitantes en su \u00e1rea urbana, es la 64\u00aa ciudad de Francia.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Thionville.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743014035,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        1228307,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "41015",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "57100",
+        null
+    ],
+    "latitude": [
+        49.3589,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        6.1692,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        49860000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        423,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        147,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Portes de France-Thionville",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Pierre Cuny",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        150,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

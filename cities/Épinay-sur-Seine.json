@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "4.57",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "93031",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason Epinay-sur-Seine 93.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2009,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.epinay-sur-seine.fr",
+        null
+    ],
+    "caption": [
+        "Town hall",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u00c9pinay-sur-Seine ist eine franz\u00f6sische Gemeinde im n\u00f6rdlichen Ballungsgebiet von Paris und befindet sich 11,3 km vom Pariser Stadtzentrum entfernt. Es ist eine der dichtestbev\u00f6lkerten Gemeinden Europas. Auf einer Fl\u00e4che von 457 Hektar leben 54.857 Einwohner (Stand 1. Januar 2013). Die Einwohner von \u00c9pinay-sur-Seine werden Spinassiens genannt.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Mairie_de_\u00c9pinay-sur-Seine.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        684909385,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        517566,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "53777",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "93800",
+        null
+    ],
+    "latitude": [
+        48.9553,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.3092,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        4570000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        null,
+        null
+    ],
+    "minimumElevation": [
+        null,
+        null
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        "\u00c9pinay-sur-Seine",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        "Herv\u00e9 Chevreau",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

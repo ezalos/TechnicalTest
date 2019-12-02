@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "8.42",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "62160",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Boulogne-sur-Mer .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2013,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "https://archive.org/stream/handbookfortrave1861john#page/n45/mode/2up",
+        null
+    ],
+    "caption": [
+        "A general view from the Brecquerecque Quarter: The lighthouse, the bell tower and the English Channel",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "Boulogne-sur-Mer (ndl. Bonen oder Beunen) ist eine franz\u00f6sische Gemeinde mit 42.537 Einwohnern (Stand 1. Januar 2013) im D\u00e9partement Pas-de-Calais (62) in der Region Hauts-de-France. Sie ist Unterpr\u00e4fektur des gleichnamigen Arrondissements.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Boulogne-sur-Mer.png?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        744137090,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        128242,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "42537",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "62200",
+        null
+    ],
+    "latitude": [
+        50.7264,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        1.6147,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        8420000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        110,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        0,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        null,
+        null
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

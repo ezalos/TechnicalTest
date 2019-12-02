@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "11.09",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "60175",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Creil .svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.insee.fr/fr/methodes/nomenclatures/cog/fichecommunale.asp?codedep=60&codecom=175",
+        null
+    ],
+    "caption": [
+        "Quartier St-M\u00e9dard",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30af\u30ec\u30a4\u30e6 \uff08Creil\uff09\u306f\u3001\u30d5\u30e9\u30f3\u30b9\u3001\u30d4\u30ab\u30eb\u30c7\u30a3\u30fc\u5730\u57df\u570f\u3001\u30aa\u30ef\u30fc\u30ba\u770c\u306e\u30b3\u30df\u30e5\u30fc\u30f3\u3002 \u30d1\u30ea\u5730\u65b9\u5317\u90e8\u3001\u30aa\u30ef\u30fc\u30ba\u5ddd\u8c37\u306b\u4f4d\u7f6e\u3059\u308b\u3002\u30af\u30ec\u30a4\u30e8\u30ef\u3068\u547c\u3070\u308c\u308b\u307b\u307c35000\u4eba\u306e\u4f4f\u6c11\u304c\u3044\u308b\u3053\u306e\u307e\u3061\u306f\u300110\u4e07\u4eba\u4ee5\u4e0a\u3044\u308b\u90fd\u5e02\u570f\u306e\u4e2d\u5fc3\u3067\u3042\u308a\u3001\u30aa\u30ef\u30fc\u30ba\u770c\u7b2c1\u306e\u3001\u5730\u57df\u570f\u7b2c2\u306e\u4eba\u53e3\u3092\u62b1\u3048\u308b\u3002 \u4e2d\u4e16\u306b\u306f\u738b\u5bb6\u306e\u5c45\u57ce\u304c\u3042\u308a\u3001\u30af\u30ec\u30a4\u30e6\u306f19\u4e16\u7d00\u306b\u306a\u3063\u3066\u4e3b\u3068\u3057\u3066\u958b\u767a\u3055\u308c\u305f\u30021844\u5e74\u304b\u3089\u9244\u9053\u306e\u5b58\u5728\u3068\u3001\u9996\u90fd\u30d1\u30ea\u3078\u306e\u8fd1\u3055\u3068\u3044\u3046\u6069\u6075\u3092\u53d7\u3051\u3066\u7523\u696d\u304c\u767a\u5c55\u3057\u305f\u3002\u521d\u671f\u306e\u7523\u696d\u306f\u30d5\u30a1\u30a4\u30a2\u30f3\u30b9\u713c\u304d\u306b\u7279\u5316\u3055\u308c\u3001\u91d1\u5c5e\u52a0\u5de5\u696d\u306e\u76db\u3093\u306a\u307e\u3061\u3068\u306a\u308a\u300120\u4e16\u7d00\u304b\u3089\u3044\u304f\u3064\u304b\u306e\u81ea\u52d5\u8eca\u5de5\u5834\u304c\u7f6e\u304b\u308c\u305f\u3002 \u53f2\u8de1\u306e\u96c6\u307e\u308b\u5834\u6240\u306f\u53f3\u5cb8\u306e\u30b5\u30f3\uff1d\u30e2\u30fc\u30ea\u30b9\u5cf6\u3067\u3042\u308b\u3002\u6226\u5f8c\u306e\u7d4c\u6e08\u5fa9\u8208\u671f\u306b\u3001\u30aa\u30ef\u30fc\u30ba\u5ddd\u8c37\u3092\u898b\u4e0b\u308d\u3059\u53f0\u5730\u4e0a\u306b\u96c6\u5408\u4f4f\u5b85\u7fa4\u3067\u69cb\u6210\u3055\u308c\u308b\u65b0\u305f\u306a\u5730\u533a\u304c\u3064\u304f\u3089\u308c\u305f\u3002 \u307e\u3061\u306f1970\u5e74\u4ee3\u304b\u3089\u91d1\u5c5e\u5316\u5de5\u696d\u304c\u4e0d\u666f\u6c17\u3068\u306a\u308a\u3001\u53f0\u5730\u4e0a\u306e\u5730\u533a\u306f\u5931\u696d\u554f\u984c\u3068\u793e\u4f1a\u554f\u984c\u304c\u96c6\u4e2d\u3057\u305f\u30022007\u5e74\u306b\u59cb\u307e\u3063\u305f\u90fd\u5e02\u518d\u751f\u4e8b\u696d\u306f\u3001\u5e02\u5185\u306e\u6570\u7b87\u6240\u306e\u9818\u57df\u3092\u30ab\u30d0\u30fc\u3057\u3066\u3044\u308b\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Quartier_Saint-M\u00e9dard.jpg?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        724987759,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        2736276,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "33936",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "60100",
+        null
+    ],
+    "latitude": [
+        49.2583,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.4833,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        11090000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        129,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        26,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Senlis",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        "Creil-Sud and Creil-Nogent-sur-Oise",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "intercommunality": [
+        "Agglom\u00e9ration creilloise",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        "Jean-Claude Villemain",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "6.17",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "92012",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville boulogne billancourt.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2008,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://mapage.noos.fr/hubert.demory/billancourt.htm",
+        null
+    ],
+    "caption": [
+        "The church of Our Lady of Boulogne-Billancourt",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "abstract": [
+        "\u30d6\u30ed\u30fc\u30cb\u30e5\uff1d\u30d3\u30e4\u30f3\u30af\u30fc\u30eb\uff08Boulogne-Billancourt\uff09\u306f\u30d5\u30e9\u30f3\u30b9\u4e2d\u5317\u90e8\u306e\u90fd\u5e02\u3067\u3042\u308b\u3002\u30a4\u30eb\uff1d\u30c9\uff1d\u30d5\u30e9\u30f3\u30b9\u5730\u57df\u570f\u30aa\u30fc\uff1d\u30c9\uff1d\u30bb\u30fc\u30cc\u770c\u306b\u5c5e\u3057\u3001\u30d1\u30ea\u8fd1\u90ca\u306e\u90fd\u5e02\u3068\u3057\u3066\u306f\u6700\u3082\u4eba\u53e3\u304c\u591a\u3044\u30021926\u5e74\u306b\u73fe\u5728\u306e\u540d\u79f0\u3068\u306a\u308b\u307e\u3067\u306f\u30d6\u30ed\u30fc\u30cb\u30e5\uff1d\u30b7\u30e5\u30eb\uff1d\u30bb\u30fc\u30cc\uff08Boulogne sur Seine\uff09\u3068\u547c\u3070\u308c\u3066\u3044\u305f\u3002",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Notre-dame_de_boulogne.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        743148529,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        141970,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "117126",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "92100",
+        null
+    ],
+    "latitude": [
+        48.8352,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        2.2409,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        6170000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        40,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        28,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Boulogne-Billancourt",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        null,
+        null
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        null,
+        null
+    ]
+}

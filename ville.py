@@ -1,9 +1,8 @@
-
 class Attributs:
 	def __init__(self):
 		self.mydict={}
-	def add_elem(self, key, value):
-		self.mydict[key] = value
+	def add_elem(self, key, value, type_value):
+		self.mydict[key] = [value, type_value]
 
 class Possessions:
 	def __init__(self):

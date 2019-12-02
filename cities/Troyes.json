@@ -1,0 +1,106 @@
+{
+    "PopulatedPlace/area": [
+        "13.2",
+        "http://dbpedia.org/datatype/squareKilometre"
+    ],
+    "inseeCode": [
+        "10387",
+        null
+    ],
+    "imageCoatOfArms": [
+        "Blason ville fr Troyes.svg",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "populationDate": [
+        2012,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "region": [
+        null,
+        null
+    ],
+    "term": [
+        2014,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageExternalLink": [
+        "http://www.ville-troyes.fr",
+        null
+    ],
+    "caption": [
+        null,
+        null
+    ],
+    "abstract": [
+        "Troyes (wym. t\u0281wa) \u2013 miasto i gmina we Francji, po\u0142o\u017cone nad Sekwan\u0105, w regionie Alzacja-Szampania-Ardeny-Lotaryngia, w departamencie Aube, w okr\u0119gu (arondissement) Troyes. Miasto by\u0142o historyczn\u0105 stolic\u0105 Szampanii. W 2009 roku gmin\u0119 zamieszkiwa\u0142o 62 812 os\u00f3b a zesp\u00f3\u0142 miejski liczy\u0142 126 000 mieszka\u0144c\u00f3w.",
+        null
+    ],
+    "thumbnail": [
+        "http://commons.wikimedia.org/wiki/Special:FilePath/Troyes_centre_ville1.JPG?width=300",
+        null
+    ],
+    "wikiPageRevisionID": [
+        736828718,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "wikiPageID": [
+        101607,
+        "http://www.w3.org/2001/XMLSchema#integer"
+    ],
+    "country": [
+        "http://dbpedia.org/resource/France",
+        null
+    ],
+    "populationTotal": [
+        "60009",
+        "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+    ],
+    "postalCode": [
+        "10000",
+        null
+    ],
+    "latitude": [
+        48.2997,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "longitude": [
+        4.0792,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "area": [
+        13200000,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "department": [
+        null,
+        null
+    ],
+    "maximumElevation": [
+        126,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "minimumElevation": [
+        100,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ],
+    "arrondissement": [
+        "Troyes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "canton": [
+        null,
+        null
+    ],
+    "intercommunality": [
+        "Troyes",
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+    ],
+    "mayor": [
+        null,
+        null
+    ],
+    "elevation": [
+        118,
+        "http://www.w3.org/2001/XMLSchema#double"
+    ]
+}

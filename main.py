@@ -16,9 +16,9 @@ class Cities:
 		self.city_complete_propreties = {}#has data wich we are not interested in
 		self.city_dictionnary = {}#dictionary of 'Schema Ville' of each city in city list
 
-	#This function will scrap the list of French cities of at least 30k habitant
-		#It uses a link from wikipedia citing them all in a table
-		#I'm able to extract them by using an xpath search
+	#This function will scrap the list of French cities of at least 30k inhabitants
+		#It uses a link from wikipedia where all cities are in a table
+		#I'm able to extract them by using an xpath search on the downloaded url
 	def scrap_city_list_of_at_least_30k(self):
 		url_cities = city_list_url
 		xpath_search = '//table/tbody/tr/td[2]/b/a'
@@ -32,10 +32,10 @@ class Cities:
 		    json.dump(self.city_list, json_file, sort_keys=False, indent=4)
 		print(self.city_list)
 
-	#This function allow me te treat each of the city in my list
-		#Each city has her link found in DBpedia
-		#Then get her relevant data put in dbpedia_city
-		#If cant be found, city is removed (3 cases in total)
+	#This function allows me te treat each city of my list
+		#Each city has its link found in DBpedia
+		#Then get its relevant data put in dbpedia_city
+		#If it cant be found, city is removed (smaller than 5 cases in total)
 	def fetch_propreties_from_DBpedia(self):
 		for idx, city_name in enumerate(self.city_list):
 			dbpedia_city = DBpedia(city_name)
@@ -44,9 +44,9 @@ class Cities:
 				print("It appears that " + city_name + " does not have data on DBpedia, it will be removed from dataset")
 				self.city_list.remove(dbpedia_city.name)
 
-	#This function looks through all propreties scrapped from dbpedia:
+	#This function looks through all properties scrapped from dbpedia:
 		#as a lot of them are irrelevant (Meteo, overspecific details,...)
-		#and therefore only select attributes shared by at least common_ratio of cities
+		#we therefore only select attributes shared by at least common_ratio of cities
 	def extract_common_propreties(self):
 		common_ratio = 1/3
 		print("Here are the common properties to at least " + str(common_ratio * 100).split(".")[0] + "% of the cities :")
@@ -59,7 +59,7 @@ class Cities:
 		with open('full_data.json', 'w') as json_file:
 		    json.dump(self.city_complete_propreties, json_file, sort_keys=False, indent=4)
 
-	#Scrapped data is stored in structured Classes and Dictionnaries
+	#Scrapped data is stored in structured Classes and Dictionaries
 	def fill_city_cards(self):
 		for city_name in self.city_list:
 			City_object = Ville()

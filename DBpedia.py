@@ -1,3 +1,5 @@
+import urllib.request, json
+
 domain = "http://dbpedia.org/"
 url_start = domain + "data/"
 url_end = ".json"

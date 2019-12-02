@@ -8,6 +8,7 @@ from ville import Ville
 import os
 
 city_list_url = "https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es#Communes_de_plus_de_30_000_habitants"
+
 class Cities:
 	def __init__(self):
 		self.city_list = []#all french cities of at least 30k

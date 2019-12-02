@@ -480,14 +480,14 @@
             "value": "32.3",
             "datatype": "http://dbpedia.org/datatype/squareKilometre"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "102.27",
-            "datatype": "http://dbpedia.org/datatype/squareKilometre"
-        },
         "Bondy": {
             "type": "literal",
             "value": "5.47",
+            "datatype": "http://dbpedia.org/datatype/squareKilometre"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "102.27",
             "datatype": "http://dbpedia.org/datatype/squareKilometre"
         },
         "Arles": {
@@ -1536,13 +1536,13 @@
             "type": "literal",
             "value": "56260"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "83061"
-        },
         "Bondy": {
             "type": "literal",
             "value": "93010"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "83061"
         },
         "Arles": {
             "type": "literal",
@@ -2524,14 +2524,14 @@
             "value": "COA fr Vannes 56.svg",
             "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "Blason ville fr Fr\u00e9jus .svg",
-            "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
-        },
         "Bondy": {
             "type": "literal",
             "value": "Blason_bondy.svg",
+            "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "Blason ville fr Fr\u00e9jus .svg",
             "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
         },
         "Arles": {
@@ -3606,14 +3606,14 @@
             "value": 2012,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 2006,
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
-        },
         "Bondy": {
             "type": "literal",
             "value": 2013,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 2006,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
         },
         "Arles": {
@@ -22245,12 +22245,12 @@
             "value": 2011,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
         },
-        "Fr\u00e9jus": {
+        "Bondy": {
             "type": "literal",
             "value": 2014,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
         },
-        "Bondy": {
+        "Fr\u00e9jus": {
             "type": "literal",
             "value": 2014,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
@@ -23366,13 +23366,13 @@
             "type": "uri",
             "value": "http://www.culture.gouv.fr/public/mistral/merimee_fr?ACTION=CHERCHER&FIELD_98=INSEE&VALUE_98=56260"
         },
-        "Fr\u00e9jus": {
-            "type": "uri",
-            "value": "http://perso.orange.fr/portfrejus/index2.htm"
-        },
         "Bondy": {
             "type": "uri",
             "value": "http://www.insee.fr/en/home/home_page.asp"
+        },
+        "Fr\u00e9jus": {
+            "type": "uri",
+            "value": "http://perso.orange.fr/portfrejus/index2.htm"
         },
         "Arles": {
             "type": "uri",
@@ -24354,14 +24354,14 @@
             "value": "Montage of Vannes",
             "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "The city hall",
-            "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
-        },
         "Bondy": {
             "type": "literal",
             "value": "The commercial zone of Bondy on the N3 road",
+            "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "The city hall",
             "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
         },
         "Arles": {
@@ -25428,15 +25428,15 @@
             "value": "Vannes (Bret\u00e3o: Gwened) \u00e9 uma comuna francesa na regi\u00e3o administrativa da Bretanha, no departamento Morbihan. Estende-se por uma \u00e1rea de 32,3 km\u00b2. Em 2010 a comuna tinha 52 515 habitantes (densidade: 1 625,9 hab./km\u00b2).413 hab/km\u00b2.",
             "lang": "pt"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "Fr\u00e9jus (in occitano Frej\u00fas) \u00e8 un comune francese di 52.953 abitanti situato nel dipartimento del Varo della regione della Provenza-Alpi-Costa Azzurra. \u00c8 ricca di monumenti risalenti all'epoca romana molto interessanti (acquedotto, anfiteatro, arena).",
-            "lang": "it"
-        },
         "Bondy": {
             "type": "literal",
             "value": "Bondy (French pronunciation: \u200b[b\u0254\u0303.di]) is a commune in the northeastern suburbs of Paris, France. It is located 10.9 km (6.8 mi) from the centre of Paris.",
             "lang": "en"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "Fr\u00e9jus (in occitano Frej\u00fas) \u00e8 un comune francese di 52.953 abitanti situato nel dipartimento del Varo della regione della Provenza-Alpi-Costa Azzurra. \u00c8 ricca di monumenti risalenti all'epoca romana molto interessanti (acquedotto, anfiteatro, arena).",
+            "lang": "it"
         },
         "Arles": {
             "type": "literal",
@@ -26509,13 +26509,13 @@
             "type": "uri",
             "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Vannes_montage.png?width=300"
         },
-        "Fr\u00e9jus": {
-            "type": "uri",
-            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/MairieFr\u00e9jus.JPG?width=300"
-        },
         "Bondy": {
             "type": "uri",
             "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Blason_bondy.svg?width=300"
+        },
+        "Fr\u00e9jus": {
+            "type": "uri",
+            "value": "http://commons.wikimedia.org/wiki/Special:FilePath/MairieFr\u00e9jus.JPG?width=300"
         },
         "Arles": {
             "type": "uri",
@@ -27613,14 +27613,14 @@
             "value": 743173220,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 741865499,
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
-        },
         "Bondy": {
             "type": "literal",
             "value": 741118514,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 741865499,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
         },
         "Arles": {
@@ -28960,14 +28960,14 @@
             "value": 716980,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 1687466,
-            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
-        },
         "Bondy": {
             "type": "literal",
             "value": 517562,
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 1687466,
             "datatype": "http://www.w3.org/2001/XMLSchema#integer"
         },
         "Arles": {
@@ -30125,11 +30125,11 @@
             "type": "uri",
             "value": "http://dbpedia.org/resource/France"
         },
-        "Fr\u00e9jus": {
+        "Bondy": {
             "type": "uri",
             "value": "http://dbpedia.org/resource/France"
         },
-        "Bondy": {
+        "Fr\u00e9jus": {
             "type": "uri",
             "value": "http://dbpedia.org/resource/France"
         },
@@ -31211,14 +31211,14 @@
             "value": "52648",
             "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "52389",
-            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
-        },
         "Bondy": {
             "type": "literal",
             "value": "52865",
+            "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "52389",
             "datatype": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"
         },
         "Arles": {
@@ -32247,13 +32247,13 @@
             "type": "literal",
             "value": "56000"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "83600"
-        },
         "Bondy": {
             "type": "literal",
             "value": "93140"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "83600"
         },
         "Arles": {
             "type": "literal",
@@ -39625,14 +39625,14 @@
             "value": 47.6559,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 43.433,
-            "datatype": "http://www.w3.org/2001/XMLSchema#double"
-        },
         "Bondy": {
             "type": "literal",
             "value": 48.9022,
+            "datatype": "http://www.w3.org/2001/XMLSchema#double"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 43.433,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
         "Arles": {
@@ -40777,14 +40777,14 @@
             "value": -2.7603,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 6.737,
-            "datatype": "http://www.w3.org/2001/XMLSchema#double"
-        },
         "Bondy": {
             "type": "literal",
             "value": 2.4828,
+            "datatype": "http://www.w3.org/2001/XMLSchema#double"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 6.737,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
         "Arles": {
@@ -57088,14 +57088,14 @@
             "value": 32300000,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 102270000,
-            "datatype": "http://www.w3.org/2001/XMLSchema#double"
-        },
         "Bondy": {
             "type": "literal",
             "value": 5470000,
+            "datatype": "http://www.w3.org/2001/XMLSchema#double"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 102270000,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
         "Arles": {
@@ -65034,14 +65034,14 @@
             "value": 56,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 616,
-            "datatype": "http://www.w3.org/2001/XMLSchema#double"
-        },
         "Bondy": {
             "type": "literal",
             "value": 65,
+            "datatype": "http://www.w3.org/2001/XMLSchema#double"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 616,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
         "Arles": {
@@ -66026,14 +66026,14 @@
             "value": 0,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 0,
-            "datatype": "http://www.w3.org/2001/XMLSchema#double"
-        },
         "Bondy": {
             "type": "literal",
             "value": 37,
+            "datatype": "http://www.w3.org/2001/XMLSchema#double"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 0,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
         "Arles": {
@@ -66923,14 +66923,14 @@
             "value": "Vannes",
             "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "Draguignan",
-            "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
-        },
         "Bondy": {
             "type": "literal",
             "value": "Bobigny",
+            "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "Draguignan",
             "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
         },
         "Arles": {
@@ -71179,14 +71179,14 @@
             "value": "Pays de Vannes",
             "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": "Var Est\u00e9rel M\u00e9diterran\u00e9e",
-            "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
-        },
         "Bondy": {
             "type": "literal",
             "value": "Est Ensemble",
+            "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": "Var Est\u00e9rel M\u00e9diterran\u00e9e",
             "datatype": "http://www.w3.org/1999/02/22-rdf-syntax-ns#langString"
         },
         "Sartrouville": {
@@ -73150,14 +73150,14 @@
             "value": 22,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
-        "Fr\u00e9jus": {
-            "type": "literal",
-            "value": 8,
-            "datatype": "http://www.w3.org/2001/XMLSchema#double"
-        },
         "Bondy": {
             "type": "literal",
             "value": 52,
+            "datatype": "http://www.w3.org/2001/XMLSchema#double"
+        },
+        "Fr\u00e9jus": {
+            "type": "literal",
+            "value": 8,
             "datatype": "http://www.w3.org/2001/XMLSchema#double"
         },
         "Arles": {
